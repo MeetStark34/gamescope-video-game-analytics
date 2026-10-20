@@ -1,6 +1,6 @@
 # GameScope Data Cleaning Report
 
-Pipeline run: 2026-10-20T13:37:01+02:00
+Pipeline run: 2026-10-20T15:42:23+02:00
 
 ## Scope
 
@@ -21,18 +21,18 @@ The pipeline reads each source independently and writes cleaned copies under `da
 
 ## Files produced
 
-- Processed CSV files: `D:\VSC\University Projects\DataWrangling\data\processed`.
-- Row-level transformation and duplicate log: `D:\VSC\University Projects\DataWrangling\data\processed\cleaning_audit.jsonl`.
-- Run summary: `D:\VSC\University Projects\DataWrangling\data\processed\cleaning_summary.json`.
-- Dtype/schema contract: `D:\VSC\University Projects\DataWrangling\data\processed\cleaning_schema.json`.
-- Validation result: `D:\VSC\University Projects\DataWrangling\data\processed\validation_report.json`.
+- Processed CSV files: `data/processed`.
+- Row-level transformation and duplicate log: `data/processed/cleaning_audit.jsonl`.
+- Run summary: `data/processed/cleaning_summary.json`.
+- Dtype/schema contract: `data/processed/cleaning_schema.json`.
+- Validation result: `data/processed/validation_report.json`.
 
 ## Dataset results
 
 ### vgsales.csv
 
-- Input: `D:\VSC\University Projects\DataWrangling\vgsales.csv` (16,598 rows, 11 columns).
-- Output: `D:\VSC\University Projects\DataWrangling\data\processed\vgsales_clean.csv` (16,598 rows, 13 columns).
+- Input: `vgsales.csv` (16,598 rows, 11 columns).
+- Output: `vgsales_clean.csv` (16,598 rows, 13 columns).
 - Logged cell transformation events: 276; distinct source rows with at least one logged value change: 276.
 - Field-level events: `{"Year": 271, "Name": 5}`.
 - Numeric/date parse failures set to missing: `{"Year": 271}`.
@@ -44,8 +44,8 @@ The pipeline reads each source independently and writes cleaned copies under `da
 
 ### vgchartz-2024.csv
 
-- Input: `D:\VSC\University Projects\DataWrangling\vgchartz-2024.csv` (64,016 rows, 14 columns).
-- Output: `D:\VSC\University Projects\DataWrangling\data\processed\vgchartz_2024_clean.csv` (64,016 rows, 16 columns).
+- Input: `vgchartz-2024.csv` (64,016 rows, 14 columns).
+- Output: `vgchartz_2024_clean.csv` (64,016 rows, 16 columns).
 - Logged cell transformation events: 107,546; distinct source rows with at least one logged value change: 62,490.
 - Field-level events: `{"last_update": 107398, "developer": 80, "title": 38, "img": 8, "publisher": 22}`.
 - Numeric/date parse failures set to missing: `{}`.

@@ -28,6 +28,18 @@ const files = [
 ];
 
 await mkdir(publicDir, { recursive: true });
+async function verifyStaticSnapshot() {
+  await access(path.join(publicDir, "dashboard_manifest.json"));
+  for (const file of files.filter((item) => item.endsWith(".json"))) {
+    const payload = await readFile(path.join(publicDir, file), "utf8");
+    JSON.parse(payload);
+  }
+}
+
+if (process.env.VERCEL === "1") {
+  await verifyStaticSnapshot();
+  process.stdout.write("Using the checked-in dashboard analytics snapshot; Python and raw datasets are not required for this build.\n");
+} else {
 try {
   await access(path.join(sourceDir, "manifest.json"));
   for (const file of files) {
@@ -47,12 +59,10 @@ try {
     exported_files: files.filter((file) => file.endsWith(".json")).length,
   };
   await writeFile(path.join(publicDir, "dashboard_manifest.json"), `${JSON.stringify(publicManifest, null, 2)}\n`);
-  console.log(`Synced prepared analytics files from ${sourceDir}`);
+  process.stdout.write("Synced prepared analytics snapshot.\n");
 } catch (error) {
   if (!error || typeof error !== "object" || !("code" in error) || error.code !== "ENOENT") throw error;
-  await access(path.join(publicDir, "dashboard_manifest.json"));
-  for (const file of files.filter((item) => item.endsWith(".json"))) {
-    await access(path.join(publicDir, file));
-  }
-  console.log("Using the checked-in dashboard analytics snapshot; Python and raw datasets are not required for this build.");
+  await verifyStaticSnapshot();
+  process.stdout.write("Using the checked-in dashboard analytics snapshot; Python and raw datasets are not required for this build.\n");
+}
 }

@@ -30,6 +30,8 @@ npm run build
 npm start
 ```
 
+`npm run lint` is a dependency-free source-hygiene check for trailing whitespace, debug logging/statements, and hardcoded Windows paths. `npm run typecheck` runs TypeScript's strict compiler check.
+
 The build does not need Python, raw CSVs, or machine-specific paths. Do not add secrets or environment values; none are currently required.
 
 ## Vercel

@@ -2,13 +2,13 @@
 
 ## Purpose and scope
 
-This document is the technical architecture and staged implementation plan for GameScope. It covers both the university assignment and the proposed dashboard. This is planning only: no data cleaning, analytical pipeline, notebook, or dashboard has been implemented.
+This document records the original technical architecture and staged implementation plan for GameScope. It was written before the audit, cleaning pipeline, analytics, notebook, and dashboard were built. Those stages have since been implemented; use the root `README.md` for current setup and deployment instructions. Publication and licensing decisions remain separate release steps.
 
 The assignment specification formally requires a Jupyter notebook with commented code, explanatory text, visualizations, and a short conclusion. `vgsales.csv` is the primary dataset for those required assignment analyses. `vgchartz-2024.csv` is supplemental and reserved for the project's Advanced Analysis unless an explicitly approved extension states otherwise. The dashboard is an additional project deliverable. Python is the source of truth for cleaning and calculations; Next.js presents prepared, versioned outputs and handles lightweight interaction.
 
 ## Current workspace and inspected inputs
 
-The workspace currently contains `project_desc.pdf`, `vgsales.csv`, `vgchartz-2024.csv`, and this plan. There is no application scaffold, dependency manifest, or Git repository metadata. CSV inspection was read-only.
+The original inspection found the source CSVs and assignment specification in the project root. The implemented project now has Python modules under `python/`, the EDA notebook under `analysis/`, generated reports under `reports/`, processed output paths under `data/processed/`, and the Next.js app under `dashboard/`. The raw CSVs remain local and are excluded by `.gitignore`. This working directory has no `.git` metadata; initialize or connect a GitHub repository as a separate publication action.
 
 ### `vgsales.csv`
 
@@ -381,9 +381,9 @@ After repository/deployment authorization, publish the approved code/artifacts, 
 
 **Gate:** published release links to methodology, versioned output provenance, and data acquisition/licensing notes.
 
-## Current boundary
+## Current status
 
-Only architecture and planning are authorized at this stage. Do not begin dashboard implementation, create a Next.js scaffold, clean or rewrite CSVs, choose unapproved custom-metric weights, or publish anything until the corresponding next instruction and methodology decisions are provided.
+The audit, source-preserving cleaning pipeline, primary and supplemental analyses, notebook, analytics exports, and dashboard described in this plan have been implemented. The exact metric definitions are documented in `reports/advanced-analysis.md`; current commands are in `README.md`. Public release still requires checking dataset redistribution terms and selecting a project license. No source CSV is rewritten by the pipeline.
 
 
 

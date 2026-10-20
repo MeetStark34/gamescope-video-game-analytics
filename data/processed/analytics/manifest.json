@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "pipeline_version": "gamescope_analytics_v2",
-  "generated_at": "2026-10-20T15:23:22+02:00",
+  "generated_at": "2026-10-20T15:42:46+02:00",
   "source_dataset": "vgsales.csv",
-  "source_processed_path": "D:\\VSC\\University Projects\\DataWrangling\\data\\processed\\vgsales_clean.csv",
+  "source_processed_path": "data/processed/vgsales_clean.csv",
   "source_rows": 16598,
   "advanced_source_dataset": "vgchartz-2024.csv",
-  "advanced_source_processed_path": "D:\\VSC\\University Projects\\DataWrangling\\data\\processed\\vgchartz_2024_clean.csv",
+  "advanced_source_processed_path": "data/processed/vgchartz_2024_clean.csv",
   "advanced_source_rows": 64016,
   "row_policy": "No input records removed by analytics; group-specific missing-value eligibility is documented per output.",
   "outputs": {

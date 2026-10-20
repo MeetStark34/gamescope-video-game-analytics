@@ -187,7 +187,7 @@ No environment variables, API keys, or external services are required. [`.env.ex
 
 ## Development
 
-The dashboard scripts are `npm run lint`, `npm run typecheck`, `npm run check`, and `npm run build`. `npm run sync:data` refreshes the app's static snapshot from `data/processed/analytics/` when available. Run Python from the repository root so the default input and output paths resolve correctly. Do not commit raw datasets, credentials, local environment files, or generated cleaning metadata containing machine-specific details.
+The dashboard scripts are `npm run lint`, `npm run typecheck`, `npm run check`, and `npm run build`. The lightweight lint command checks source hygiene (trailing whitespace, debug statements/logging, and hardcoded Windows paths); TypeScript checking runs separately. `npm run sync:data` refreshes the app's static snapshot from `data/processed/analytics/` when available. Run Python from the repository root so the default input and output paths resolve correctly. Do not commit raw datasets, credentials, local environment files, or generated cleaning metadata containing machine-specific details.
 
 ## Production build
 

@@ -4,10 +4,7 @@
 /data/raw/
 
 # Generated cleaning/intermediate outputs can contain local run metadata.
-/data/processed/*
-!/data/processed/analytics/
-/data/processed/analytics/*
-!/data/processed/analytics/*.json
+/data/processed/
 
 # Python environments, bytecode, and test/editor caches.
 .venv/
@@ -27,6 +24,7 @@ dashboard/out/
 dashboard/.vercel/
 dashboard/.env*
 !dashboard/.env.example
+dashboard/public/data/analytics/*.csv
 .env
 .env.*
 !.env.example
