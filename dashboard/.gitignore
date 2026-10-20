@@ -2,4 +2,6 @@ node_modules/
 .next/
 out/
 next-env.d.ts.tmp
-public/data/analytics/
+public/data/analytics/*
+!public/data/analytics/
+!public/data/analytics/*.json

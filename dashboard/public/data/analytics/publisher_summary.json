@@ -1,0 +1,7629 @@
+[
+  {
+    "publisher": "Nintendo",
+    "game_count": 703,
+    "games_with_sales": 703,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 1786.5599999999981,
+    "global_sales_share": 0.2002771163753964
+  },
+  {
+    "publisher": "Electronic Arts",
+    "game_count": 1351,
+    "games_with_sales": 1351,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 1110.3199999999915,
+    "global_sales_share": 0.1244691965866966
+  },
+  {
+    "publisher": "Activision",
+    "game_count": 975,
+    "games_with_sales": 975,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 727.4599999999983,
+    "global_sales_share": 0.0815497890238479
+  },
+  {
+    "publisher": "Sony Computer Entertainment",
+    "game_count": 683,
+    "games_with_sales": 683,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 607.4999999999989,
+    "global_sales_share": 0.06810202187335058
+  },
+  {
+    "publisher": "Ubisoft",
+    "game_count": 921,
+    "games_with_sales": 921,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 474.71999999999935,
+    "global_sales_share": 0.053217105882661736
+  },
+  {
+    "publisher": "Take-Two Interactive",
+    "game_count": 413,
+    "games_with_sales": 413,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 399.5399999999996,
+    "global_sales_share": 0.04478927048440908
+  },
+  {
+    "publisher": "THQ",
+    "game_count": 715,
+    "games_with_sales": 715,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 340.7699999999994,
+    "global_sales_share": 0.038201030442438985
+  },
+  {
+    "publisher": "Konami Digital Entertainment",
+    "game_count": 832,
+    "games_with_sales": 832,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 283.639999999998,
+    "global_sales_share": 0.03179663783400339
+  },
+  {
+    "publisher": "Sega",
+    "game_count": 639,
+    "games_with_sales": 639,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 272.98999999999927,
+    "global_sales_share": 0.030602750536964544
+  },
+  {
+    "publisher": "Namco Bandai Games",
+    "game_count": 932,
+    "games_with_sales": 932,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 254.0900000000008,
+    "global_sales_share": 0.028484020967571584
+  },
+  {
+    "publisher": "Microsoft Game Studios",
+    "game_count": 189,
+    "games_with_sales": 189,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 245.79000000000005,
+    "global_sales_share": 0.02755357359053642
+  },
+  {
+    "publisher": "Capcom",
+    "game_count": 381,
+    "games_with_sales": 381,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 200.89000000000001,
+    "global_sales_share": 0.022520189587057492
+  },
+  {
+    "publisher": "Atari",
+    "game_count": 363,
+    "games_with_sales": 363,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 157.22000000000025,
+    "global_sales_share": 0.017624691158729576
+  },
+  {
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "game_count": 232,
+    "games_with_sales": 232,
+    "genre_count": 9,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Shooter",
+      "Strategy"
+    ],
+    "global_sales_total": 153.89000000000013,
+    "global_sales_share": 0.017251391186979343
+  },
+  {
+    "publisher": "Square Enix",
+    "game_count": 233,
+    "games_with_sales": 233,
+    "genre_count": 9,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Puzzle",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Strategy"
+    ],
+    "global_sales_total": 145.18000000000026,
+    "global_sales_share": 0.016274981951560616
+  },
+  {
+    "publisher": "Disney Interactive Studios",
+    "game_count": 218,
+    "games_with_sales": 218,
+    "genre_count": 10,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 119.96000000000004,
+    "global_sales_share": 0.013447767150497373
+  },
+  {
+    "publisher": "Eidos Interactive",
+    "game_count": 198,
+    "games_with_sales": 198,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 98.97999999999998,
+    "global_sales_share": 0.01109586522637737
+  },
+  {
+    "publisher": "LucasArts",
+    "game_count": 90,
+    "games_with_sales": 90,
+    "genre_count": 7,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Strategy"
+    ],
+    "global_sales_total": 87.34000000000003,
+    "global_sales_share": 0.00979099685665589
+  },
+  {
+    "publisher": "Bethesda Softworks",
+    "game_count": 71,
+    "games_with_sales": 71,
+    "genre_count": 7,
+    "genres": [
+      "Action",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 82.14000000000003,
+    "global_sales_share": 0.009208065969838732
+  },
+  {
+    "publisher": "Midway Games",
+    "game_count": 198,
+    "games_with_sales": 198,
+    "genre_count": 10,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 69.84999999999994,
+    "global_sales_share": 0.007830331239265092
+  },
+  {
+    "publisher": "Acclaim Entertainment",
+    "game_count": 184,
+    "games_with_sales": 184,
+    "genre_count": 11,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 64.13999999999997,
+    "global_sales_share": 0.007190228284702408
+  },
+  {
+    "publisher": "Vivendi Games",
+    "game_count": 164,
+    "games_with_sales": 164,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 58.21000000000002,
+    "global_sales_share": 0.006525462869543616
+  },
+  {
+    "publisher": "SquareSoft",
+    "game_count": 52,
+    "games_with_sales": 52,
+    "genre_count": 7,
+    "genres": [
+      "Fighting",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 57.65,
+    "global_sales_share": 0.00646268569711715
+  },
+  {
+    "publisher": "505 Games",
+    "game_count": 192,
+    "games_with_sales": 192,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 55.91000000000003,
+    "global_sales_share": 0.006267628054220643
+  },
+  {
+    "publisher": "Tecmo Koei",
+    "game_count": 338,
+    "games_with_sales": 338,
+    "genre_count": 11,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 53.55000000000003,
+    "global_sales_share": 0.006003067113280548
+  },
+  {
+    "publisher": "Codemasters",
+    "game_count": 152,
+    "games_with_sales": 152,
+    "genre_count": 10,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 47.870000000000026,
+    "global_sales_share": 0.00536632722152642
+  },
+  {
+    "publisher": "Virgin Interactive",
+    "game_count": 62,
+    "games_with_sales": 62,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 43.87000000000001,
+    "global_sales_share": 0.004917918847051682
+  },
+  {
+    "publisher": "Unknown",
+    "game_count": 203,
+    "games_with_sales": 203,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 34.66000000000005,
+    "global_sales_share": 0.0038854585648236037
+  },
+  {
+    "publisher": "Enix Corporation",
+    "game_count": 30,
+    "games_with_sales": 30,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Misc",
+      "Role-Playing",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 33.739999999999974,
+    "global_sales_share": 0.003782324638694405
+  },
+  {
+    "publisher": "Deep Silver",
+    "game_count": 122,
+    "games_with_sales": 122,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 25.670000000000005,
+    "global_sales_share": 0.0028776607431916265
+  },
+  {
+    "publisher": "GT Interactive",
+    "game_count": 45,
+    "games_with_sales": 45,
+    "genre_count": 8,
+    "genres": [
+      "Action",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Racing",
+      "Shooter",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 25.229999999999993,
+    "global_sales_share": 0.0028283358219994043
+  },
+  {
+    "publisher": "D3Publisher",
+    "game_count": 184,
+    "games_with_sales": 184,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 24.13000000000001,
+    "global_sales_share": 0.0027050235190188535
+  },
+  {
+    "publisher": "Sony Computer Entertainment Europe",
+    "game_count": 15,
+    "games_with_sales": 15,
+    "genre_count": 6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Platform",
+      "Shooter",
+      "Simulation"
+    ],
+    "global_sales_total": 23.890000000000008,
+    "global_sales_share": 0.002678119016550369
+  },
+  {
+    "publisher": "Hudson Soft",
+    "game_count": 81,
+    "games_with_sales": 81,
+    "genre_count": 11,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 23.01000000000002,
+    "global_sales_share": 0.002579469174165928
+  },
+  {
+    "publisher": "MTV Games",
+    "game_count": 41,
+    "games_with_sales": 41,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 20.97,
+    "global_sales_share": 0.0023507809031838097
+  },
+  {
+    "publisher": "Universal Interactive",
+    "game_count": 23,
+    "games_with_sales": 23,
+    "genre_count": 6,
+    "genres": [
+      "Action",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 17.770000000000003,
+    "global_sales_share": 0.0019920542036040204
+  },
+  {
+    "publisher": "Banpresto",
+    "game_count": 73,
+    "games_with_sales": 73,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 17.400000000000013,
+    "global_sales_share": 0.0019505764289651083
+  },
+  {
+    "publisher": "Rising Star Games",
+    "game_count": 86,
+    "games_with_sales": 86,
+    "genre_count": 11,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 17.310000000000006,
+    "global_sales_share": 0.001940487240539426
+  },
+  {
+    "publisher": "Infogrames",
+    "game_count": 62,
+    "games_with_sales": 62,
+    "genre_count": 11,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 16.340000000000003,
+    "global_sales_share": 0.0018317482097293019
+  },
+  {
+    "publisher": "Majesco Entertainment",
+    "game_count": 92,
+    "games_with_sales": 92,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 16.08,
+    "global_sales_share": 0.0018026016653884434
+  },
+  {
+    "publisher": "Hasbro Interactive",
+    "game_count": 16,
+    "games_with_sales": 16,
+    "genre_count": 6,
+    "genres": [
+      "Action",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Shooter"
+    ],
+    "global_sales_total": 15.219999999999999,
+    "global_sales_share": 0.0017061938648763749
+  },
+  {
+    "publisher": "N/A",
+    "game_count": 58,
+    "games_with_sales": 58,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 14.879999999999992,
+    "global_sales_share": 0.0016680791530460214
+  },
+  {
+    "publisher": "Nippon Ichi Software",
+    "game_count": 105,
+    "games_with_sales": 105,
+    "genre_count": 8,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Role-Playing",
+      "Shooter",
+      "Strategy"
+    ],
+    "global_sales_total": 14.279999999999989,
+    "global_sales_share": 0.0016008178968748106
+  },
+  {
+    "publisher": "989 Studios",
+    "game_count": 14,
+    "games_with_sales": 14,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Racing",
+      "Sports"
+    ],
+    "global_sales_total": 13.32,
+    "global_sales_share": 0.0014931998870008748
+  },
+  {
+    "publisher": "Zoo Digital Publishing",
+    "game_count": 104,
+    "games_with_sales": 104,
+    "genre_count": 11,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 12.86999999999999,
+    "global_sales_share": 0.0014427539448724658
+  },
+  {
+    "publisher": "Atlus",
+    "game_count": 67,
+    "games_with_sales": 67,
+    "genre_count": 11,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 12.739999999999995,
+    "global_sales_share": 0.0014281806727020373
+  },
+  {
+    "publisher": "Level 5",
+    "game_count": 27,
+    "games_with_sales": 27,
+    "genre_count": 7,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Puzzle",
+      "Role-Playing",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 12.170000000000002,
+    "global_sales_share": 0.0013642824793393881
+  },
+  {
+    "publisher": "Empire Interactive",
+    "game_count": 52,
+    "games_with_sales": 52,
+    "genre_count": 10,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 11.289999999999996,
+    "global_sales_share": 0.0012656326369549452
+  },
+  {
+    "publisher": "ASCII Entertainment",
+    "game_count": 20,
+    "games_with_sales": 20,
+    "genre_count": 7,
+    "genres": [
+      "Adventure",
+      "Misc",
+      "Racing",
+      "Role-Playing",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 10.889999999999999,
+    "global_sales_share": 0.0012207917995074719
+  },
+  {
+    "publisher": "3DO",
+    "game_count": 36,
+    "games_with_sales": 36,
+    "genre_count": 9,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Platform",
+      "Puzzle",
+      "Role-Playing",
+      "Shooter",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 10.120000000000001,
+    "global_sales_share": 0.0011344731874210852
+  },
+  {
+    "publisher": "Crave Entertainment",
+    "game_count": 71,
+    "games_with_sales": 71,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 9.930000000000003,
+    "global_sales_share": 0.0011131737896335355
+  },
+  {
+    "publisher": "RedOctane",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 8.68,
+    "global_sales_share": 0.0009730461726101797
+  },
+  {
+    "publisher": "TDK Mediactive",
+    "game_count": 36,
+    "games_with_sales": 36,
+    "genre_count": 7,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Platform",
+      "Racing",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 8.309999999999999,
+    "global_sales_share": 0.0009315683979712664
+  },
+  {
+    "publisher": "Mindscape",
+    "game_count": 32,
+    "games_with_sales": 32,
+    "genre_count": 8,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 7.739999999999999,
+    "global_sales_share": 0.0008676702046086164
+  },
+  {
+    "publisher": "Global Star",
+    "game_count": 39,
+    "games_with_sales": 39,
+    "genre_count": 9,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Platform",
+      "Racing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 7.649999999999998,
+    "global_sales_share": 0.0008575810161829346
+  },
+  {
+    "publisher": "Focus Home Interactive",
+    "game_count": 58,
+    "games_with_sales": 58,
+    "genre_count": 10,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 7.509999999999995,
+    "global_sales_share": 0.0008418867230763186
+  },
+  {
+    "publisher": "Fox Interactive",
+    "game_count": 8,
+    "games_with_sales": 8,
+    "genre_count": 4,
+    "genres": [
+      "Action",
+      "Platform",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 7.390000000000001,
+    "global_sales_share": 0.0008284344718420771
+  },
+  {
+    "publisher": "Psygnosis",
+    "game_count": 32,
+    "games_with_sales": 32,
+    "genre_count": 10,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 7.27,
+    "global_sales_share": 0.0008149822206078349
+  },
+  {
+    "publisher": "Activision Value",
+    "game_count": 29,
+    "games_with_sales": 29,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Misc",
+      "Shooter",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 6.959999999999997,
+    "global_sales_share": 0.0007802305715860424
+  },
+  {
+    "publisher": "Ignition Entertainment",
+    "game_count": 61,
+    "games_with_sales": 61,
+    "genre_count": 11,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 6.819999999999998,
+    "global_sales_share": 0.0007645362784794267
+  },
+  {
+    "publisher": "Interplay",
+    "game_count": 30,
+    "games_with_sales": 30,
+    "genre_count": 10,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 6.659999999999999,
+    "global_sales_share": 0.0007465999435004373
+  },
+  {
+    "publisher": "SouthPeak Games",
+    "game_count": 37,
+    "games_with_sales": 37,
+    "genre_count": 11,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 6.349999999999995,
+    "global_sales_share": 0.0007118482944786448
+  },
+  {
+    "publisher": "Spike",
+    "game_count": 37,
+    "games_with_sales": 37,
+    "genre_count": 7,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Role-Playing",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 6.1499999999999995,
+    "global_sales_share": 0.0006894278757549084
+  },
+  {
+    "publisher": "Red Orb",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 5.24,
+    "global_sales_share": 0.0005874149705619058
+  },
+  {
+    "publisher": "Tomy Corporation",
+    "game_count": 18,
+    "games_with_sales": 18,
+    "genre_count": 6,
+    "genres": [
+      "Action",
+      "Fighting",
+      "Misc",
+      "Racing",
+      "Role-Playing",
+      "Simulation"
+    ],
+    "global_sales_total": 4.970000000000001,
+    "global_sales_share": 0.000557147405284861
+  },
+  {
+    "publisher": "Parker Bros.",
+    "game_count": 7,
+    "games_with_sales": 7,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Platform",
+      "Puzzle"
+    ],
+    "global_sales_total": 4.97,
+    "global_sales_share": 0.0005571474052848609
+  },
+  {
+    "publisher": "BAM! Entertainment",
+    "game_count": 35,
+    "games_with_sales": 35,
+    "genre_count": 8,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Racing",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 4.949999999999999,
+    "global_sales_share": 0.0005549053634124872
+  },
+  {
+    "publisher": "Zoo Games",
+    "game_count": 33,
+    "games_with_sales": 33,
+    "genre_count": 8,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Puzzle",
+      "Racing",
+      "Shooter",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 4.820000000000001,
+    "global_sales_share": 0.0005403320912420584
+  },
+  {
+    "publisher": "Imagic",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "global_sales_total": 4.82,
+    "global_sales_share": 0.0005403320912420583
+  },
+  {
+    "publisher": "Arena Entertainment",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Fighting",
+      "Sports"
+    ],
+    "global_sales_total": 4.72,
+    "global_sales_share": 0.0005291218818801899
+  },
+  {
+    "publisher": "Koch Media",
+    "game_count": 17,
+    "games_with_sales": 17,
+    "genre_count": 7,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Puzzle",
+      "Role-Playing",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 4.709999999999999,
+    "global_sales_share": 0.000528000860944003
+  },
+  {
+    "publisher": "City Interactive",
+    "game_count": 19,
+    "games_with_sales": 19,
+    "genre_count": 6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Puzzle",
+      "Shooter",
+      "Simulation"
+    ],
+    "global_sales_total": 4.610000000000001,
+    "global_sales_share": 0.0005167906515821348
+  },
+  {
+    "publisher": "Ubisoft Annecy",
+    "game_count": 14,
+    "games_with_sales": 14,
+    "genre_count": 4,
+    "genres": [
+      "Action",
+      "Fighting",
+      "Misc",
+      "Role-Playing"
+    ],
+    "global_sales_total": 4.460000000000001,
+    "global_sales_share": 0.000499975337539332
+  },
+  {
+    "publisher": "Nordic Games",
+    "game_count": 35,
+    "games_with_sales": 35,
+    "genre_count": 8,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 4.439999999999997,
+    "global_sales_share": 0.0004977332956669579
+  },
+  {
+    "publisher": "Destineer",
+    "game_count": 45,
+    "games_with_sales": 45,
+    "genre_count": 9,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Shooter",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 4.359999999999996,
+    "global_sales_share": 0.0004887651281774631
+  },
+  {
+    "publisher": "Play It",
+    "game_count": 14,
+    "games_with_sales": 14,
+    "genre_count": 5,
+    "genres": [
+      "Misc",
+      "Platform",
+      "Racing",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 4.31,
+    "global_sales_share": 0.00048316002349652927
+  },
+  {
+    "publisher": "PQube",
+    "game_count": 39,
+    "games_with_sales": 39,
+    "genre_count": 8,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Racing",
+      "Shooter",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 4.269999999999999,
+    "global_sales_share": 0.00047867593975178184
+  },
+  {
+    "publisher": "Palcom",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 4.17,
+    "global_sales_share": 0.0004674657303899135
+  },
+  {
+    "publisher": "Marvelous Interactive",
+    "game_count": 56,
+    "games_with_sales": 56,
+    "genre_count": 7,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Role-Playing",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 4.1699999999999955,
+    "global_sales_share": 0.000467465730389913
+  },
+  {
+    "publisher": "ChunSoft",
+    "game_count": 18,
+    "games_with_sales": 18,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Role-Playing"
+    ],
+    "global_sales_total": 4.0699999999999985,
+    "global_sales_share": 0.00045625552102804496
+  },
+  {
+    "publisher": "Idea Factory",
+    "game_count": 129,
+    "games_with_sales": 129,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Role-Playing",
+      "Strategy"
+    ],
+    "global_sales_total": 4.019999999999992,
+    "global_sales_share": 0.0004506504163471099
+  },
+  {
+    "publisher": "Game Factory",
+    "game_count": 32,
+    "games_with_sales": 32,
+    "genre_count": 9,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Simulation"
+    ],
+    "global_sales_total": 3.7899999999999983,
+    "global_sales_share": 0.0004248669348148133
+  },
+  {
+    "publisher": "Kadokawa Shoten",
+    "game_count": 50,
+    "games_with_sales": 50,
+    "genre_count": 7,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Role-Playing",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 3.769999999999998,
+    "global_sales_share": 0.0004226248929424396
+  },
+  {
+    "publisher": "Gotham Games",
+    "game_count": 7,
+    "games_with_sales": 7,
+    "genre_count": 4,
+    "genres": [
+      "Fighting",
+      "Platform",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 3.7199999999999998,
+    "global_sales_share": 0.0004170197882615056
+  },
+  {
+    "publisher": "GSP",
+    "game_count": 16,
+    "games_with_sales": 16,
+    "genre_count": 4,
+    "genres": [
+      "Adventure",
+      "Misc",
+      "Puzzle",
+      "Simulation"
+    ],
+    "global_sales_total": 3.6899999999999995,
+    "global_sales_share": 0.000413656725452945
+  },
+  {
+    "publisher": "Natsume",
+    "game_count": 17,
+    "games_with_sales": 17,
+    "genre_count": 9,
+    "genres": [
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Role-Playing",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 3.6899999999999995,
+    "global_sales_share": 0.000413656725452945
+  },
+  {
+    "publisher": "Square",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 2,
+    "genres": [
+      "Racing",
+      "Role-Playing"
+    ],
+    "global_sales_total": 3.64,
+    "global_sales_share": 0.0004080516207720109
+  },
+  {
+    "publisher": "Ocean",
+    "game_count": 14,
+    "games_with_sales": 14,
+    "genre_count": 8,
+    "genres": [
+      "Action",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 3.6100000000000003,
+    "global_sales_share": 0.00040468855796345034
+  },
+  {
+    "publisher": "DTP Entertainment",
+    "game_count": 45,
+    "games_with_sales": 45,
+    "genre_count": 9,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Puzzle",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 3.589999999999997,
+    "global_sales_share": 0.00040244651609107633
+  },
+  {
+    "publisher": "Sony Online Entertainment",
+    "game_count": 8,
+    "games_with_sales": 8,
+    "genre_count": 2,
+    "genres": [
+      "Role-Playing",
+      "Strategy"
+    ],
+    "global_sales_total": 3.5300000000000002,
+    "global_sales_share": 0.0003957203904739556
+  },
+  {
+    "publisher": "SCi",
+    "game_count": 17,
+    "games_with_sales": 17,
+    "genre_count": 4,
+    "genres": [
+      "Action",
+      "Platform",
+      "Racing",
+      "Shooter"
+    ],
+    "global_sales_total": 3.52,
+    "global_sales_share": 0.00039459936953776875
+  },
+  {
+    "publisher": "Mattel Interactive",
+    "game_count": 12,
+    "games_with_sales": 12,
+    "genre_count": 6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Puzzle",
+      "Racing",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 3.51,
+    "global_sales_share": 0.00039347834860158185
+  },
+  {
+    "publisher": "Oxygen Interactive",
+    "game_count": 22,
+    "games_with_sales": 22,
+    "genre_count": 6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Sports"
+    ],
+    "global_sales_total": 3.4599999999999986,
+    "global_sales_share": 0.0003878732439206475
+  },
+  {
+    "publisher": "Takara",
+    "game_count": 16,
+    "games_with_sales": 16,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Fighting",
+      "Misc",
+      "Racing",
+      "Role-Playing"
+    ],
+    "global_sales_total": 3.4500000000000006,
+    "global_sales_share": 0.0003867522229844609
+  },
+  {
+    "publisher": "Maxis",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 3.39,
+    "global_sales_share": 0.0003800260973673398
+  },
+  {
+    "publisher": "Titus",
+    "game_count": 19,
+    "games_with_sales": 19,
+    "genre_count": 9,
+    "genres": [
+      "Action",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Strategy"
+    ],
+    "global_sales_total": 3.319999999999999,
+    "global_sales_share": 0.00037217895081403176
+  },
+  {
+    "publisher": "Black Bean Games",
+    "game_count": 34,
+    "games_with_sales": 34,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Misc",
+      "Racing",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 3.289999999999998,
+    "global_sales_share": 0.0003688158880054711
+  },
+  {
+    "publisher": "Valve Software",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 3.2300000000000004,
+    "global_sales_share": 0.0003620897623883503
+  },
+  {
+    "publisher": "GungHo",
+    "game_count": 13,
+    "games_with_sales": 13,
+    "genre_count": 4,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Role-Playing"
+    ],
+    "global_sales_total": 3.15,
+    "global_sales_share": 0.0003531215948988555
+  },
+  {
+    "publisher": "Coleco",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Platform",
+      "Shooter"
+    ],
+    "global_sales_total": 3.0599999999999996,
+    "global_sales_share": 0.0003430324064731739
+  },
+  {
+    "publisher": "Human Entertainment",
+    "game_count": 13,
+    "games_with_sales": 13,
+    "genre_count": 6,
+    "genres": [
+      "Adventure",
+      "Fighting",
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 3.0,
+    "global_sales_share": 0.0003363062808560529
+  },
+  {
+    "publisher": "Avanquest",
+    "game_count": 26,
+    "games_with_sales": 26,
+    "genre_count": 6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Puzzle",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 2.9999999999999996,
+    "global_sales_share": 0.00033630628085605285
+  },
+  {
+    "publisher": "Scholastic Inc.",
+    "game_count": 10,
+    "games_with_sales": 10,
+    "genre_count": 4,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Puzzle"
+    ],
+    "global_sales_total": 2.9099999999999997,
+    "global_sales_share": 0.00032621709243037126
+  },
+  {
+    "publisher": "Mojang",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 2.89,
+    "global_sales_share": 0.0003239750505579976
+  },
+  {
+    "publisher": "Taito",
+    "game_count": 19,
+    "games_with_sales": 19,
+    "genre_count": 7,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Role-Playing",
+      "Shooter",
+      "Simulation"
+    ],
+    "global_sales_total": 2.8399999999999985,
+    "global_sales_share": 0.00031836994587706324
+  },
+  {
+    "publisher": "JVC",
+    "game_count": 8,
+    "games_with_sales": 8,
+    "genre_count": 6,
+    "genres": [
+      "Action",
+      "Fighting",
+      "Misc",
+      "Puzzle",
+      "Racing",
+      "Shooter"
+    ],
+    "global_sales_total": 2.8,
+    "global_sales_share": 0.000313885862132316
+  },
+  {
+    "publisher": "Ghostlight",
+    "game_count": 15,
+    "games_with_sales": 15,
+    "genre_count": 4,
+    "genres": [
+      "Role-Playing",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 2.79,
+    "global_sales_share": 0.0003127648411961292
+  },
+  {
+    "publisher": "Sammy Corporation",
+    "game_count": 11,
+    "games_with_sales": 11,
+    "genre_count": 4,
+    "genres": [
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Simulation"
+    ],
+    "global_sales_total": 2.7300000000000004,
+    "global_sales_share": 0.00030603871557900817
+  },
+  {
+    "publisher": "Midas Interactive Entertainment",
+    "game_count": 24,
+    "games_with_sales": 24,
+    "genre_count": 11,
+    "genres": [
+      "Action",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 2.7199999999999993,
+    "global_sales_share": 0.0003049176946428212
+  },
+  {
+    "publisher": "Telltale Games",
+    "game_count": 25,
+    "games_with_sales": 25,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "global_sales_total": 2.719999999999999,
+    "global_sales_share": 0.00030491769464282116
+  },
+  {
+    "publisher": "Takara Tomy",
+    "game_count": 37,
+    "games_with_sales": 37,
+    "genre_count": 7,
+    "genres": [
+      "Action",
+      "Fighting",
+      "Misc",
+      "Racing",
+      "Role-Playing",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 2.6999999999999997,
+    "global_sales_share": 0.0003026756527704476
+  },
+  {
+    "publisher": "Imagineer",
+    "game_count": 16,
+    "games_with_sales": 16,
+    "genre_count": 6,
+    "genres": [
+      "Adventure",
+      "Fighting",
+      "Racing",
+      "Role-Playing",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 2.649999999999999,
+    "global_sales_share": 0.0002970705480895133
+  },
+  {
+    "publisher": "Alchemist",
+    "game_count": 43,
+    "games_with_sales": 43,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Role-Playing",
+      "Shooter"
+    ],
+    "global_sales_total": 2.629999999999998,
+    "global_sales_share": 0.0002948285062171395
+  },
+  {
+    "publisher": "NCSoft",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Role-Playing"
+    ],
+    "global_sales_total": 2.5899999999999994,
+    "global_sales_share": 0.0002903444224723923
+  },
+  {
+    "publisher": "SNK",
+    "game_count": 22,
+    "games_with_sales": 22,
+    "genre_count": 1,
+    "genres": [
+      "Fighting"
+    ],
+    "global_sales_total": 2.5899999999999994,
+    "global_sales_share": 0.0002903444224723923
+  },
+  {
+    "publisher": "Rondomedia",
+    "game_count": 14,
+    "games_with_sales": 14,
+    "genre_count": 6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Puzzle",
+      "Racing",
+      "Simulation"
+    ],
+    "global_sales_total": 2.5799999999999996,
+    "global_sales_share": 0.00028922340153620545
+  },
+  {
+    "publisher": "Compile",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 2,
+    "genres": [
+      "Puzzle",
+      "Role-Playing"
+    ],
+    "global_sales_total": 2.4599999999999995,
+    "global_sales_share": 0.0002757711503019633
+  },
+  {
+    "publisher": "Kalypso Media",
+    "game_count": 29,
+    "games_with_sales": 29,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Simulation",
+      "Strategy"
+    ],
+    "global_sales_total": 2.449999999999999,
+    "global_sales_share": 0.00027465012936577643
+  },
+  {
+    "publisher": "Marvelous Entertainment",
+    "game_count": 12,
+    "games_with_sales": 12,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Fighting",
+      "Misc",
+      "Role-Playing",
+      "Simulation"
+    ],
+    "global_sales_total": 2.329999999999999,
+    "global_sales_share": 0.00026119787813153435
+  },
+  {
+    "publisher": "Red Storm Entertainment",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "global_sales_total": 2.32,
+    "global_sales_share": 0.00026007685719534756
+  },
+  {
+    "publisher": "UEP Systems",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 2.25,
+    "global_sales_share": 0.00025222971064203965
+  },
+  {
+    "publisher": "Mastiff",
+    "game_count": 16,
+    "games_with_sales": 16,
+    "genre_count": 5,
+    "genres": [
+      "Adventure",
+      "Misc",
+      "Shooter",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 2.23,
+    "global_sales_share": 0.00024998766876966597
+  },
+  {
+    "publisher": "Enterbrain",
+    "game_count": 15,
+    "games_with_sales": 15,
+    "genre_count": 5,
+    "genres": [
+      "Adventure",
+      "Fighting",
+      "Role-Playing",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 2.2299999999999995,
+    "global_sales_share": 0.00024998766876966597
+  },
+  {
+    "publisher": "Kemco",
+    "game_count": 21,
+    "games_with_sales": 21,
+    "genre_count": 9,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 2.219999999999999,
+    "global_sales_share": 0.000248866647833479
+  },
+  {
+    "publisher": "Video System",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Racing"
+    ],
+    "global_sales_total": 2.18,
+    "global_sales_share": 0.0002443825640887318
+  },
+  {
+    "publisher": "Little Orbit",
+    "game_count": 26,
+    "games_with_sales": 26,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Simulation"
+    ],
+    "global_sales_total": 2.0400000000000005,
+    "global_sales_share": 0.00022868827098211604
+  },
+  {
+    "publisher": "ASC Games",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Racing",
+      "Sports"
+    ],
+    "global_sales_total": 2.02,
+    "global_sales_share": 0.0002264462291097423
+  },
+  {
+    "publisher": "Microprose",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 3,
+    "genres": [
+      "Misc",
+      "Simulation",
+      "Strategy"
+    ],
+    "global_sales_total": 2.02,
+    "global_sales_share": 0.0002264462291097423
+  },
+  {
+    "publisher": "RTL",
+    "game_count": 8,
+    "games_with_sales": 8,
+    "genre_count": 3,
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 2.0,
+    "global_sales_share": 0.0002242041872373686
+  },
+  {
+    "publisher": "Success",
+    "game_count": 19,
+    "games_with_sales": 19,
+    "genre_count": 8,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Puzzle",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Strategy"
+    ],
+    "global_sales_total": 1.9600000000000004,
+    "global_sales_share": 0.00021972010349262128
+  },
+  {
+    "publisher": "Jaleco",
+    "game_count": 23,
+    "games_with_sales": 23,
+    "genre_count": 8,
+    "genres": [
+      "Action",
+      "Fighting",
+      "Misc",
+      "Puzzle",
+      "Racing",
+      "Shooter",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 1.9400000000000006,
+    "global_sales_share": 0.00021747806162024762
+  },
+  {
+    "publisher": "Nobilis",
+    "game_count": 13,
+    "games_with_sales": 13,
+    "genre_count": 6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Racing",
+      "Role-Playing",
+      "Simulation"
+    ],
+    "global_sales_total": 1.9400000000000004,
+    "global_sales_share": 0.0002174780616202476
+  },
+  {
+    "publisher": "20th Century Fox Video Games",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "global_sales_total": 1.9400000000000002,
+    "global_sales_share": 0.00021747806162024757
+  },
+  {
+    "publisher": "Agetec",
+    "game_count": 8,
+    "games_with_sales": 8,
+    "genre_count": 7,
+    "genres": [
+      "Action",
+      "Fighting",
+      "Misc",
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 1.9400000000000002,
+    "global_sales_share": 0.00021747806162024757
+  },
+  {
+    "publisher": "Zushi Games",
+    "game_count": 18,
+    "games_with_sales": 18,
+    "genre_count": 10,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 1.8900000000000006,
+    "global_sales_share": 0.0002118729569393134
+  },
+  {
+    "publisher": "Metro 3D",
+    "game_count": 12,
+    "games_with_sales": 12,
+    "genre_count": 6,
+    "genres": [
+      "Fighting",
+      "Platform",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation"
+    ],
+    "global_sales_total": 1.8400000000000005,
+    "global_sales_share": 0.00020626785225837918
+  },
+  {
+    "publisher": "Rocket Company",
+    "game_count": 17,
+    "games_with_sales": 17,
+    "genre_count": 6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Role-Playing",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 1.8200000000000005,
+    "global_sales_share": 0.0002040258103860055
+  },
+  {
+    "publisher": "System 3 Arcade Software",
+    "game_count": 14,
+    "games_with_sales": 14,
+    "genre_count": 5,
+    "genres": [
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Sports"
+    ],
+    "global_sales_total": 1.8000000000000005,
+    "global_sales_share": 0.0002017837685136318
+  },
+  {
+    "publisher": "Valve",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 1.74,
+    "global_sales_share": 0.00019505764289651069
+  },
+  {
+    "publisher": "Mastertronic",
+    "game_count": 13,
+    "games_with_sales": 13,
+    "genre_count": 7,
+    "genres": [
+      "Adventure",
+      "Misc",
+      "Puzzle",
+      "Racing",
+      "Shooter",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 1.7300000000000004,
+    "global_sales_share": 0.0001939366219603239
+  },
+  {
+    "publisher": "Crystal Dynamics",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 5,
+    "genres": [
+      "Adventure",
+      "Platform",
+      "Racing",
+      "Role-Playing",
+      "Sports"
+    ],
+    "global_sales_total": 1.71,
+    "global_sales_share": 0.00019169458008795015
+  },
+  {
+    "publisher": "Hudson Entertainment",
+    "game_count": 11,
+    "games_with_sales": 11,
+    "genre_count": 7,
+    "genres": [
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 1.6900000000000004,
+    "global_sales_share": 0.00018945253821557652
+  },
+  {
+    "publisher": "Avanquest Software",
+    "game_count": 9,
+    "games_with_sales": 9,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc"
+    ],
+    "global_sales_total": 1.6900000000000002,
+    "global_sales_share": 0.0001894525382155765
+  },
+  {
+    "publisher": "Accolade",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Platform",
+      "Racing",
+      "Sports"
+    ],
+    "global_sales_total": 1.68,
+    "global_sales_share": 0.00018833151727938962
+  },
+  {
+    "publisher": "Xplosiv",
+    "game_count": 10,
+    "games_with_sales": 10,
+    "genre_count": 3,
+    "genres": [
+      "Misc",
+      "Puzzle",
+      "Racing"
+    ],
+    "global_sales_total": 1.64,
+    "global_sales_share": 0.00018384743353464224
+  },
+  {
+    "publisher": "5pb",
+    "game_count": 61,
+    "games_with_sales": 61,
+    "genre_count": 6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Role-Playing",
+      "Shooter",
+      "Simulation"
+    ],
+    "global_sales_total": 1.630000000000001,
+    "global_sales_share": 0.00018272641259845554
+  },
+  {
+    "publisher": "From Software",
+    "game_count": 15,
+    "games_with_sales": 15,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Role-Playing",
+      "Shooter",
+      "Simulation"
+    ],
+    "global_sales_total": 1.6300000000000006,
+    "global_sales_share": 0.00018272641259845548
+  },
+  {
+    "publisher": "Hello Games",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 1.6,
+    "global_sales_share": 0.0001793633497898949
+  },
+  {
+    "publisher": "Touchstone",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Simulation"
+    ],
+    "global_sales_total": 1.5800000000000003,
+    "global_sales_share": 0.00017712130791752123
+  },
+  {
+    "publisher": "PopCap Games",
+    "game_count": 15,
+    "games_with_sales": 15,
+    "genre_count": 4,
+    "genres": [
+      "Adventure",
+      "Misc",
+      "Puzzle",
+      "Strategy"
+    ],
+    "global_sales_total": 1.5700000000000003,
+    "global_sales_share": 0.0001760002869813344
+  },
+  {
+    "publisher": "Storm City Games",
+    "game_count": 19,
+    "games_with_sales": 19,
+    "genre_count": 8,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 1.5600000000000005,
+    "global_sales_share": 0.00017487926604514757
+  },
+  {
+    "publisher": "LEGO Media",
+    "game_count": 7,
+    "games_with_sales": 7,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Platform",
+      "Racing",
+      "Strategy"
+    ],
+    "global_sales_total": 1.5599999999999998,
+    "global_sales_share": 0.0001748792660451475
+  },
+  {
+    "publisher": "Laguna",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Platform",
+      "Role-Playing"
+    ],
+    "global_sales_total": 1.55,
+    "global_sales_share": 0.00017375824510896067
+  },
+  {
+    "publisher": "Westwood Studios",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Strategy"
+    ],
+    "global_sales_total": 1.55,
+    "global_sales_share": 0.00017375824510896067
+  },
+  {
+    "publisher": "JoWood Productions",
+    "game_count": 22,
+    "games_with_sales": 22,
+    "genre_count": 9,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Role-Playing",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 1.4900000000000004,
+    "global_sales_share": 0.00016703211949183966
+  },
+  {
+    "publisher": "Arc System Works",
+    "game_count": 26,
+    "games_with_sales": 26,
+    "genre_count": 6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Role-Playing",
+      "Sports"
+    ],
+    "global_sales_total": 1.4800000000000004,
+    "global_sales_share": 0.00016591109855565282
+  },
+  {
+    "publisher": "Knowledge Adventure",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 4,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Sports"
+    ],
+    "global_sales_total": 1.47,
+    "global_sales_share": 0.00016479007761946592
+  },
+  {
+    "publisher": "Genki",
+    "game_count": 8,
+    "games_with_sales": 8,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Racing",
+      "Sports"
+    ],
+    "global_sales_total": 1.4600000000000002,
+    "global_sales_share": 0.0001636690566832791
+  },
+  {
+    "publisher": "XS Games",
+    "game_count": 12,
+    "games_with_sales": 12,
+    "genre_count": 3,
+    "genres": [
+      "Misc",
+      "Racing",
+      "Sports"
+    ],
+    "global_sales_total": 1.4600000000000002,
+    "global_sales_share": 0.0001636690566832791
+  },
+  {
+    "publisher": "Rage Software",
+    "game_count": 7,
+    "games_with_sales": 7,
+    "genre_count": 4,
+    "genres": [
+      "Fighting",
+      "Puzzle",
+      "Racing",
+      "Shooter"
+    ],
+    "global_sales_total": 1.4200000000000004,
+    "global_sales_share": 0.00015918497293853176
+  },
+  {
+    "publisher": "Pinnacle",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 4,
+    "genres": [
+      "Misc",
+      "Puzzle",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 1.4200000000000002,
+    "global_sales_share": 0.00015918497293853173
+  },
+  {
+    "publisher": "Tigervision",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 1.42,
+    "global_sales_share": 0.0001591849729385317
+  },
+  {
+    "publisher": "GameMill Entertainment",
+    "game_count": 8,
+    "games_with_sales": 8,
+    "genre_count": 4,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Sports"
+    ],
+    "global_sales_total": 1.3800000000000001,
+    "global_sales_share": 0.00015470088919378435
+  },
+  {
+    "publisher": "Slightly Mad Studios",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Racing"
+    ],
+    "global_sales_total": 1.3800000000000001,
+    "global_sales_share": 0.00015470088919378435
+  },
+  {
+    "publisher": "Compile Heart",
+    "game_count": 20,
+    "games_with_sales": 20,
+    "genre_count": 4,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Role-Playing",
+      "Strategy"
+    ],
+    "global_sales_total": 1.3700000000000003,
+    "global_sales_share": 0.00015357986825759753
+  },
+  {
+    "publisher": "NewKidCo",
+    "game_count": 9,
+    "games_with_sales": 9,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform"
+    ],
+    "global_sales_total": 1.33,
+    "global_sales_share": 0.00014909578451285013
+  },
+  {
+    "publisher": "FuRyu",
+    "game_count": 27,
+    "games_with_sales": 27,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Role-Playing",
+      "Simulation"
+    ],
+    "global_sales_total": 1.3200000000000007,
+    "global_sales_share": 0.00014797476357666337
+  },
+  {
+    "publisher": "Milestone S.r.l.",
+    "game_count": 16,
+    "games_with_sales": 16,
+    "genre_count": 1,
+    "genres": [
+      "Racing"
+    ],
+    "global_sales_total": 1.2800000000000002,
+    "global_sales_share": 0.00014349067983191594
+  },
+  {
+    "publisher": "Aqua Plus",
+    "game_count": 23,
+    "games_with_sales": 23,
+    "genre_count": 5,
+    "genres": [
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Role-Playing",
+      "Strategy"
+    ],
+    "global_sales_total": 1.2500000000000004,
+    "global_sales_share": 0.00014012761702335543
+  },
+  {
+    "publisher": "Brash Entertainment",
+    "game_count": 10,
+    "games_with_sales": 10,
+    "genre_count": 2,
+    "genres": [
+      "Misc",
+      "Platform"
+    ],
+    "global_sales_total": 1.2300000000000002,
+    "global_sales_share": 0.00013788557515098172
+  },
+  {
+    "publisher": "Falcom Corporation",
+    "game_count": 16,
+    "games_with_sales": 16,
+    "genre_count": 2,
+    "genres": [
+      "Fighting",
+      "Role-Playing"
+    ],
+    "global_sales_total": 1.2100000000000004,
+    "global_sales_share": 0.00013564353327860806
+  },
+  {
+    "publisher": "Russel",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sports"
+    ],
+    "global_sales_total": 1.2100000000000002,
+    "global_sales_share": 0.00013564353327860803
+  },
+  {
+    "publisher": "Playlogic Game Factory",
+    "game_count": 14,
+    "games_with_sales": 14,
+    "genre_count": 6,
+    "genres": [
+      "Action",
+      "Misc",
+      "Puzzle",
+      "Shooter",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 1.2000000000000002,
+    "global_sales_share": 0.00013452251234242118
+  },
+  {
+    "publisher": "Black Label Games",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 1.2,
+    "global_sales_share": 0.00013452251234242116
+  },
+  {
+    "publisher": "Gathering of Developers",
+    "game_count": 9,
+    "games_with_sales": 9,
+    "genre_count": 4,
+    "genres": [
+      "Misc",
+      "Racing",
+      "Shooter",
+      "Strategy"
+    ],
+    "global_sales_total": 1.1900000000000002,
+    "global_sales_share": 0.00013340149140623434
+  },
+  {
+    "publisher": "Aruze Corp",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 1.1800000000000002,
+    "global_sales_share": 0.0001322804704700475
+  },
+  {
+    "publisher": "BMG Interactive Entertainment",
+    "game_count": 7,
+    "games_with_sales": 7,
+    "genre_count": 4,
+    "genres": [
+      "Platform",
+      "Racing",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 1.1800000000000002,
+    "global_sales_share": 0.0001322804704700475
+  },
+  {
+    "publisher": "Sony Computer Entertainment America",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 1.1800000000000002,
+    "global_sales_share": 0.0001322804704700475
+  },
+  {
+    "publisher": "Jester Interactive",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 2,
+    "genres": [
+      "Misc",
+      "Racing"
+    ],
+    "global_sales_total": 1.15,
+    "global_sales_share": 0.00012891740766148694
+  },
+  {
+    "publisher": "Trion Worlds",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 2,
+    "genres": [
+      "Shooter",
+      "Strategy"
+    ],
+    "global_sales_total": 1.15,
+    "global_sales_share": 0.00012891740766148694
+  },
+  {
+    "publisher": "Gremlin Interactive Ltd",
+    "game_count": 9,
+    "games_with_sales": 9,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Platform",
+      "Racing",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 1.1,
+    "global_sales_share": 0.00012331230298055274
+  },
+  {
+    "publisher": "Gust",
+    "game_count": 13,
+    "games_with_sales": 13,
+    "genre_count": 3,
+    "genres": [
+      "Adventure",
+      "Role-Playing",
+      "Strategy"
+    ],
+    "global_sales_total": 1.1,
+    "global_sales_share": 0.00012331230298055274
+  },
+  {
+    "publisher": "O-Games",
+    "game_count": 17,
+    "games_with_sales": 17,
+    "genre_count": 6,
+    "genres": [
+      "Adventure",
+      "Misc",
+      "Puzzle",
+      "Racing",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 1.0800000000000003,
+    "global_sales_share": 0.00012107026110817908
+  },
+  {
+    "publisher": "Acquire",
+    "game_count": 13,
+    "games_with_sales": 13,
+    "genre_count": 4,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Role-Playing",
+      "Strategy"
+    ],
+    "global_sales_total": 1.07,
+    "global_sales_share": 0.00011994924017199221
+  },
+  {
+    "publisher": "Mentor Interactive",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 1.07,
+    "global_sales_share": 0.00011994924017199221
+  },
+  {
+    "publisher": "Epoch",
+    "game_count": 7,
+    "games_with_sales": 7,
+    "genre_count": 4,
+    "genres": [
+      "Misc",
+      "Platform",
+      "Role-Playing",
+      "Sports"
+    ],
+    "global_sales_total": 1.05,
+    "global_sales_share": 0.00011770719829961852
+  },
+  {
+    "publisher": "Telegames",
+    "game_count": 8,
+    "games_with_sales": 8,
+    "genre_count": 4,
+    "genres": [
+      "Misc",
+      "Puzzle",
+      "Simulation",
+      "Strategy"
+    ],
+    "global_sales_total": 1.0299999999999998,
+    "global_sales_share": 0.00011546515642724481
+  },
+  {
+    "publisher": "Big Ben Interactive",
+    "game_count": 7,
+    "games_with_sales": 7,
+    "genre_count": 5,
+    "genres": [
+      "Adventure",
+      "Platform",
+      "Racing",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 1.0,
+    "global_sales_share": 0.0001121020936186843
+  },
+  {
+    "publisher": "SNK Playmore",
+    "game_count": 18,
+    "games_with_sales": 18,
+    "genre_count": 4,
+    "genres": [
+      "Adventure",
+      "Fighting",
+      "Role-Playing",
+      "Shooter"
+    ],
+    "global_sales_total": 0.9600000000000004,
+    "global_sales_share": 0.00010761800987393698
+  },
+  {
+    "publisher": "Broccoli",
+    "game_count": 22,
+    "games_with_sales": 22,
+    "genre_count": 7,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Role-Playing",
+      "Simulation",
+      "Strategy"
+    ],
+    "global_sales_total": 0.9600000000000002,
+    "global_sales_share": 0.00010761800987393695
+  },
+  {
+    "publisher": "IE Institute",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Misc"
+    ],
+    "global_sales_total": 0.9600000000000002,
+    "global_sales_share": 0.00010761800987393695
+  },
+  {
+    "publisher": "UFO Interactive",
+    "game_count": 16,
+    "games_with_sales": 16,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Misc",
+      "Puzzle",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 0.9600000000000002,
+    "global_sales_share": 0.00010761800987393695
+  },
+  {
+    "publisher": "DreamCatcher Interactive",
+    "game_count": 17,
+    "games_with_sales": 17,
+    "genre_count": 7,
+    "genres": [
+      "Adventure",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Shooter",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 0.9500000000000002,
+    "global_sales_share": 0.00010649698893775011
+  },
+  {
+    "publisher": "Nippon Columbia",
+    "game_count": 7,
+    "games_with_sales": 7,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Misc"
+    ],
+    "global_sales_total": 0.9500000000000002,
+    "global_sales_share": 0.00010649698893775011
+  },
+  {
+    "publisher": "Sunsoft",
+    "game_count": 10,
+    "games_with_sales": 10,
+    "genre_count": 7,
+    "genres": [
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Role-Playing",
+      "Shooter"
+    ],
+    "global_sales_total": 0.9500000000000002,
+    "global_sales_share": 0.00010649698893775011
+  },
+  {
+    "publisher": "Jorudan",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.95,
+    "global_sales_share": 0.00010649698893775008
+  },
+  {
+    "publisher": "Screenlife",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Fighting",
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.9199999999999999,
+    "global_sales_share": 0.00010313392612918955
+  },
+  {
+    "publisher": "Funbox Media",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 4,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Strategy"
+    ],
+    "global_sales_total": 0.9100000000000001,
+    "global_sales_share": 0.00010201290519300273
+  },
+  {
+    "publisher": "CTO SpA",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 0.9,
+    "global_sales_share": 0.00010089188425681587
+  },
+  {
+    "publisher": "Xseed Games",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Role-Playing",
+      "Shooter"
+    ],
+    "global_sales_total": 0.9,
+    "global_sales_share": 0.00010089188425681587
+  },
+  {
+    "publisher": "Victor Interactive",
+    "game_count": 9,
+    "games_with_sales": 9,
+    "genre_count": 5,
+    "genres": [
+      "Adventure",
+      "Misc",
+      "Role-Playing",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 0.8900000000000001,
+    "global_sales_share": 9.977086332062904e-05
+  },
+  {
+    "publisher": "Destination Software, Inc",
+    "game_count": 12,
+    "games_with_sales": 12,
+    "genre_count": 7,
+    "genres": [
+      "Action",
+      "Misc",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 0.8800000000000001,
+    "global_sales_share": 9.86498423844422e-05
+  },
+  {
+    "publisher": "Quelle",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.87,
+    "global_sales_share": 9.752882144825534e-05
+  },
+  {
+    "publisher": "TalonSoft",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.87,
+    "global_sales_share": 9.752882144825534e-05
+  },
+  {
+    "publisher": "mixi, Inc",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.86,
+    "global_sales_share": 9.64078005120685e-05
+  },
+  {
+    "publisher": "Mud Duck Productions",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 2,
+    "genres": [
+      "Misc",
+      "Sports"
+    ],
+    "global_sales_total": 0.85,
+    "global_sales_share": 9.528677957588165e-05
+  },
+  {
+    "publisher": "Ackkstudios",
+    "game_count": 10,
+    "games_with_sales": 10,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Role-Playing",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 0.8400000000000003,
+    "global_sales_share": 9.416575863969485e-05
+  },
+  {
+    "publisher": "Conspiracy Entertainment",
+    "game_count": 14,
+    "games_with_sales": 14,
+    "genre_count": 8,
+    "genres": [
+      "Action",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Shooter",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 0.8400000000000003,
+    "global_sales_share": 9.416575863969485e-05
+  },
+  {
+    "publisher": "Bigben Interactive",
+    "game_count": 13,
+    "games_with_sales": 13,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.8400000000000001,
+    "global_sales_share": 9.416575863969482e-05
+  },
+  {
+    "publisher": "NovaLogic",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.8200000000000001,
+    "global_sales_share": 9.192371676732114e-05
+  },
+  {
+    "publisher": "Mystique",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.82,
+    "global_sales_share": 9.192371676732112e-05
+  },
+  {
+    "publisher": "Harmonix Music Systems",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.8,
+    "global_sales_share": 8.968167489494745e-05
+  },
+  {
+    "publisher": "Square EA",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.8,
+    "global_sales_share": 8.968167489494745e-05
+  },
+  {
+    "publisher": "NEC Interchannel",
+    "game_count": 8,
+    "games_with_sales": 8,
+    "genre_count": 4,
+    "genres": [
+      "Adventure",
+      "Role-Playing",
+      "Simulation",
+      "Strategy"
+    ],
+    "global_sales_total": 0.78,
+    "global_sales_share": 8.743963302257376e-05
+  },
+  {
+    "publisher": "Men-A-Vision",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.77,
+    "global_sales_share": 8.631861208638692e-05
+  },
+  {
+    "publisher": "Nihon Falcom Corporation",
+    "game_count": 7,
+    "games_with_sales": 7,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.77,
+    "global_sales_share": 8.631861208638692e-05
+  },
+  {
+    "publisher": "Paradox Interactive",
+    "game_count": 23,
+    "games_with_sales": 23,
+    "genre_count": 4,
+    "genres": [
+      "Misc",
+      "Role-Playing",
+      "Simulation",
+      "Strategy"
+    ],
+    "global_sales_total": 0.7600000000000003,
+    "global_sales_share": 8.519759115020011e-05
+  },
+  {
+    "publisher": "Pioneer LDC",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Racing"
+    ],
+    "global_sales_total": 0.74,
+    "global_sales_share": 8.295554927782638e-05
+  },
+  {
+    "publisher": "ArtDink",
+    "game_count": 9,
+    "games_with_sales": 9,
+    "genre_count": 3,
+    "genres": [
+      "Role-Playing",
+      "Simulation",
+      "Strategy"
+    ],
+    "global_sales_total": 0.7300000000000002,
+    "global_sales_share": 8.183452834163957e-05
+  },
+  {
+    "publisher": "Gamebridge",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.73,
+    "global_sales_share": 8.183452834163954e-05
+  },
+  {
+    "publisher": "Starfish",
+    "game_count": 10,
+    "games_with_sales": 10,
+    "genre_count": 4,
+    "genres": [
+      "Action",
+      "Role-Playing",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 0.7200000000000002,
+    "global_sales_share": 8.071350740545272e-05
+  },
+  {
+    "publisher": "Home Entertainment Suppliers",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.7100000000000002,
+    "global_sales_share": 7.959248646926588e-05
+  },
+  {
+    "publisher": "Data Age",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.71,
+    "global_sales_share": 7.959248646926585e-05
+  },
+  {
+    "publisher": "Quest",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.71,
+    "global_sales_share": 7.959248646926585e-05
+  },
+  {
+    "publisher": "Illusion Softworks",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.7,
+    "global_sales_share": 7.8471465533079e-05
+  },
+  {
+    "publisher": "Wanadoo",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Platform",
+      "Racing"
+    ],
+    "global_sales_total": 0.6500000000000001,
+    "global_sales_share": 7.286636085214481e-05
+  },
+  {
+    "publisher": "Media Rings",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Racing",
+      "Role-Playing",
+      "Sports"
+    ],
+    "global_sales_total": 0.65,
+    "global_sales_share": 7.28663608521448e-05
+  },
+  {
+    "publisher": "Sting",
+    "game_count": 9,
+    "games_with_sales": 9,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.65,
+    "global_sales_share": 7.28663608521448e-05
+  },
+  {
+    "publisher": "Astragon",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 4,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Puzzle",
+      "Simulation"
+    ],
+    "global_sales_total": 0.6400000000000001,
+    "global_sales_share": 7.174533991595797e-05
+  },
+  {
+    "publisher": "Elf",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Strategy"
+    ],
+    "global_sales_total": 0.64,
+    "global_sales_share": 7.174533991595796e-05
+  },
+  {
+    "publisher": "Foreign Media Games",
+    "game_count": 9,
+    "games_with_sales": 9,
+    "genre_count": 4,
+    "genres": [
+      "Adventure",
+      "Misc",
+      "Puzzle",
+      "Simulation"
+    ],
+    "global_sales_total": 0.6300000000000001,
+    "global_sales_share": 7.062431897977112e-05
+  },
+  {
+    "publisher": "Seta Corporation",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 3,
+    "genres": [
+      "Misc",
+      "Role-Playing",
+      "Sports"
+    ],
+    "global_sales_total": 0.6300000000000001,
+    "global_sales_share": 7.062431897977112e-05
+  },
+  {
+    "publisher": "Universal Gamex",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.63,
+    "global_sales_share": 7.062431897977111e-05
+  },
+  {
+    "publisher": "TDK Core",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Misc",
+      "Simulation"
+    ],
+    "global_sales_total": 0.6200000000000001,
+    "global_sales_share": 6.950329804358428e-05
+  },
+  {
+    "publisher": "Aspyr",
+    "game_count": 8,
+    "games_with_sales": 8,
+    "genre_count": 5,
+    "genres": [
+      "Adventure",
+      "Misc",
+      "Role-Playing",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 0.62,
+    "global_sales_share": 6.950329804358427e-05
+  },
+  {
+    "publisher": "Wizard Video Games",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.62,
+    "global_sales_share": 6.950329804358427e-05
+  },
+  {
+    "publisher": "Prototype",
+    "game_count": 27,
+    "games_with_sales": 27,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "global_sales_total": 0.6100000000000003,
+    "global_sales_share": 6.838227710739746e-05
+  },
+  {
+    "publisher": "Idea Factory International",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.6100000000000001,
+    "global_sales_share": 6.838227710739744e-05
+  },
+  {
+    "publisher": "Asylum Entertainment",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 3,
+    "genres": [
+      "Adventure",
+      "Platform",
+      "Simulation"
+    ],
+    "global_sales_total": 0.5900000000000001,
+    "global_sales_share": 6.614023523502375e-05
+  },
+  {
+    "publisher": "ESP",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 5,
+    "genres": [
+      "Fighting",
+      "Platform",
+      "Role-Playing",
+      "Shooter",
+      "Simulation"
+    ],
+    "global_sales_total": 0.5900000000000001,
+    "global_sales_share": 6.614023523502375e-05
+  },
+  {
+    "publisher": "Nordcurrent",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 4,
+    "genres": [
+      "Action",
+      "Misc",
+      "Puzzle",
+      "Sports"
+    ],
+    "global_sales_total": 0.5900000000000001,
+    "global_sales_share": 6.614023523502375e-05
+  },
+  {
+    "publisher": "Kadokawa Games",
+    "game_count": 15,
+    "games_with_sales": 15,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Role-Playing",
+      "Simulation"
+    ],
+    "global_sales_total": 0.5800000000000002,
+    "global_sales_share": 6.501921429883692e-05
+  },
+  {
+    "publisher": "Mumbo Jumbo",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 3,
+    "genres": [
+      "Puzzle",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 0.5800000000000001,
+    "global_sales_share": 6.50192142988369e-05
+  },
+  {
+    "publisher": "CPG Products",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.54,
+    "global_sales_share": 6.053513055408953e-05
+  },
+  {
+    "publisher": "AQ Interactive",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 2,
+    "genres": [
+      "Fighting",
+      "Misc"
+    ],
+    "global_sales_total": 0.53,
+    "global_sales_share": 5.9414109617902684e-05
+  },
+  {
+    "publisher": "BPS",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Puzzle",
+      "Racing"
+    ],
+    "global_sales_total": 0.52,
+    "global_sales_share": 5.829308868171584e-05
+  },
+  {
+    "publisher": "The Adventure Company",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "global_sales_total": 0.51,
+    "global_sales_share": 5.7172067745528995e-05
+  },
+  {
+    "publisher": "Answer Software",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.5,
+    "global_sales_share": 5.605104680934215e-05
+  },
+  {
+    "publisher": "Hect",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.5,
+    "global_sales_share": 5.605104680934215e-05
+  },
+  {
+    "publisher": "Popcorn Arcade",
+    "game_count": 10,
+    "games_with_sales": 10,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Shooter"
+    ],
+    "global_sales_total": 0.49,
+    "global_sales_share": 5.493002587315531e-05
+  },
+  {
+    "publisher": "Rebellion",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Racing"
+    ],
+    "global_sales_total": 0.49,
+    "global_sales_share": 5.493002587315531e-05
+  },
+  {
+    "publisher": "Activision Blizzard",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.48,
+    "global_sales_share": 5.380900493696846e-05
+  },
+  {
+    "publisher": "Avalon Interactive",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation"
+    ],
+    "global_sales_total": 0.48,
+    "global_sales_share": 5.380900493696846e-05
+  },
+  {
+    "publisher": "Pack In Soft",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.48,
+    "global_sales_share": 5.380900493696846e-05
+  },
+  {
+    "publisher": "Swing! Entertainment",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Platform",
+      "Shooter",
+      "Simulation"
+    ],
+    "global_sales_total": 0.48,
+    "global_sales_share": 5.380900493696846e-05
+  },
+  {
+    "publisher": "Ultravision",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Fighting"
+    ],
+    "global_sales_total": 0.47,
+    "global_sales_share": 5.268798400078162e-05
+  },
+  {
+    "publisher": "Irem Software Engineering",
+    "game_count": 12,
+    "games_with_sales": 12,
+    "genre_count": 6,
+    "genres": [
+      "Action",
+      "Fighting",
+      "Misc",
+      "Role-Playing",
+      "Shooter",
+      "Strategy"
+    ],
+    "global_sales_total": 0.4600000000000001,
+    "global_sales_share": 5.156696306459479e-05
+  },
+  {
+    "publisher": "Valcon Games",
+    "game_count": 8,
+    "games_with_sales": 8,
+    "genre_count": 5,
+    "genres": [
+      "Adventure",
+      "Racing",
+      "Shooter",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 0.45000000000000007,
+    "global_sales_share": 5.0445942128407944e-05
+  },
+  {
+    "publisher": "Shogakukan",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Misc"
+    ],
+    "global_sales_total": 0.44000000000000006,
+    "global_sales_share": 4.93249211922211e-05
+  },
+  {
+    "publisher": "PlayV",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Misc",
+      "Puzzle"
+    ],
+    "global_sales_total": 0.44,
+    "global_sales_share": 4.932492119222109e-05
+  },
+  {
+    "publisher": "Aksys Games",
+    "game_count": 8,
+    "games_with_sales": 8,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.43999999999999995,
+    "global_sales_share": 4.9324921192221087e-05
+  },
+  {
+    "publisher": "Angel Studios",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Fighting",
+      "Role-Playing",
+      "Strategy"
+    ],
+    "global_sales_total": 0.43999999999999995,
+    "global_sales_share": 4.9324921192221087e-05
+  },
+  {
+    "publisher": "NEC",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.43000000000000005,
+    "global_sales_share": 4.8203900256034256e-05
+  },
+  {
+    "publisher": "Tetris Online",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Puzzle"
+    ],
+    "global_sales_total": 0.43,
+    "global_sales_share": 4.820390025603425e-05
+  },
+  {
+    "publisher": "Jack of All Games",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 2,
+    "genres": [
+      "Platform",
+      "Shooter"
+    ],
+    "global_sales_total": 0.42000000000000004,
+    "global_sales_share": 4.708287931984741e-05
+  },
+  {
+    "publisher": "Electronic Arts Victor",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "global_sales_total": 0.42,
+    "global_sales_share": 4.7082879319847405e-05
+  },
+  {
+    "publisher": "TYO",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Racing"
+    ],
+    "global_sales_total": 0.42,
+    "global_sales_share": 4.7082879319847405e-05
+  },
+  {
+    "publisher": "bitComposer Games",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 2,
+    "genres": [
+      "Racing",
+      "Simulation"
+    ],
+    "global_sales_total": 0.41000000000000003,
+    "global_sales_share": 4.596185838366057e-05
+  },
+  {
+    "publisher": "Magical Company",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.41,
+    "global_sales_share": 4.596185838366056e-05
+  },
+  {
+    "publisher": "Microids",
+    "game_count": 10,
+    "games_with_sales": 10,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sports"
+    ],
+    "global_sales_total": 0.40000000000000013,
+    "global_sales_share": 4.484083744747374e-05
+  },
+  {
+    "publisher": "MTO",
+    "game_count": 8,
+    "games_with_sales": 8,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Racing",
+      "Simulation"
+    ],
+    "global_sales_total": 0.4,
+    "global_sales_share": 4.4840837447473724e-05
+  },
+  {
+    "publisher": "NCS",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Strategy"
+    ],
+    "global_sales_total": 0.4,
+    "global_sales_share": 4.4840837447473724e-05
+  },
+  {
+    "publisher": "P2 Games",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 2,
+    "genres": [
+      "Misc",
+      "Puzzle"
+    ],
+    "global_sales_total": 0.4,
+    "global_sales_share": 4.4840837447473724e-05
+  },
+  {
+    "publisher": "ValuSoft",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 3,
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Racing"
+    ],
+    "global_sales_total": 0.39,
+    "global_sales_share": 4.371981651128688e-05
+  },
+  {
+    "publisher": "Blast! Entertainment Ltd",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sports"
+    ],
+    "global_sales_total": 0.38000000000000006,
+    "global_sales_share": 4.259879557510004e-05
+  },
+  {
+    "publisher": "989 Sports",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.38,
+    "global_sales_share": 4.2598795575100035e-05
+  },
+  {
+    "publisher": "Graffiti",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 4,
+    "genres": [
+      "Misc",
+      "Role-Playing",
+      "Shooter",
+      "Simulation"
+    ],
+    "global_sales_total": 0.37999999999999995,
+    "global_sales_share": 4.259879557510003e-05
+  },
+  {
+    "publisher": "Hip Interactive",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "global_sales_total": 0.36,
+    "global_sales_share": 4.035675370272635e-05
+  },
+  {
+    "publisher": "New",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Fighting"
+    ],
+    "global_sales_total": 0.36,
+    "global_sales_share": 4.035675370272635e-05
+  },
+  {
+    "publisher": "Performance Designed Products",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Puzzle"
+    ],
+    "global_sales_total": 0.36,
+    "global_sales_share": 4.035675370272635e-05
+  },
+  {
+    "publisher": "DSI Games",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 0.35000000000000003,
+    "global_sales_share": 3.923573276653951e-05
+  },
+  {
+    "publisher": "Magix",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.35,
+    "global_sales_share": 3.92357327665395e-05
+  },
+  {
+    "publisher": "Time Warner Interactive",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 4,
+    "genres": [
+      "Fighting",
+      "Shooter",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 0.35,
+    "global_sales_share": 3.92357327665395e-05
+  },
+  {
+    "publisher": "Reef Entertainment",
+    "game_count": 7,
+    "games_with_sales": 7,
+    "genre_count": 3,
+    "genres": [
+      "Adventure",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 0.3400000000000001,
+    "global_sales_share": 3.811471183035267e-05
+  },
+  {
+    "publisher": "ITT Family Games",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.34,
+    "global_sales_share": 3.8114711830352666e-05
+  },
+  {
+    "publisher": "Cave",
+    "game_count": 10,
+    "games_with_sales": 10,
+    "genre_count": 4,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Shooter"
+    ],
+    "global_sales_total": 0.33000000000000007,
+    "global_sales_share": 3.699369089416583e-05
+  },
+  {
+    "publisher": "Benesse",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.33,
+    "global_sales_share": 3.699369089416582e-05
+  },
+  {
+    "publisher": "Starpath Corp.",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.33,
+    "global_sales_share": 3.699369089416582e-05
+  },
+  {
+    "publisher": "U.S. Gold",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 2,
+    "genres": [
+      "Platform",
+      "Sports"
+    ],
+    "global_sales_total": 0.33,
+    "global_sales_share": 3.699369089416582e-05
+  },
+  {
+    "publisher": "Evolved Games",
+    "game_count": 8,
+    "games_with_sales": 8,
+    "genre_count": 3,
+    "genres": [
+      "Platform",
+      "Racing",
+      "Shooter"
+    ],
+    "global_sales_total": 0.32000000000000006,
+    "global_sales_share": 3.5872669957978984e-05
+  },
+  {
+    "publisher": "Indie Games",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Simulation"
+    ],
+    "global_sales_total": 0.32,
+    "global_sales_share": 3.587266995797898e-05
+  },
+  {
+    "publisher": "Yacht Club Games",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Platform"
+    ],
+    "global_sales_total": 0.32,
+    "global_sales_share": 3.587266995797898e-05
+  },
+  {
+    "publisher": "Agatsuma Entertainment",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Misc",
+      "Platform"
+    ],
+    "global_sales_total": 0.31000000000000005,
+    "global_sales_share": 3.475164902179214e-05
+  },
+  {
+    "publisher": "Neko Entertainment",
+    "game_count": 7,
+    "games_with_sales": 7,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Puzzle",
+      "Shooter"
+    ],
+    "global_sales_total": 0.31000000000000005,
+    "global_sales_share": 3.475164902179214e-05
+  },
+  {
+    "publisher": "CBS Electronics",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.31,
+    "global_sales_share": 3.4751649021792133e-05
+  },
+  {
+    "publisher": "CokeM Interactive",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.31,
+    "global_sales_share": 3.4751649021792133e-05
+  },
+  {
+    "publisher": "Hackberry",
+    "game_count": 7,
+    "games_with_sales": 7,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.31,
+    "global_sales_share": 3.4751649021792133e-05
+  },
+  {
+    "publisher": "Game Life",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Misc",
+      "Simulation"
+    ],
+    "global_sales_total": 0.30000000000000004,
+    "global_sales_share": 3.3630628085605296e-05
+  },
+  {
+    "publisher": "Hamster Corporation",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Simulation"
+    ],
+    "global_sales_total": 0.30000000000000004,
+    "global_sales_share": 3.3630628085605296e-05
+  },
+  {
+    "publisher": "Mad Catz",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Misc",
+      "Simulation",
+      "Sports"
+    ],
+    "global_sales_total": 0.30000000000000004,
+    "global_sales_share": 3.3630628085605296e-05
+  },
+  {
+    "publisher": "Rebellion Developments",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.30000000000000004,
+    "global_sales_share": 3.3630628085605296e-05
+  },
+  {
+    "publisher": "Core Design Ltd.",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Simulation"
+    ],
+    "global_sales_total": 0.29000000000000004,
+    "global_sales_share": 3.250960714941845e-05
+  },
+  {
+    "publisher": "Data Design Interactive",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Misc",
+      "Racing",
+      "Sports"
+    ],
+    "global_sales_total": 0.29000000000000004,
+    "global_sales_share": 3.250960714941845e-05
+  },
+  {
+    "publisher": "Media Factory",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Sports"
+    ],
+    "global_sales_total": 0.29000000000000004,
+    "global_sales_share": 3.250960714941845e-05
+  },
+  {
+    "publisher": "Wargaming.net",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.29,
+    "global_sales_share": 3.2509607149418445e-05
+  },
+  {
+    "publisher": "Daedalic",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.28,
+    "global_sales_share": 3.138858621323161e-05
+  },
+  {
+    "publisher": "Excalibur Publishing",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Simulation"
+    ],
+    "global_sales_total": 0.28,
+    "global_sales_share": 3.138858621323161e-05
+  },
+  {
+    "publisher": "Nichibutsu",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.28,
+    "global_sales_share": 3.138858621323161e-05
+  },
+  {
+    "publisher": "Playmates",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Racing"
+    ],
+    "global_sales_total": 0.28,
+    "global_sales_share": 3.138858621323161e-05
+  },
+  {
+    "publisher": "Tru Blu Entertainment",
+    "game_count": 8,
+    "games_with_sales": 8,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "global_sales_total": 0.28,
+    "global_sales_share": 3.138858621323161e-05
+  },
+  {
+    "publisher": "ASCII Media Works",
+    "game_count": 9,
+    "games_with_sales": 9,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.27,
+    "global_sales_share": 3.0267565277044764e-05
+  },
+  {
+    "publisher": "Culture Brain",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 4,
+    "genres": [
+      "Adventure",
+      "Misc",
+      "Role-Playing",
+      "Sports"
+    ],
+    "global_sales_total": 0.27,
+    "global_sales_share": 3.0267565277044764e-05
+  },
+  {
+    "publisher": "CyberFront",
+    "game_count": 14,
+    "games_with_sales": 14,
+    "genre_count": 5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc",
+      "Role-Playing",
+      "Strategy"
+    ],
+    "global_sales_total": 0.27,
+    "global_sales_share": 3.0267565277044764e-05
+  },
+  {
+    "publisher": "Liquid Games",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Puzzle",
+      "Racing"
+    ],
+    "global_sales_total": 0.27,
+    "global_sales_share": 3.0267565277044764e-05
+  },
+  {
+    "publisher": "Syscom",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Misc",
+      "Racing"
+    ],
+    "global_sales_total": 0.27,
+    "global_sales_share": 3.0267565277044764e-05
+  },
+  {
+    "publisher": "Telstar",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Racing",
+      "Shooter"
+    ],
+    "global_sales_total": 0.27,
+    "global_sales_share": 3.0267565277044764e-05
+  },
+  {
+    "publisher": "Vic Tokai",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Fighting"
+    ],
+    "global_sales_total": 0.27,
+    "global_sales_share": 3.0267565277044764e-05
+  },
+  {
+    "publisher": "Nippon Telenet",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.26,
+    "global_sales_share": 2.914654434085792e-05
+  },
+  {
+    "publisher": "Pacific Century Cyber Works",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.26,
+    "global_sales_share": 2.914654434085792e-05
+  },
+  {
+    "publisher": "Vir2L Studios",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Racing",
+      "Sports"
+    ],
+    "global_sales_total": 0.26,
+    "global_sales_share": 2.914654434085792e-05
+  },
+  {
+    "publisher": "Asgard",
+    "game_count": 8,
+    "games_with_sales": 8,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Misc"
+    ],
+    "global_sales_total": 0.25,
+    "global_sales_share": 2.8025523404671076e-05
+  },
+  {
+    "publisher": "Axela",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.25,
+    "global_sales_share": 2.8025523404671076e-05
+  },
+  {
+    "publisher": "Paon",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.25,
+    "global_sales_share": 2.8025523404671076e-05
+  },
+  {
+    "publisher": "Yeti",
+    "game_count": 11,
+    "games_with_sales": 11,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting"
+    ],
+    "global_sales_total": 0.24000000000000002,
+    "global_sales_share": 2.6904502468484235e-05
+  },
+  {
+    "publisher": "Xing Entertainment",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Fighting"
+    ],
+    "global_sales_total": 0.24,
+    "global_sales_share": 2.690450246848423e-05
+  },
+  {
+    "publisher": "American Softworks",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.23,
+    "global_sales_share": 2.578348153229739e-05
+  },
+  {
+    "publisher": "Asmik Ace Entertainment",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Adventure",
+      "Fighting",
+      "Simulation"
+    ],
+    "global_sales_total": 0.23,
+    "global_sales_share": 2.578348153229739e-05
+  },
+  {
+    "publisher": "Detn8 Games",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.23,
+    "global_sales_share": 2.578348153229739e-05
+  },
+  {
+    "publisher": "Essential Games",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Shooter",
+      "Strategy"
+    ],
+    "global_sales_total": 0.23,
+    "global_sales_share": 2.578348153229739e-05
+  },
+  {
+    "publisher": "Daito",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.22999999999999998,
+    "global_sales_share": 2.5783481532297387e-05
+  },
+  {
+    "publisher": "Quinrose",
+    "game_count": 14,
+    "games_with_sales": 14,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "global_sales_total": 0.22000000000000008,
+    "global_sales_share": 2.4662460596110557e-05
+  },
+  {
+    "publisher": "System 3",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Platform"
+    ],
+    "global_sales_total": 0.22000000000000003,
+    "global_sales_share": 2.466246059611055e-05
+  },
+  {
+    "publisher": "Bomb",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.22,
+    "global_sales_share": 2.4662460596110547e-05
+  },
+  {
+    "publisher": "CCP",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.22,
+    "global_sales_share": 2.4662460596110547e-05
+  },
+  {
+    "publisher": "O3 Entertainment",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Puzzle",
+      "Shooter",
+      "Simulation"
+    ],
+    "global_sales_total": 0.22,
+    "global_sales_share": 2.4662460596110547e-05
+  },
+  {
+    "publisher": "Vatical Entertainment",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Racing"
+    ],
+    "global_sales_total": 0.22,
+    "global_sales_share": 2.4662460596110547e-05
+  },
+  {
+    "publisher": "Mercury Games",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 2,
+    "genres": [
+      "Role-Playing",
+      "Simulation"
+    ],
+    "global_sales_total": 0.21,
+    "global_sales_share": 2.3541439659923703e-05
+  },
+  {
+    "publisher": "On Demand",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.21,
+    "global_sales_share": 2.3541439659923703e-05
+  },
+  {
+    "publisher": "Sears",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Puzzle"
+    ],
+    "global_sales_total": 0.21,
+    "global_sales_share": 2.3541439659923703e-05
+  },
+  {
+    "publisher": "Slitherine Software",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 1,
+    "genres": [
+      "Strategy"
+    ],
+    "global_sales_total": 0.21,
+    "global_sales_share": 2.3541439659923703e-05
+  },
+  {
+    "publisher": "Tommo",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 3,
+    "genres": [
+      "Misc",
+      "Shooter",
+      "Sports"
+    ],
+    "global_sales_total": 0.21,
+    "global_sales_share": 2.3541439659923703e-05
+  },
+  {
+    "publisher": "Alternative Software",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "global_sales_total": 0.2,
+    "global_sales_share": 2.2420418723736862e-05
+  },
+  {
+    "publisher": "CDV Software Entertainment",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 4,
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Simulation",
+      "Strategy"
+    ],
+    "global_sales_total": 0.2,
+    "global_sales_share": 2.2420418723736862e-05
+  },
+  {
+    "publisher": "Funcom",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.2,
+    "global_sales_share": 2.2420418723736862e-05
+  },
+  {
+    "publisher": "Funsta",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 2,
+    "genres": [
+      "Puzzle",
+      "Shooter"
+    ],
+    "global_sales_total": 0.2,
+    "global_sales_share": 2.2420418723736862e-05
+  },
+  {
+    "publisher": "Merscom LLC",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.2,
+    "global_sales_share": 2.2420418723736862e-05
+  },
+  {
+    "publisher": "Gamecock",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Misc",
+      "Strategy"
+    ],
+    "global_sales_total": 0.19999999999999998,
+    "global_sales_share": 2.242041872373686e-05
+  },
+  {
+    "publisher": "Micro Cabin",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Puzzle",
+      "Role-Playing",
+      "Simulation"
+    ],
+    "global_sales_total": 0.19999999999999998,
+    "global_sales_share": 2.242041872373686e-05
+  },
+  {
+    "publisher": "Phenomedia",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 3,
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Racing"
+    ],
+    "global_sales_total": 0.19,
+    "global_sales_share": 2.1299397787550018e-05
+  },
+  {
+    "publisher": "SSI",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Strategy"
+    ],
+    "global_sales_total": 0.19,
+    "global_sales_share": 2.1299397787550018e-05
+  },
+  {
+    "publisher": "Happinet",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 3,
+    "genres": [
+      "Adventure",
+      "Misc",
+      "Simulation"
+    ],
+    "global_sales_total": 0.18000000000000002,
+    "global_sales_share": 2.0178376851363177e-05
+  },
+  {
+    "publisher": "DHM Interactive",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Puzzle",
+      "Shooter",
+      "Simulation"
+    ],
+    "global_sales_total": 0.18,
+    "global_sales_share": 2.0178376851363174e-05
+  },
+  {
+    "publisher": "Media Works",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 3,
+    "genres": [
+      "Adventure",
+      "Misc",
+      "Strategy"
+    ],
+    "global_sales_total": 0.18,
+    "global_sales_share": 2.0178376851363174e-05
+  },
+  {
+    "publisher": "Adeline Software",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.17,
+    "global_sales_share": 1.9057355915176333e-05
+  },
+  {
+    "publisher": "Asmik Corp",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.17,
+    "global_sales_share": 1.9057355915176333e-05
+  },
+  {
+    "publisher": "Panther Software",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.17,
+    "global_sales_share": 1.9057355915176333e-05
+  },
+  {
+    "publisher": "Tivola",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.17,
+    "global_sales_share": 1.9057355915176333e-05
+  },
+  {
+    "publisher": "Xicat Interactive",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Racing",
+      "Role-Playing",
+      "Sports"
+    ],
+    "global_sales_total": 0.17,
+    "global_sales_share": 1.9057355915176333e-05
+  },
+  {
+    "publisher": "Sunrise Interactive",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 4,
+    "genres": [
+      "Action",
+      "Fighting",
+      "Racing",
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.16999999999999998,
+    "global_sales_share": 1.905735591517633e-05
+  },
+  {
+    "publisher": "Aques",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.16,
+    "global_sales_share": 1.793633497898949e-05
+  },
+  {
+    "publisher": "Gainax Network Systems",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Misc"
+    ],
+    "global_sales_total": 0.16,
+    "global_sales_share": 1.793633497898949e-05
+  },
+  {
+    "publisher": "White Park Bay Software",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Puzzle"
+    ],
+    "global_sales_total": 0.16,
+    "global_sales_share": 1.793633497898949e-05
+  },
+  {
+    "publisher": "Comfort",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "global_sales_total": 0.15000000000000002,
+    "global_sales_share": 1.6815314042802648e-05
+  },
+  {
+    "publisher": "Global A Entertainment",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 2,
+    "genres": [
+      "Misc",
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.15000000000000002,
+    "global_sales_share": 1.6815314042802648e-05
+  },
+  {
+    "publisher": "Data East",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.15,
+    "global_sales_share": 1.6815314042802645e-05
+  },
+  {
+    "publisher": "EA Games",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.15,
+    "global_sales_share": 1.6815314042802645e-05
+  },
+  {
+    "publisher": "Daedalic Entertainment",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.14,
+    "global_sales_share": 1.5694293106615804e-05
+  },
+  {
+    "publisher": "Game Arts",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.14,
+    "global_sales_share": 1.5694293106615804e-05
+  },
+  {
+    "publisher": "General Entertainment",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Strategy"
+    ],
+    "global_sales_total": 0.14,
+    "global_sales_share": 1.5694293106615804e-05
+  },
+  {
+    "publisher": "HMH Interactive",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Misc"
+    ],
+    "global_sales_total": 0.14,
+    "global_sales_share": 1.5694293106615804e-05
+  },
+  {
+    "publisher": "Imadio",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.14,
+    "global_sales_share": 1.5694293106615804e-05
+  },
+  {
+    "publisher": "Kaga Create",
+    "game_count": 6,
+    "games_with_sales": 6,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Misc"
+    ],
+    "global_sales_total": 0.14,
+    "global_sales_share": 1.5694293106615804e-05
+  },
+  {
+    "publisher": "Sony Music Entertainment",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.14,
+    "global_sales_share": 1.5694293106615804e-05
+  },
+  {
+    "publisher": "Tripwire Interactive",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.14,
+    "global_sales_share": 1.5694293106615804e-05
+  },
+  {
+    "publisher": "DreamWorks Interactive",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Platform"
+    ],
+    "global_sales_total": 0.13,
+    "global_sales_share": 1.457327217042896e-05
+  },
+  {
+    "publisher": "Havas Interactive",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.13,
+    "global_sales_share": 1.457327217042896e-05
+  },
+  {
+    "publisher": "Moss",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.13,
+    "global_sales_share": 1.457327217042896e-05
+  },
+  {
+    "publisher": "Myelin Media",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.13,
+    "global_sales_share": 1.457327217042896e-05
+  },
+  {
+    "publisher": "responDESIGN",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.13,
+    "global_sales_share": 1.457327217042896e-05
+  },
+  {
+    "publisher": "SCS Software",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.13,
+    "global_sales_share": 1.457327217042896e-05
+  },
+  {
+    "publisher": "Insomniac Games",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.12000000000000001,
+    "global_sales_share": 1.3452251234242117e-05
+  },
+  {
+    "publisher": "Bohemia Interactive",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.12,
+    "global_sales_share": 1.3452251234242116e-05
+  },
+  {
+    "publisher": "Flight-Plan",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Role-Playing",
+      "Strategy"
+    ],
+    "global_sales_total": 0.12,
+    "global_sales_share": 1.3452251234242116e-05
+  },
+  {
+    "publisher": "FunSoft",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Racing"
+    ],
+    "global_sales_total": 0.12,
+    "global_sales_share": 1.3452251234242116e-05
+  },
+  {
+    "publisher": "LSP Games",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Platform",
+      "Shooter"
+    ],
+    "global_sales_total": 0.12,
+    "global_sales_share": 1.3452251234242116e-05
+  },
+  {
+    "publisher": "NDA Productions",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.12,
+    "global_sales_share": 1.3452251234242116e-05
+  },
+  {
+    "publisher": "SPS",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.12,
+    "global_sales_share": 1.3452251234242116e-05
+  },
+  {
+    "publisher": "T&E Soft",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.12,
+    "global_sales_share": 1.3452251234242116e-05
+  },
+  {
+    "publisher": "TopWare Interactive",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 2,
+    "genres": [
+      "Misc",
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.12,
+    "global_sales_share": 1.3452251234242116e-05
+  },
+  {
+    "publisher": "10TACLE Studios",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Strategy"
+    ],
+    "global_sales_total": 0.11,
+    "global_sales_share": 1.2331230298055273e-05
+  },
+  {
+    "publisher": "Ascaron Entertainment GmbH",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 2,
+    "genres": [
+      "Role-Playing",
+      "Strategy"
+    ],
+    "global_sales_total": 0.11,
+    "global_sales_share": 1.2331230298055273e-05
+  },
+  {
+    "publisher": "dramatic create",
+    "game_count": 5,
+    "games_with_sales": 5,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "global_sales_total": 0.11,
+    "global_sales_share": 1.2331230298055273e-05
+  },
+  {
+    "publisher": "Gameloft",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.11,
+    "global_sales_share": 1.2331230298055273e-05
+  },
+  {
+    "publisher": "Pack-In-Video",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Simulation"
+    ],
+    "global_sales_total": 0.11,
+    "global_sales_share": 1.2331230298055273e-05
+  },
+  {
+    "publisher": "PopTop Software",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Strategy"
+    ],
+    "global_sales_total": 0.11,
+    "global_sales_share": 1.2331230298055273e-05
+  },
+  {
+    "publisher": "Simon & Schuster Interactive",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.11,
+    "global_sales_share": 1.2331230298055273e-05
+  },
+  {
+    "publisher": "TOHO",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.11,
+    "global_sales_share": 1.2331230298055273e-05
+  },
+  {
+    "publisher": "Tradewest",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.11,
+    "global_sales_share": 1.2331230298055273e-05
+  },
+  {
+    "publisher": "Enjoy Gaming ltd.",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.1,
+    "global_sales_share": 1.1210209361868431e-05
+  },
+  {
+    "publisher": "GameTek",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.1,
+    "global_sales_share": 1.1210209361868431e-05
+  },
+  {
+    "publisher": "Image Epoch",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.1,
+    "global_sales_share": 1.1210209361868431e-05
+  },
+  {
+    "publisher": "Interchannel",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.1,
+    "global_sales_share": 1.1210209361868431e-05
+  },
+  {
+    "publisher": "Interplay Productions",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.1,
+    "global_sales_share": 1.1210209361868431e-05
+  },
+  {
+    "publisher": "inXile Entertainment",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.1,
+    "global_sales_share": 1.1210209361868431e-05
+  },
+  {
+    "publisher": "PM Studios",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.1,
+    "global_sales_share": 1.1210209361868431e-05
+  },
+  {
+    "publisher": "Type-Moon",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.1,
+    "global_sales_share": 1.1210209361868431e-05
+  },
+  {
+    "publisher": "1C Company",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Racing",
+      "Role-Playing",
+      "Strategy"
+    ],
+    "global_sales_total": 0.09999999999999999,
+    "global_sales_share": 1.121020936186843e-05
+  },
+  {
+    "publisher": "Creative Core",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Adventure",
+      "Misc",
+      "Simulation"
+    ],
+    "global_sales_total": 0.09999999999999999,
+    "global_sales_share": 1.121020936186843e-05
+  },
+  {
+    "publisher": "TGL",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.09999999999999999,
+    "global_sales_share": 1.121020936186843e-05
+  },
+  {
+    "publisher": "Arika",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 3,
+    "genres": [
+      "Misc",
+      "Role-Playing",
+      "Shooter"
+    ],
+    "global_sales_total": 0.09000000000000001,
+    "global_sales_share": 1.0089188425681589e-05
+  },
+  {
+    "publisher": "Athena",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Sports"
+    ],
+    "global_sales_total": 0.09000000000000001,
+    "global_sales_share": 1.0089188425681589e-05
+  },
+  {
+    "publisher": "Edia",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.09000000000000001,
+    "global_sales_share": 1.0089188425681589e-05
+  },
+  {
+    "publisher": "Culture Publishers",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Puzzle"
+    ],
+    "global_sales_total": 0.09,
+    "global_sales_share": 1.0089188425681587e-05
+  },
+  {
+    "publisher": "Griffin International",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.09,
+    "global_sales_share": 1.0089188425681587e-05
+  },
+  {
+    "publisher": "Groove Games",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.09,
+    "global_sales_share": 1.0089188425681587e-05
+  },
+  {
+    "publisher": "Hearty Robin",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.09,
+    "global_sales_share": 1.0089188425681587e-05
+  },
+  {
+    "publisher": "Nippon Amuse",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.09,
+    "global_sales_share": 1.0089188425681587e-05
+  },
+  {
+    "publisher": "Origin Systems",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.09,
+    "global_sales_share": 1.0089188425681587e-05
+  },
+  {
+    "publisher": "Phantom EFX",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.09,
+    "global_sales_share": 1.0089188425681587e-05
+  },
+  {
+    "publisher": "7G//AMES",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 3,
+    "genres": [
+      "Misc",
+      "Puzzle",
+      "Simulation"
+    ],
+    "global_sales_total": 0.08,
+    "global_sales_share": 8.968167489494744e-06
+  },
+  {
+    "publisher": "Abylight",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.08,
+    "global_sales_share": 8.968167489494744e-06
+  },
+  {
+    "publisher": "Cloud Imperium Games Corporation",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Fighting"
+    ],
+    "global_sales_total": 0.08,
+    "global_sales_share": 8.968167489494744e-06
+  },
+  {
+    "publisher": "Crimson Cow",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "global_sales_total": 0.08,
+    "global_sales_share": 8.968167489494744e-06
+  },
+  {
+    "publisher": "Flashpoint Games",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Platform"
+    ],
+    "global_sales_total": 0.08,
+    "global_sales_share": 8.968167489494744e-06
+  },
+  {
+    "publisher": "Glams",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Strategy"
+    ],
+    "global_sales_total": 0.08,
+    "global_sales_share": 8.968167489494744e-06
+  },
+  {
+    "publisher": "Iceberg Interactive",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 2,
+    "genres": [
+      "Role-Playing",
+      "Strategy"
+    ],
+    "global_sales_total": 0.08,
+    "global_sales_share": 8.968167489494744e-06
+  },
+  {
+    "publisher": "KID",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.08,
+    "global_sales_share": 8.968167489494744e-06
+  },
+  {
+    "publisher": "MC2 Entertainment",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Shooter"
+    ],
+    "global_sales_total": 0.08,
+    "global_sales_share": 8.968167489494744e-06
+  },
+  {
+    "publisher": "Milestone",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.08,
+    "global_sales_share": 8.968167489494744e-06
+  },
+  {
+    "publisher": "Mitsui",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.08,
+    "global_sales_share": 8.968167489494744e-06
+  },
+  {
+    "publisher": "Seventh Chord",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.08,
+    "global_sales_share": 8.968167489494744e-06
+  },
+  {
+    "publisher": "Yuke's",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 2,
+    "genres": [
+      "Fighting",
+      "Racing"
+    ],
+    "global_sales_total": 0.08,
+    "global_sales_share": 8.968167489494744e-06
+  },
+  {
+    "publisher": "Altron",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.07,
+    "global_sales_share": 7.847146553307902e-06
+  },
+  {
+    "publisher": "Aria",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.07,
+    "global_sales_share": 7.847146553307902e-06
+  },
+  {
+    "publisher": "Coconuts Japan",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Misc"
+    ],
+    "global_sales_total": 0.07,
+    "global_sales_share": 7.847146553307902e-06
+  },
+  {
+    "publisher": "Elite",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.07,
+    "global_sales_share": 7.847146553307902e-06
+  },
+  {
+    "publisher": "Encore",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 3,
+    "genres": [
+      "Action",
+      "Racing",
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.07,
+    "global_sales_share": 7.847146553307902e-06
+  },
+  {
+    "publisher": "Evolution Games",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.07,
+    "global_sales_share": 7.847146553307902e-06
+  },
+  {
+    "publisher": "Licensed 4U",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Puzzle"
+    ],
+    "global_sales_total": 0.07,
+    "global_sales_share": 7.847146553307902e-06
+  },
+  {
+    "publisher": "Locus",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.07,
+    "global_sales_share": 7.847146553307902e-06
+  },
+  {
+    "publisher": "Misawa",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.07,
+    "global_sales_share": 7.847146553307902e-06
+  },
+  {
+    "publisher": "Princess Soft",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.07,
+    "global_sales_share": 7.847146553307902e-06
+  },
+  {
+    "publisher": "Warp",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.07,
+    "global_sales_share": 7.847146553307902e-06
+  },
+  {
+    "publisher": "Revolution Software",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.06999999999999999,
+    "global_sales_share": 7.8471465533079e-06
+  },
+  {
+    "publisher": "Experience Inc.",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.060000000000000005,
+    "global_sales_share": 6.726125617121059e-06
+  },
+  {
+    "publisher": "DigiCube",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.06,
+    "global_sales_share": 6.726125617121058e-06
+  },
+  {
+    "publisher": "Ecole",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Fighting"
+    ],
+    "global_sales_total": 0.06,
+    "global_sales_share": 6.726125617121058e-06
+  },
+  {
+    "publisher": "Fortyfive",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.06,
+    "global_sales_share": 6.726125617121058e-06
+  },
+  {
+    "publisher": "Grand Prix Games",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Fighting"
+    ],
+    "global_sales_total": 0.06,
+    "global_sales_share": 6.726125617121058e-06
+  },
+  {
+    "publisher": "HAL Laboratory",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Puzzle"
+    ],
+    "global_sales_total": 0.06,
+    "global_sales_share": 6.726125617121058e-06
+  },
+  {
+    "publisher": "Imax",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.06,
+    "global_sales_share": 6.726125617121058e-06
+  },
+  {
+    "publisher": "iWin",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Puzzle"
+    ],
+    "global_sales_total": 0.06,
+    "global_sales_share": 6.726125617121058e-06
+  },
+  {
+    "publisher": "Office Create",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.06,
+    "global_sales_share": 6.726125617121058e-06
+  },
+  {
+    "publisher": "Sonnet",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.06,
+    "global_sales_share": 6.726125617121058e-06
+  },
+  {
+    "publisher": "Virtual Play Games",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Misc",
+      "Sports"
+    ],
+    "global_sales_total": 0.06,
+    "global_sales_share": 6.726125617121058e-06
+  },
+  {
+    "publisher": "Yumedia",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.06,
+    "global_sales_share": 6.726125617121058e-06
+  },
+  {
+    "publisher": "Zenrin",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.06,
+    "global_sales_share": 6.726125617121058e-06
+  },
+  {
+    "publisher": "Alawar Entertainment",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Big Fish Games",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Dusenberry Martin Racing",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Racing"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Easy Interactive",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Puzzle"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Ertain",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Focus Multimedia",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 2,
+    "genres": [
+      "Misc",
+      "Puzzle"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "GN Software",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Lexicon Entertainment",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Shooter",
+      "Simulation"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Mamba Games",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Strategy"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Marvel Entertainment",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Max Five",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "MediaQuest",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Puzzle"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Milestone S.r.l",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Racing"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Minato Station",
+    "game_count": 3,
+    "games_with_sales": 3,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Monte Christo Multimedia",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Navarre Corp",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Phantagram",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Pony Canyon",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Pow",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Puzzle"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Sweets",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "System Soft",
+    "game_count": 4,
+    "games_with_sales": 4,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Strategy"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Team17 Software",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Strategy"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "TechnoSoft",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "The Learning Company",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Racing"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "Vap",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "WayForward Technologies",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.05,
+    "global_sales_share": 5.6051046809342155e-06
+  },
+  {
+    "publisher": "2D Boy",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Puzzle"
+    ],
+    "global_sales_total": 0.04,
+    "global_sales_share": 4.484083744747372e-06
+  },
+  {
+    "publisher": "49Games",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.04,
+    "global_sales_share": 4.484083744747372e-06
+  },
+  {
+    "publisher": "Alvion",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.04,
+    "global_sales_share": 4.484083744747372e-06
+  },
+  {
+    "publisher": "Devolver Digital",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Puzzle",
+      "Shooter"
+    ],
+    "global_sales_total": 0.04,
+    "global_sales_share": 4.484083744747372e-06
+  },
+  {
+    "publisher": "G.Rev",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Fighting",
+      "Shooter"
+    ],
+    "global_sales_total": 0.04,
+    "global_sales_share": 4.484083744747372e-06
+  },
+  {
+    "publisher": "Gakken",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.04,
+    "global_sales_share": 4.484083744747372e-06
+  },
+  {
+    "publisher": "imageepoch Inc.",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.04,
+    "global_sales_share": 4.484083744747372e-06
+  },
+  {
+    "publisher": "Ivolgamus",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Puzzle"
+    ],
+    "global_sales_total": 0.04,
+    "global_sales_share": 4.484083744747372e-06
+  },
+  {
+    "publisher": "Kool Kizz",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Strategy"
+    ],
+    "global_sales_total": 0.04,
+    "global_sales_share": 4.484083744747372e-06
+  },
+  {
+    "publisher": "Legacy Interactive",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.04,
+    "global_sales_share": 4.484083744747372e-06
+  },
+  {
+    "publisher": "MLB.com",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.04,
+    "global_sales_share": 4.484083744747372e-06
+  },
+  {
+    "publisher": "Playmore",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Fighting"
+    ],
+    "global_sales_total": 0.04,
+    "global_sales_share": 4.484083744747372e-06
+  },
+  {
+    "publisher": "Riverhillsoft",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.04,
+    "global_sales_share": 4.484083744747372e-06
+  },
+  {
+    "publisher": "Societa",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.04,
+    "global_sales_share": 4.484083744747372e-06
+  },
+  {
+    "publisher": "Summitsoft",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.04,
+    "global_sales_share": 4.484083744747372e-06
+  },
+  {
+    "publisher": "Yamasa Entertainment",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.04,
+    "global_sales_share": 4.484083744747372e-06
+  },
+  {
+    "publisher": "Aerosoft",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "ASK",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Berkeley",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Blue Byte",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "BushiRoad",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Cygames",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Platform"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Datam Polystar",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Dorart",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Extreme Entertainment Group",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Fields",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Fuji",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "FuRyu Corporation",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Headup Games",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Her Interactive",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "HuneX",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "id Software",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Intergrow",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Platform"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Just Flight",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Kamui",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Kando Games",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Kids Station",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Kokopeli Digital Studios",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Fighting"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "KSS",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Maximum Family Games",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "NetRevo",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Nexon",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Number None",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Platform"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Paon Corporation",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Strategy First",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Strategy"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Sunflowers",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Strategy"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Tryfirst",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Fighting"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Views",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "global_sales_total": 0.03,
+    "global_sales_share": 3.363062808560529e-06
+  },
+  {
+    "publisher": "Codemasters Online",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "fonfun",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Gaga",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Giga",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Giza10",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "GOA",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Graphsim Entertainment",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Imageworks",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Introversion Software",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Karin Entertainment",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "King Records",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Lighthouse Interactive",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Marvelous Games",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Masque Publishing",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Mirai Shounen",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Mycom",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Nitroplus",
+    "game_count": 2,
+    "games_with_sales": 2,
+    "genre_count": 2,
+    "genres": [
+      "Adventure",
+      "Fighting"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Phoenix Games",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Plenty",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Quintet",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "RED Entertainment",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Revolution (Japan)",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Saurus",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Sold Out",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Technos Japan Corporation",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Visco",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Warashi",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Shooter"
+    ],
+    "global_sales_total": 0.02,
+    "global_sales_share": 2.242041872373686e-06
+  },
+  {
+    "publisher": "Ascaron Entertainment",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Strategy"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "Boost On",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "Commseed",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "EON Digital Entertainment",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Strategy"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "Epic Games",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "Genterprise",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Puzzle"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "Interchannel-Holon",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Strategy"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "Interworks Unlimited, Inc.",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Sports"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "Inti Creates",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "Media Entertainment",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "Michaelsoft",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Role-Playing"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "Naxat Soft",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Misc"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "New World Computing",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Strategy"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "Ongakukan",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "Otomate",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "Paradox Development",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "Piacci",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "Rain Games",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Platform"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "Stainless Games",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Action"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "Takuyo",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Adventure"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  },
+  {
+    "publisher": "UIG Entertainment",
+    "game_count": 1,
+    "games_with_sales": 1,
+    "genre_count": 1,
+    "genres": [
+      "Simulation"
+    ],
+    "global_sales_total": 0.01,
+    "global_sales_share": 1.121020936186843e-06
+  }
+]

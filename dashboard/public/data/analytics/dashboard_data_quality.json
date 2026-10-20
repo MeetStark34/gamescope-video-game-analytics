@@ -1,0 +1,72 @@
+{
+  "source_dataset": "vgsales.csv",
+  "processed_dataset": "vgsales_clean.csv",
+  "original_rows": 16598,
+  "cleaned_rows": 16598,
+  "rows_removed": 0,
+  "missing_value_total": 271,
+  "missing_values_by_field": {
+    "Rank": 0,
+    "Name": 0,
+    "Platform": 0,
+    "Year": 271,
+    "Genre": 0,
+    "Publisher": 0,
+    "NA_Sales": 0,
+    "EU_Sales": 0,
+    "JP_Sales": 0,
+    "Other_Sales": 0,
+    "Global_Sales": 0
+  },
+  "exact_duplicate_groups_flagged": 0,
+  "potential_duplicate_groups_flagged": 1,
+  "duplicate_rows_flagged": 2,
+  "transformation_events": 276,
+  "rows_with_transformations": 276,
+  "transformations_by_field": {
+    "Year": 271,
+    "Name": 5
+  },
+  "categorical_policy": "trim and collapse whitespace only; preserve case, spelling, punctuation, N/A, Unknown, TBD, and other labels",
+  "missing_policy": "blank values become null in processed outputs; numeric null-like tokens become null with row-level audit; categorical tokens remain literal; no imputation",
+  "duplicate_policy": "Candidate duplicate records are flagged and retained; rows removed: 0.",
+  "advanced_source": {
+    "source_dataset": "vgchartz-2024.csv",
+    "processed_dataset": "vgchartz_2024_clean.csv",
+    "original_rows": 64016,
+    "cleaned_rows": 64016,
+    "rows_removed": 0,
+    "missing_value_total": 375291,
+    "missing_values_by_field": {
+      "img": 0,
+      "title": 1533,
+      "console": 1533,
+      "genre": 1533,
+      "publisher": 1533,
+      "developer": 1549,
+      "critic_score": 57475,
+      "total_sales": 45496,
+      "na_sales": 51670,
+      "jp_sales": 57393,
+      "pal_sales": 51453,
+      "other_sales": 49222,
+      "release_date": 8452,
+      "last_update": 46449
+    },
+    "exact_duplicate_groups_flagged": 0,
+    "potential_duplicate_groups_flagged": 142,
+    "duplicate_rows_flagged": 285,
+    "transformation_events": 107546,
+    "rows_with_transformations": 62490,
+    "transformations_by_field": {
+      "last_update": 107398,
+      "developer": 80,
+      "title": 38,
+      "img": 8,
+      "publisher": 22
+    },
+    "categorical_policy": "trim and collapse whitespace only; preserve case, spelling, punctuation, N/A, Unknown, TBD, and other labels",
+    "missing_policy": "blank values become null in processed outputs; numeric null-like tokens become null with row-level audit; categorical tokens remain literal; no imputation",
+    "duplicate_policy": "Candidate duplicate records are flagged and retained; rows removed: 0."
+  }
+}

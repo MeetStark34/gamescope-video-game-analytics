@@ -1,0 +1,113 @@
+{
+  "source_dataset": "vgchartz-2024.csv",
+  "eligible_pair_count": 4043,
+  "source_row_count": 64016,
+  "eligible_pair_percent": 6.315608597850537,
+  "critic_score_valid_range": [
+    0,
+    10
+  ],
+  "critic_score_sales_pearson_r": 0.2839358689368331,
+  "critic_score_sales_spearman_rho": 0.34433566733732507,
+  "critic_score_log1p_sales_pearson_r": 0.3479640835260068,
+  "missing_critic_score_count": 57475,
+  "missing_total_sales_count": 45496,
+  "unparseable_critic_score_count": 0,
+  "unparseable_total_sales_count": 0,
+  "invalid_critic_score_count": 0,
+  "invalid_total_sales_count": 0,
+  "negative_total_sales_count": 0,
+  "critic_score_bands": [
+    {
+      "score_band": "[0, 1)",
+      "score_lower": 0,
+      "score_upper": 1,
+      "upper_inclusive": false,
+      "record_count": 0,
+      "mean_total_sales": null,
+      "median_total_sales": null
+    },
+    {
+      "score_band": "[1, 2)",
+      "score_lower": 1,
+      "score_upper": 2,
+      "upper_inclusive": false,
+      "record_count": 10,
+      "mean_total_sales": 0.13,
+      "median_total_sales": 0.06
+    },
+    {
+      "score_band": "[2, 3)",
+      "score_lower": 2,
+      "score_upper": 3,
+      "upper_inclusive": false,
+      "record_count": 28,
+      "mean_total_sales": 0.20535714285714285,
+      "median_total_sales": 0.065
+    },
+    {
+      "score_band": "[3, 4)",
+      "score_lower": 3,
+      "score_upper": 4,
+      "upper_inclusive": false,
+      "record_count": 93,
+      "mean_total_sales": 0.29096774193548386,
+      "median_total_sales": 0.14
+    },
+    {
+      "score_band": "[4, 5)",
+      "score_lower": 4,
+      "score_upper": 5,
+      "upper_inclusive": false,
+      "record_count": 208,
+      "mean_total_sales": 0.27884615384615385,
+      "median_total_sales": 0.15
+    },
+    {
+      "score_band": "[5, 6)",
+      "score_lower": 5,
+      "score_upper": 6,
+      "upper_inclusive": false,
+      "record_count": 388,
+      "mean_total_sales": 0.3549226804123711,
+      "median_total_sales": 0.19
+    },
+    {
+      "score_band": "[6, 7)",
+      "score_lower": 6,
+      "score_upper": 7,
+      "upper_inclusive": false,
+      "record_count": 838,
+      "mean_total_sales": 0.44405727923627686,
+      "median_total_sales": 0.22
+    },
+    {
+      "score_band": "[7, 8)",
+      "score_lower": 7,
+      "score_upper": 8,
+      "upper_inclusive": false,
+      "record_count": 1172,
+      "mean_total_sales": 0.5786433447098975,
+      "median_total_sales": 0.31
+    },
+    {
+      "score_band": "[8, 9)",
+      "score_lower": 8,
+      "score_upper": 9,
+      "upper_inclusive": false,
+      "record_count": 1030,
+      "mean_total_sales": 1.1171456310679613,
+      "median_total_sales": 0.55
+    },
+    {
+      "score_band": "[9, 10]",
+      "score_lower": 9,
+      "score_upper": 10,
+      "upper_inclusive": true,
+      "record_count": 276,
+      "mean_total_sales": 2.1054710144927538,
+      "median_total_sales": 0.975
+    }
+  ],
+  "interpretation": "Association only; incomplete coverage, selection, and confounding prevent causal conclusions."
+}

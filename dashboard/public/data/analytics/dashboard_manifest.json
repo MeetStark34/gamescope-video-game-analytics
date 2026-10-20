@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "gamescope_analytics_v2",
+  "generated_at": "2026-10-20T15:42:46+02:00",
+  "primary_source": "vgsales.csv",
+  "primary_rows": 16598,
+  "advanced_source": "vgchartz-2024.csv",
+  "advanced_rows": 64016,
+  "exported_files": 41
+}

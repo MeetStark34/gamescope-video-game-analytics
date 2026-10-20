@@ -1,0 +1,626 @@
+[
+  {
+    "console": "Series",
+    "first_observed_release_year": 1971,
+    "last_observed_release_year": 2022,
+    "observed_active_year_count": 43,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "DS",
+    "first_observed_release_year": 1975,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 15,
+    "peak_sales_year": 2008,
+    "peak_annual_sales": 111.25
+  },
+  {
+    "console": "2600",
+    "first_observed_release_year": 1977,
+    "last_observed_release_year": 2017,
+    "observed_active_year_count": 21,
+    "peak_sales_year": 1982,
+    "peak_annual_sales": 28.99
+  },
+  {
+    "console": "PC",
+    "first_observed_release_year": 1977,
+    "last_observed_release_year": 2024,
+    "observed_active_year_count": 47,
+    "peak_sales_year": 2011,
+    "peak_annual_sales": 29.59
+  },
+  {
+    "console": "All",
+    "first_observed_release_year": 1979,
+    "last_observed_release_year": 2024,
+    "observed_active_year_count": 46,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "OSX",
+    "first_observed_release_year": 1979,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 26,
+    "peak_sales_year": 2009,
+    "peak_annual_sales": 0.03
+  },
+  {
+    "console": "Arc",
+    "first_observed_release_year": 1980,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 20,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "Int",
+    "first_observed_release_year": 1980,
+    "last_observed_release_year": 1989,
+    "observed_active_year_count": 9,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "5200",
+    "first_observed_release_year": 1981,
+    "last_observed_release_year": 2007,
+    "observed_active_year_count": 6,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "ApII",
+    "first_observed_release_year": 1981,
+    "last_observed_release_year": 1990,
+    "observed_active_year_count": 5,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "CV",
+    "first_observed_release_year": 1981,
+    "last_observed_release_year": 1985,
+    "observed_active_year_count": 5,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "C64",
+    "first_observed_release_year": 1983,
+    "last_observed_release_year": 1992,
+    "observed_active_year_count": 10,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "NES",
+    "first_observed_release_year": 1983,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 16,
+    "peak_sales_year": 1986,
+    "peak_annual_sales": 9.95
+  },
+  {
+    "console": "Aco",
+    "first_observed_release_year": 1984,
+    "last_observed_release_year": 1984,
+    "observed_active_year_count": 1,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "ACPC",
+    "first_observed_release_year": 1984,
+    "last_observed_release_year": 1991,
+    "observed_active_year_count": 8,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "BBCM",
+    "first_observed_release_year": 1984,
+    "last_observed_release_year": 1984,
+    "observed_active_year_count": 1,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "ZXS",
+    "first_observed_release_year": 1984,
+    "last_observed_release_year": 2014,
+    "observed_active_year_count": 8,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "AST",
+    "first_observed_release_year": 1985,
+    "last_observed_release_year": 1992,
+    "observed_active_year_count": 7,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "MS",
+    "first_observed_release_year": 1985,
+    "last_observed_release_year": 1998,
+    "observed_active_year_count": 14,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "MSD",
+    "first_observed_release_year": 1985,
+    "last_observed_release_year": 2014,
+    "observed_active_year_count": 11,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "MSX",
+    "first_observed_release_year": 1985,
+    "last_observed_release_year": 1989,
+    "observed_active_year_count": 4,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "7800",
+    "first_observed_release_year": 1986,
+    "last_observed_release_year": 2002,
+    "observed_active_year_count": 7,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "Amig",
+    "first_observed_release_year": 1986,
+    "last_observed_release_year": 2018,
+    "observed_active_year_count": 12,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "GEN",
+    "first_observed_release_year": 1986,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 14,
+    "peak_sales_year": 1994,
+    "peak_annual_sales": 8.47
+  },
+  {
+    "console": "PS",
+    "first_observed_release_year": 1986,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 18,
+    "peak_sales_year": 1999,
+    "peak_annual_sales": 128.55
+  },
+  {
+    "console": "SNES",
+    "first_observed_release_year": 1986,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 14,
+    "peak_sales_year": 1994,
+    "peak_annual_sales": 22.0
+  },
+  {
+    "console": "BRW",
+    "first_observed_release_year": 1987,
+    "last_observed_release_year": 2015,
+    "observed_active_year_count": 8,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "PCE",
+    "first_observed_release_year": 1987,
+    "last_observed_release_year": 1996,
+    "observed_active_year_count": 10,
+    "peak_sales_year": 1995,
+    "peak_annual_sales": 0.16
+  },
+  {
+    "console": "FMT",
+    "first_observed_release_year": 1989,
+    "last_observed_release_year": 1994,
+    "observed_active_year_count": 3,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "GB",
+    "first_observed_release_year": 1989,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 16,
+    "peak_sales_year": 2001,
+    "peak_annual_sales": 4.48
+  },
+  {
+    "console": "Lynx",
+    "first_observed_release_year": 1989,
+    "last_observed_release_year": 2015,
+    "observed_active_year_count": 13,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "SCD",
+    "first_observed_release_year": 1989,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 13,
+    "peak_sales_year": 1994,
+    "peak_annual_sales": 0.37
+  },
+  {
+    "console": "TG16",
+    "first_observed_release_year": 1989,
+    "last_observed_release_year": 1993,
+    "observed_active_year_count": 3,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "GG",
+    "first_observed_release_year": 1990,
+    "last_observed_release_year": 1997,
+    "observed_active_year_count": 8,
+    "peak_sales_year": 1992,
+    "peak_annual_sales": 0.04
+  },
+  {
+    "console": "NG",
+    "first_observed_release_year": 1991,
+    "last_observed_release_year": 2010,
+    "observed_active_year_count": 17,
+    "peak_sales_year": 1994,
+    "peak_annual_sales": 0.71
+  },
+  {
+    "console": "3DO",
+    "first_observed_release_year": 1993,
+    "last_observed_release_year": 2007,
+    "observed_active_year_count": 5,
+    "peak_sales_year": 1995,
+    "peak_annual_sales": 0.1
+  },
+  {
+    "console": "AJ",
+    "first_observed_release_year": 1993,
+    "last_observed_release_year": 2006,
+    "observed_active_year_count": 12,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "CDi",
+    "first_observed_release_year": 1993,
+    "last_observed_release_year": 1995,
+    "observed_active_year_count": 3,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "Mob",
+    "first_observed_release_year": 1993,
+    "last_observed_release_year": 2013,
+    "observed_active_year_count": 14,
+    "peak_sales_year": 2009,
+    "peak_annual_sales": 0.03
+  },
+  {
+    "console": "CD32",
+    "first_observed_release_year": 1994,
+    "last_observed_release_year": 1994,
+    "observed_active_year_count": 1,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "PCFX",
+    "first_observed_release_year": 1994,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 8,
+    "peak_sales_year": 1996,
+    "peak_annual_sales": 0.03
+  },
+  {
+    "console": "S32X",
+    "first_observed_release_year": 1994,
+    "last_observed_release_year": 2012,
+    "observed_active_year_count": 3,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "SAT",
+    "first_observed_release_year": 1994,
+    "last_observed_release_year": 2021,
+    "observed_active_year_count": 9,
+    "peak_sales_year": 1996,
+    "peak_annual_sales": 12.65
+  },
+  {
+    "console": "VB",
+    "first_observed_release_year": 1995,
+    "last_observed_release_year": 1996,
+    "observed_active_year_count": 2,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "Linux",
+    "first_observed_release_year": 1996,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 14,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "N64",
+    "first_observed_release_year": 1996,
+    "last_observed_release_year": 2002,
+    "observed_active_year_count": 7,
+    "peak_sales_year": 1999,
+    "peak_annual_sales": 26.75
+  },
+  {
+    "console": "DC",
+    "first_observed_release_year": 1998,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 18,
+    "peak_sales_year": 1999,
+    "peak_annual_sales": 6.06
+  },
+  {
+    "console": "GBC",
+    "first_observed_release_year": 1998,
+    "last_observed_release_year": 2002,
+    "observed_active_year_count": 5,
+    "peak_sales_year": 2001,
+    "peak_annual_sales": 3.7800000000000002
+  },
+  {
+    "console": "WS",
+    "first_observed_release_year": 1999,
+    "last_observed_release_year": 2004,
+    "observed_active_year_count": 6,
+    "peak_sales_year": 2000,
+    "peak_annual_sales": 0.68
+  },
+  {
+    "console": "PS2",
+    "first_observed_release_year": 2000,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 16,
+    "peak_sales_year": 2002,
+    "peak_annual_sales": 175.7
+  },
+  {
+    "console": "PS3",
+    "first_observed_release_year": 2000,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 15,
+    "peak_sales_year": 2011,
+    "peak_annual_sales": 153.67
+  },
+  {
+    "console": "Wii",
+    "first_observed_release_year": 2000,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 16,
+    "peak_sales_year": 2009,
+    "peak_annual_sales": 105.46
+  },
+  {
+    "console": "GBA",
+    "first_observed_release_year": 2001,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 10,
+    "peak_sales_year": 2004,
+    "peak_annual_sales": 52.19
+  },
+  {
+    "console": "GC",
+    "first_observed_release_year": 2001,
+    "last_observed_release_year": 2008,
+    "observed_active_year_count": 8,
+    "peak_sales_year": 2002,
+    "peak_annual_sales": 26.7
+  },
+  {
+    "console": "XB",
+    "first_observed_release_year": 2001,
+    "last_observed_release_year": 2008,
+    "observed_active_year_count": 8,
+    "peak_sales_year": 2003,
+    "peak_annual_sales": 53.45
+  },
+  {
+    "console": "XBL",
+    "first_observed_release_year": 2002,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 12,
+    "peak_sales_year": 2008,
+    "peak_annual_sales": 0.15
+  },
+  {
+    "console": "NGage",
+    "first_observed_release_year": 2003,
+    "last_observed_release_year": 2008,
+    "observed_active_year_count": 5,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "PSP",
+    "first_observed_release_year": 2004,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 15,
+    "peak_sales_year": 2006,
+    "peak_annual_sales": 46.73
+  },
+  {
+    "console": "GIZ",
+    "first_observed_release_year": 2005,
+    "last_observed_release_year": 2005,
+    "observed_active_year_count": 1,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "X360",
+    "first_observed_release_year": 2005,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 15,
+    "peak_sales_year": 2011,
+    "peak_annual_sales": 140.15
+  },
+  {
+    "console": "PSN",
+    "first_observed_release_year": 2006,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 12,
+    "peak_sales_year": 2009,
+    "peak_annual_sales": 2.9
+  },
+  {
+    "console": "VC",
+    "first_observed_release_year": 2006,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 10,
+    "peak_sales_year": 2007,
+    "peak_annual_sales": 0.28
+  },
+  {
+    "console": "3DS",
+    "first_observed_release_year": 2007,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 12,
+    "peak_sales_year": 2011,
+    "peak_annual_sales": 22.52
+  },
+  {
+    "console": "WiiU",
+    "first_observed_release_year": 2007,
+    "last_observed_release_year": 2021,
+    "observed_active_year_count": 12,
+    "peak_sales_year": 2013,
+    "peak_annual_sales": 9.9
+  },
+  {
+    "console": "DSiW",
+    "first_observed_release_year": 2008,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 6,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "WW",
+    "first_observed_release_year": 2008,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 6,
+    "peak_sales_year": 2009,
+    "peak_annual_sales": 0.25
+  },
+  {
+    "console": "And",
+    "first_observed_release_year": 2009,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 12,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "DSi",
+    "first_observed_release_year": 2009,
+    "last_observed_release_year": 2014,
+    "observed_active_year_count": 6,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "PSV",
+    "first_observed_release_year": 2009,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 11,
+    "peak_sales_year": 2012,
+    "peak_annual_sales": 20.98
+  },
+  {
+    "console": "WinP",
+    "first_observed_release_year": 2009,
+    "last_observed_release_year": 2021,
+    "observed_active_year_count": 9,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "iOS",
+    "first_observed_release_year": 2010,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 11,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "Ouya",
+    "first_observed_release_year": 2013,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 5,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "PS4",
+    "first_observed_release_year": 2013,
+    "last_observed_release_year": 2024,
+    "observed_active_year_count": 12,
+    "peak_sales_year": 2016,
+    "peak_annual_sales": 112.05
+  },
+  {
+    "console": "XOne",
+    "first_observed_release_year": 2013,
+    "last_observed_release_year": 2024,
+    "observed_active_year_count": 12,
+    "peak_sales_year": 2014,
+    "peak_annual_sales": 61.39
+  },
+  {
+    "console": "NS",
+    "first_observed_release_year": 2015,
+    "last_observed_release_year": 2024,
+    "observed_active_year_count": 9,
+    "peak_sales_year": 2018,
+    "peak_annual_sales": 20.16
+  },
+  {
+    "console": "OR",
+    "first_observed_release_year": 2016,
+    "last_observed_release_year": 2020,
+    "observed_active_year_count": 5,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "PS5",
+    "first_observed_release_year": 2020,
+    "last_observed_release_year": 2024,
+    "observed_active_year_count": 5,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  },
+  {
+    "console": "XS",
+    "first_observed_release_year": 2020,
+    "last_observed_release_year": 2024,
+    "observed_active_year_count": 5,
+    "peak_sales_year": null,
+    "peak_annual_sales": null
+  }
+]

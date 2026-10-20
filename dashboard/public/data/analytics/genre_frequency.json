@@ -1,0 +1,50 @@
+[
+  {
+    "genre": "Action",
+    "game_count": 3316
+  },
+  {
+    "genre": "Sports",
+    "game_count": 2346
+  },
+  {
+    "genre": "Misc",
+    "game_count": 1739
+  },
+  {
+    "genre": "Role-Playing",
+    "game_count": 1488
+  },
+  {
+    "genre": "Shooter",
+    "game_count": 1310
+  },
+  {
+    "genre": "Adventure",
+    "game_count": 1286
+  },
+  {
+    "genre": "Racing",
+    "game_count": 1249
+  },
+  {
+    "genre": "Platform",
+    "game_count": 886
+  },
+  {
+    "genre": "Simulation",
+    "game_count": 867
+  },
+  {
+    "genre": "Fighting",
+    "game_count": 848
+  },
+  {
+    "genre": "Strategy",
+    "game_count": 681
+  },
+  {
+    "genre": "Puzzle",
+    "game_count": 582
+  }
+]

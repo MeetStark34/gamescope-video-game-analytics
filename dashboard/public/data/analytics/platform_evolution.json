@@ -1,0 +1,1689 @@
+[
+  {
+    "platform": "2600",
+    "year": 1980,
+    "games_released": 9,
+    "games_with_sales": 9,
+    "global_sales_total": 11.379999999999999
+  },
+  {
+    "platform": "2600",
+    "year": 1981,
+    "games_released": 46,
+    "games_with_sales": 46,
+    "global_sales_total": 35.77
+  },
+  {
+    "platform": "2600",
+    "year": 1982,
+    "games_released": 36,
+    "games_with_sales": 36,
+    "global_sales_total": 28.86
+  },
+  {
+    "platform": "2600",
+    "year": 1983,
+    "games_released": 11,
+    "games_with_sales": 11,
+    "global_sales_total": 5.83
+  },
+  {
+    "platform": "2600",
+    "year": 1984,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.27
+  },
+  {
+    "platform": "2600",
+    "year": 1985,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.45
+  },
+  {
+    "platform": "2600",
+    "year": 1986,
+    "games_released": 2,
+    "games_with_sales": 2,
+    "global_sales_total": 0.6599999999999999
+  },
+  {
+    "platform": "2600",
+    "year": 1987,
+    "games_released": 6,
+    "games_with_sales": 6,
+    "global_sales_total": 1.98
+  },
+  {
+    "platform": "2600",
+    "year": 1988,
+    "games_released": 2,
+    "games_with_sales": 2,
+    "global_sales_total": 0.75
+  },
+  {
+    "platform": "2600",
+    "year": 1989,
+    "games_released": 2,
+    "games_with_sales": 2,
+    "global_sales_total": 0.62
+  },
+  {
+    "platform": "3DO",
+    "year": 1994,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.02
+  },
+  {
+    "platform": "3DO",
+    "year": 1995,
+    "games_released": 2,
+    "games_with_sales": 2,
+    "global_sales_total": 0.08
+  },
+  {
+    "platform": "3DS",
+    "year": 2011,
+    "games_released": 116,
+    "games_with_sales": 116,
+    "global_sales_total": 62.53
+  },
+  {
+    "platform": "3DS",
+    "year": 2012,
+    "games_released": 93,
+    "games_with_sales": 93,
+    "global_sales_total": 51.14
+  },
+  {
+    "platform": "3DS",
+    "year": 2013,
+    "games_released": 91,
+    "games_with_sales": 91,
+    "global_sales_total": 55.88
+  },
+  {
+    "platform": "3DS",
+    "year": 2014,
+    "games_released": 79,
+    "games_with_sales": 79,
+    "global_sales_total": 43.14
+  },
+  {
+    "platform": "3DS",
+    "year": 2015,
+    "games_released": 86,
+    "games_with_sales": 86,
+    "global_sales_total": 26.99
+  },
+  {
+    "platform": "3DS",
+    "year": 2016,
+    "games_released": 35,
+    "games_with_sales": 35,
+    "global_sales_total": 6.6000000000000005
+  },
+  {
+    "platform": "DC",
+    "year": 1998,
+    "games_released": 7,
+    "games_with_sales": 7,
+    "global_sales_total": 3.39
+  },
+  {
+    "platform": "DC",
+    "year": 1999,
+    "games_released": 14,
+    "games_with_sales": 14,
+    "global_sales_total": 5.17
+  },
+  {
+    "platform": "DC",
+    "year": 2000,
+    "games_released": 20,
+    "games_with_sales": 20,
+    "global_sales_total": 5.99
+  },
+  {
+    "platform": "DC",
+    "year": 2001,
+    "games_released": 8,
+    "games_with_sales": 8,
+    "global_sales_total": 1.07
+  },
+  {
+    "platform": "DC",
+    "year": 2002,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.29
+  },
+  {
+    "platform": "DC",
+    "year": 2007,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.02
+  },
+  {
+    "platform": "DC",
+    "year": 2008,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.04
+  },
+  {
+    "platform": "DS",
+    "year": 1985,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.02
+  },
+  {
+    "platform": "DS",
+    "year": 2004,
+    "games_released": 23,
+    "games_with_sales": 23,
+    "global_sales_total": 17.46
+  },
+  {
+    "platform": "DS",
+    "year": 2005,
+    "games_released": 118,
+    "games_with_sales": 118,
+    "global_sales_total": 131.4
+  },
+  {
+    "platform": "DS",
+    "year": 2006,
+    "games_released": 202,
+    "games_with_sales": 202,
+    "global_sales_total": 121.15
+  },
+  {
+    "platform": "DS",
+    "year": 2007,
+    "games_released": 377,
+    "games_with_sales": 377,
+    "global_sales_total": 149.36
+  },
+  {
+    "platform": "DS",
+    "year": 2008,
+    "games_released": 492,
+    "games_with_sales": 492,
+    "global_sales_total": 147.89
+  },
+  {
+    "platform": "DS",
+    "year": 2009,
+    "games_released": 405,
+    "games_with_sales": 405,
+    "global_sales_total": 121.99
+  },
+  {
+    "platform": "DS",
+    "year": 2010,
+    "games_released": 326,
+    "games_with_sales": 326,
+    "global_sales_total": 87.98
+  },
+  {
+    "platform": "DS",
+    "year": 2011,
+    "games_released": 153,
+    "games_with_sales": 153,
+    "global_sales_total": 27.8
+  },
+  {
+    "platform": "DS",
+    "year": 2012,
+    "games_released": 25,
+    "games_with_sales": 25,
+    "global_sales_total": 11.64
+  },
+  {
+    "platform": "DS",
+    "year": 2013,
+    "games_released": 9,
+    "games_with_sales": 9,
+    "global_sales_total": 1.96
+  },
+  {
+    "platform": "DS",
+    "year": 2014,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.02
+  },
+  {
+    "platform": "DS",
+    "year": 2020,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.29
+  },
+  {
+    "platform": "GB",
+    "year": 1988,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 1.43
+  },
+  {
+    "platform": "GB",
+    "year": 1989,
+    "games_released": 10,
+    "games_with_sales": 10,
+    "global_sales_total": 64.98
+  },
+  {
+    "platform": "GB",
+    "year": 1990,
+    "games_released": 3,
+    "games_with_sales": 3,
+    "global_sales_total": 4.89
+  },
+  {
+    "platform": "GB",
+    "year": 1991,
+    "games_released": 9,
+    "games_with_sales": 9,
+    "global_sales_total": 5.57
+  },
+  {
+    "platform": "GB",
+    "year": 1992,
+    "games_released": 7,
+    "games_with_sales": 7,
+    "global_sales_total": 25.48
+  },
+  {
+    "platform": "GB",
+    "year": 1994,
+    "games_released": 3,
+    "games_with_sales": 3,
+    "global_sales_total": 12.17
+  },
+  {
+    "platform": "GB",
+    "year": 1995,
+    "games_released": 4,
+    "games_with_sales": 4,
+    "global_sales_total": 3.5999999999999996
+  },
+  {
+    "platform": "GB",
+    "year": 1996,
+    "games_released": 6,
+    "games_with_sales": 6,
+    "global_sales_total": 36.02
+  },
+  {
+    "platform": "GB",
+    "year": 1997,
+    "games_released": 8,
+    "games_with_sales": 8,
+    "global_sales_total": 6.37
+  },
+  {
+    "platform": "GB",
+    "year": 1998,
+    "games_released": 8,
+    "games_with_sales": 8,
+    "global_sales_total": 26.900000000000002
+  },
+  {
+    "platform": "GB",
+    "year": 1999,
+    "games_released": 11,
+    "games_with_sales": 11,
+    "global_sales_total": 38.01
+  },
+  {
+    "platform": "GB",
+    "year": 2000,
+    "games_released": 17,
+    "games_with_sales": 17,
+    "global_sales_total": 19.76
+  },
+  {
+    "platform": "GB",
+    "year": 2001,
+    "games_released": 10,
+    "games_with_sales": 10,
+    "global_sales_total": 9.24
+  },
+  {
+    "platform": "GBA",
+    "year": 2000,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.06
+  },
+  {
+    "platform": "GBA",
+    "year": 2001,
+    "games_released": 107,
+    "games_with_sales": 107,
+    "global_sales_total": 61.62
+  },
+  {
+    "platform": "GBA",
+    "year": 2002,
+    "games_released": 198,
+    "games_with_sales": 198,
+    "global_sales_total": 74.38
+  },
+  {
+    "platform": "GBA",
+    "year": 2003,
+    "games_released": 150,
+    "games_with_sales": 150,
+    "global_sales_total": 56.730000000000004
+  },
+  {
+    "platform": "GBA",
+    "year": 2004,
+    "games_released": 175,
+    "games_with_sales": 175,
+    "global_sales_total": 78.09
+  },
+  {
+    "platform": "GBA",
+    "year": 2005,
+    "games_released": 135,
+    "games_with_sales": 135,
+    "global_sales_total": 33.9
+  },
+  {
+    "platform": "GBA",
+    "year": 2006,
+    "games_released": 39,
+    "games_with_sales": 39,
+    "global_sales_total": 5.35
+  },
+  {
+    "platform": "GBA",
+    "year": 2007,
+    "games_released": 6,
+    "games_with_sales": 6,
+    "global_sales_total": 3.43
+  },
+  {
+    "platform": "GC",
+    "year": 2001,
+    "games_released": 22,
+    "games_with_sales": 22,
+    "global_sales_total": 26.3
+  },
+  {
+    "platform": "GC",
+    "year": 2002,
+    "games_released": 152,
+    "games_with_sales": 152,
+    "global_sales_total": 51.93
+  },
+  {
+    "platform": "GC",
+    "year": 2003,
+    "games_released": 144,
+    "games_with_sales": 144,
+    "global_sales_total": 50.660000000000004
+  },
+  {
+    "platform": "GC",
+    "year": 2004,
+    "games_released": 83,
+    "games_with_sales": 83,
+    "global_sales_total": 28.89
+  },
+  {
+    "platform": "GC",
+    "year": 2005,
+    "games_released": 97,
+    "games_with_sales": 97,
+    "global_sales_total": 27.8
+  },
+  {
+    "platform": "GC",
+    "year": 2006,
+    "games_released": 40,
+    "games_with_sales": 40,
+    "global_sales_total": 11.290000000000001
+  },
+  {
+    "platform": "GC",
+    "year": 2007,
+    "games_released": 4,
+    "games_with_sales": 4,
+    "global_sales_total": 0.27
+  },
+  {
+    "platform": "GEN",
+    "year": 1990,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 2.6
+  },
+  {
+    "platform": "GEN",
+    "year": 1991,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 4.34
+  },
+  {
+    "platform": "GEN",
+    "year": 1992,
+    "games_released": 6,
+    "games_with_sales": 6,
+    "global_sales_total": 12.66
+  },
+  {
+    "platform": "GEN",
+    "year": 1993,
+    "games_released": 7,
+    "games_with_sales": 7,
+    "global_sales_total": 0.65
+  },
+  {
+    "platform": "GEN",
+    "year": 1994,
+    "games_released": 12,
+    "games_with_sales": 12,
+    "global_sales_total": 8.11
+  },
+  {
+    "platform": "GG",
+    "year": 1992,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.04
+  },
+  {
+    "platform": "N64",
+    "year": 1996,
+    "games_released": 18,
+    "games_with_sales": 18,
+    "global_sales_total": 34.11
+  },
+  {
+    "platform": "N64",
+    "year": 1997,
+    "games_released": 49,
+    "games_with_sales": 49,
+    "global_sales_total": 39.51
+  },
+  {
+    "platform": "N64",
+    "year": 1998,
+    "games_released": 77,
+    "games_with_sales": 77,
+    "global_sales_total": 49.28
+  },
+  {
+    "platform": "N64",
+    "year": 1999,
+    "games_released": 102,
+    "games_with_sales": 102,
+    "global_sales_total": 57.96
+  },
+  {
+    "platform": "N64",
+    "year": 2000,
+    "games_released": 60,
+    "games_with_sales": 60,
+    "global_sales_total": 34.01
+  },
+  {
+    "platform": "N64",
+    "year": 2001,
+    "games_released": 9,
+    "games_with_sales": 9,
+    "global_sales_total": 3.26
+  },
+  {
+    "platform": "N64",
+    "year": 2002,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.08
+  },
+  {
+    "platform": "NES",
+    "year": 1983,
+    "games_released": 6,
+    "games_with_sales": 6,
+    "global_sales_total": 10.96
+  },
+  {
+    "platform": "NES",
+    "year": 1984,
+    "games_released": 13,
+    "games_with_sales": 13,
+    "global_sales_total": 50.089999999999996
+  },
+  {
+    "platform": "NES",
+    "year": 1985,
+    "games_released": 11,
+    "games_with_sales": 11,
+    "global_sales_total": 53.440000000000005
+  },
+  {
+    "platform": "NES",
+    "year": 1986,
+    "games_released": 19,
+    "games_with_sales": 19,
+    "global_sales_total": 36.41
+  },
+  {
+    "platform": "NES",
+    "year": 1987,
+    "games_released": 10,
+    "games_with_sales": 10,
+    "global_sales_total": 19.759999999999998
+  },
+  {
+    "platform": "NES",
+    "year": 1988,
+    "games_released": 11,
+    "games_with_sales": 11,
+    "global_sales_total": 45.01
+  },
+  {
+    "platform": "NES",
+    "year": 1989,
+    "games_released": 5,
+    "games_with_sales": 5,
+    "global_sales_total": 7.85
+  },
+  {
+    "platform": "NES",
+    "year": 1990,
+    "games_released": 8,
+    "games_with_sales": 8,
+    "global_sales_total": 15.74
+  },
+  {
+    "platform": "NES",
+    "year": 1991,
+    "games_released": 7,
+    "games_with_sales": 7,
+    "global_sales_total": 6.11
+  },
+  {
+    "platform": "NES",
+    "year": 1992,
+    "games_released": 3,
+    "games_with_sales": 3,
+    "global_sales_total": 1.9800000000000002
+  },
+  {
+    "platform": "NES",
+    "year": 1993,
+    "games_released": 4,
+    "games_with_sales": 4,
+    "global_sales_total": 3.61
+  },
+  {
+    "platform": "NES",
+    "year": 1994,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.11
+  },
+  {
+    "platform": "NG",
+    "year": 1993,
+    "games_released": 2,
+    "games_with_sales": 2,
+    "global_sales_total": 0.21000000000000002
+  },
+  {
+    "platform": "NG",
+    "year": 1994,
+    "games_released": 4,
+    "games_with_sales": 4,
+    "global_sales_total": 0.8
+  },
+  {
+    "platform": "NG",
+    "year": 1995,
+    "games_released": 4,
+    "games_with_sales": 4,
+    "global_sales_total": 0.33
+  },
+  {
+    "platform": "NG",
+    "year": 1996,
+    "games_released": 2,
+    "games_with_sales": 2,
+    "global_sales_total": 0.1
+  },
+  {
+    "platform": "PC",
+    "year": 1985,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.03
+  },
+  {
+    "platform": "PC",
+    "year": 1988,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.03
+  },
+  {
+    "platform": "PC",
+    "year": 1992,
+    "games_released": 5,
+    "games_with_sales": 5,
+    "global_sales_total": 3.02
+  },
+  {
+    "platform": "PC",
+    "year": 1994,
+    "games_released": 6,
+    "games_with_sales": 6,
+    "global_sales_total": 12.85
+  },
+  {
+    "platform": "PC",
+    "year": 1995,
+    "games_released": 2,
+    "games_with_sales": 2,
+    "global_sales_total": 4.2299999999999995
+  },
+  {
+    "platform": "PC",
+    "year": 1996,
+    "games_released": 4,
+    "games_with_sales": 4,
+    "global_sales_total": 10.59
+  },
+  {
+    "platform": "PC",
+    "year": 1997,
+    "games_released": 6,
+    "games_with_sales": 6,
+    "global_sales_total": 11.26
+  },
+  {
+    "platform": "PC",
+    "year": 1998,
+    "games_released": 8,
+    "games_with_sales": 8,
+    "global_sales_total": 3.2800000000000002
+  },
+  {
+    "platform": "PC",
+    "year": 1999,
+    "games_released": 7,
+    "games_with_sales": 7,
+    "global_sales_total": 4.75
+  },
+  {
+    "platform": "PC",
+    "year": 2000,
+    "games_released": 7,
+    "games_with_sales": 7,
+    "global_sales_total": 4.680000000000001
+  },
+  {
+    "platform": "PC",
+    "year": 2001,
+    "games_released": 15,
+    "games_with_sales": 15,
+    "global_sales_total": 5.510000000000001
+  },
+  {
+    "platform": "PC",
+    "year": 2002,
+    "games_released": 19,
+    "games_with_sales": 19,
+    "global_sales_total": 8.6
+  },
+  {
+    "platform": "PC",
+    "year": 2003,
+    "games_released": 33,
+    "games_with_sales": 33,
+    "global_sales_total": 8.959999999999999
+  },
+  {
+    "platform": "PC",
+    "year": 2004,
+    "games_released": 31,
+    "games_with_sales": 31,
+    "global_sales_total": 10.46
+  },
+  {
+    "platform": "PC",
+    "year": 2005,
+    "games_released": 37,
+    "games_with_sales": 37,
+    "global_sales_total": 4.47
+  },
+  {
+    "platform": "PC",
+    "year": 2006,
+    "games_released": 52,
+    "games_with_sales": 52,
+    "global_sales_total": 2.97
+  },
+  {
+    "platform": "PC",
+    "year": 2007,
+    "games_released": 63,
+    "games_with_sales": 63,
+    "global_sales_total": 9.4
+  },
+  {
+    "platform": "PC",
+    "year": 2008,
+    "games_released": 76,
+    "games_with_sales": 76,
+    "global_sales_total": 12.67
+  },
+  {
+    "platform": "PC",
+    "year": 2009,
+    "games_released": 109,
+    "games_with_sales": 109,
+    "global_sales_total": 17.16
+  },
+  {
+    "platform": "PC",
+    "year": 2010,
+    "games_released": 90,
+    "games_with_sales": 90,
+    "global_sales_total": 24.46
+  },
+  {
+    "platform": "PC",
+    "year": 2011,
+    "games_released": 140,
+    "games_with_sales": 140,
+    "global_sales_total": 35.25
+  },
+  {
+    "platform": "PC",
+    "year": 2012,
+    "games_released": 61,
+    "games_with_sales": 61,
+    "global_sales_total": 23.53
+  },
+  {
+    "platform": "PC",
+    "year": 2013,
+    "games_released": 38,
+    "games_with_sales": 38,
+    "global_sales_total": 12.83
+  },
+  {
+    "platform": "PC",
+    "year": 2014,
+    "games_released": 44,
+    "games_with_sales": 44,
+    "global_sales_total": 13.39
+  },
+  {
+    "platform": "PC",
+    "year": 2015,
+    "games_released": 50,
+    "games_with_sales": 50,
+    "global_sales_total": 8.07
+  },
+  {
+    "platform": "PC",
+    "year": 2016,
+    "games_released": 38,
+    "games_with_sales": 38,
+    "global_sales_total": 2.6
+  },
+  {
+    "platform": "PCFX",
+    "year": 1996,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.03
+  },
+  {
+    "platform": "PS",
+    "year": 1994,
+    "games_released": 17,
+    "games_with_sales": 17,
+    "global_sales_total": 6.0200000000000005
+  },
+  {
+    "platform": "PS",
+    "year": 1995,
+    "games_released": 99,
+    "games_with_sales": 99,
+    "global_sales_total": 35.92
+  },
+  {
+    "platform": "PS",
+    "year": 1996,
+    "games_released": 164,
+    "games_with_sales": 164,
+    "global_sales_total": 94.68
+  },
+  {
+    "platform": "PS",
+    "year": 1997,
+    "games_released": 188,
+    "games_with_sales": 188,
+    "global_sales_total": 136.08
+  },
+  {
+    "platform": "PS",
+    "year": 1998,
+    "games_released": 248,
+    "games_with_sales": 248,
+    "global_sales_total": 169.58
+  },
+  {
+    "platform": "PS",
+    "year": 1999,
+    "games_released": 200,
+    "games_with_sales": 200,
+    "global_sales_total": 144.57
+  },
+  {
+    "platform": "PS",
+    "year": 2000,
+    "games_released": 159,
+    "games_with_sales": 159,
+    "global_sales_total": 96.28
+  },
+  {
+    "platform": "PS",
+    "year": 2001,
+    "games_released": 91,
+    "games_with_sales": 91,
+    "global_sales_total": 35.52
+  },
+  {
+    "platform": "PS",
+    "year": 2002,
+    "games_released": 20,
+    "games_with_sales": 20,
+    "global_sales_total": 6.6899999999999995
+  },
+  {
+    "platform": "PS",
+    "year": 2003,
+    "games_released": 3,
+    "games_with_sales": 3,
+    "global_sales_total": 2.05
+  },
+  {
+    "platform": "PS2",
+    "year": 2000,
+    "games_released": 82,
+    "games_with_sales": 82,
+    "global_sales_total": 39.11
+  },
+  {
+    "platform": "PS2",
+    "year": 2001,
+    "games_released": 185,
+    "games_with_sales": 185,
+    "global_sales_total": 166.43
+  },
+  {
+    "platform": "PS2",
+    "year": 2002,
+    "games_released": 280,
+    "games_with_sales": 280,
+    "global_sales_total": 205.4
+  },
+  {
+    "platform": "PS2",
+    "year": 2003,
+    "games_released": 256,
+    "games_with_sales": 256,
+    "global_sales_total": 184.29
+  },
+  {
+    "platform": "PS2",
+    "year": 2004,
+    "games_released": 259,
+    "games_with_sales": 259,
+    "global_sales_total": 211.78
+  },
+  {
+    "platform": "PS2",
+    "year": 2005,
+    "games_released": 260,
+    "games_with_sales": 260,
+    "global_sales_total": 160.65
+  },
+  {
+    "platform": "PS2",
+    "year": 2006,
+    "games_released": 259,
+    "games_with_sales": 259,
+    "global_sales_total": 103.42
+  },
+  {
+    "platform": "PS2",
+    "year": 2007,
+    "games_released": 214,
+    "games_with_sales": 214,
+    "global_sales_total": 76.0
+  },
+  {
+    "platform": "PS2",
+    "year": 2008,
+    "games_released": 191,
+    "games_with_sales": 191,
+    "global_sales_total": 53.83
+  },
+  {
+    "platform": "PS2",
+    "year": 2009,
+    "games_released": 96,
+    "games_with_sales": 96,
+    "global_sales_total": 26.45
+  },
+  {
+    "platform": "PS2",
+    "year": 2010,
+    "games_released": 38,
+    "games_with_sales": 38,
+    "global_sales_total": 5.63
+  },
+  {
+    "platform": "PS2",
+    "year": 2011,
+    "games_released": 7,
+    "games_with_sales": 7,
+    "global_sales_total": 0.47000000000000003
+  },
+  {
+    "platform": "PS3",
+    "year": 2006,
+    "games_released": 27,
+    "games_with_sales": 27,
+    "global_sales_total": 21.07
+  },
+  {
+    "platform": "PS3",
+    "year": 2007,
+    "games_released": 90,
+    "games_with_sales": 90,
+    "global_sales_total": 73.81
+  },
+  {
+    "platform": "PS3",
+    "year": 2008,
+    "games_released": 139,
+    "games_with_sales": 139,
+    "global_sales_total": 119.69
+  },
+  {
+    "platform": "PS3",
+    "year": 2009,
+    "games_released": 162,
+    "games_with_sales": 162,
+    "global_sales_total": 132.34
+  },
+  {
+    "platform": "PS3",
+    "year": 2010,
+    "games_released": 181,
+    "games_with_sales": 181,
+    "global_sales_total": 144.42
+  },
+  {
+    "platform": "PS3",
+    "year": 2011,
+    "games_released": 216,
+    "games_with_sales": 216,
+    "global_sales_total": 159.37
+  },
+  {
+    "platform": "PS3",
+    "year": 2012,
+    "games_released": 148,
+    "games_with_sales": 148,
+    "global_sales_total": 109.49
+  },
+  {
+    "platform": "PS3",
+    "year": 2013,
+    "games_released": 127,
+    "games_with_sales": 127,
+    "global_sales_total": 117.39
+  },
+  {
+    "platform": "PS3",
+    "year": 2014,
+    "games_released": 108,
+    "games_with_sales": 108,
+    "global_sales_total": 50.96
+  },
+  {
+    "platform": "PS3",
+    "year": 2015,
+    "games_released": 74,
+    "games_with_sales": 74,
+    "global_sales_total": 18.22
+  },
+  {
+    "platform": "PS3",
+    "year": 2016,
+    "games_released": 32,
+    "games_with_sales": 32,
+    "global_sales_total": 2.59
+  },
+  {
+    "platform": "PS4",
+    "year": 2013,
+    "games_released": 16,
+    "games_with_sales": 16,
+    "global_sales_total": 24.76
+  },
+  {
+    "platform": "PS4",
+    "year": 2014,
+    "games_released": 75,
+    "games_with_sales": 75,
+    "global_sales_total": 98.76
+  },
+  {
+    "platform": "PS4",
+    "year": 2015,
+    "games_released": 137,
+    "games_with_sales": 137,
+    "global_sales_total": 115.3
+  },
+  {
+    "platform": "PS4",
+    "year": 2016,
+    "games_released": 107,
+    "games_with_sales": 107,
+    "global_sales_total": 39.25
+  },
+  {
+    "platform": "PS4",
+    "year": 2017,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.03
+  },
+  {
+    "platform": "PSP",
+    "year": 2004,
+    "games_released": 15,
+    "games_with_sales": 15,
+    "global_sales_total": 7.13
+  },
+  {
+    "platform": "PSP",
+    "year": 2005,
+    "games_released": 97,
+    "games_with_sales": 97,
+    "global_sales_total": 44.23
+  },
+  {
+    "platform": "PSP",
+    "year": 2006,
+    "games_released": 190,
+    "games_with_sales": 190,
+    "global_sales_total": 55.85
+  },
+  {
+    "platform": "PSP",
+    "year": 2007,
+    "games_released": 134,
+    "games_with_sales": 134,
+    "global_sales_total": 47.48
+  },
+  {
+    "platform": "PSP",
+    "year": 2008,
+    "games_released": 100,
+    "games_with_sales": 100,
+    "global_sales_total": 34.68
+  },
+  {
+    "platform": "PSP",
+    "year": 2009,
+    "games_released": 161,
+    "games_with_sales": 161,
+    "global_sales_total": 38.07
+  },
+  {
+    "platform": "PSP",
+    "year": 2010,
+    "games_released": 188,
+    "games_with_sales": 188,
+    "global_sales_total": 35.11
+  },
+  {
+    "platform": "PSP",
+    "year": 2011,
+    "games_released": 139,
+    "games_with_sales": 139,
+    "global_sales_total": 17.89
+  },
+  {
+    "platform": "PSP",
+    "year": 2012,
+    "games_released": 106,
+    "games_with_sales": 106,
+    "global_sales_total": 7.72
+  },
+  {
+    "platform": "PSP",
+    "year": 2013,
+    "games_released": 54,
+    "games_with_sales": 54,
+    "global_sales_total": 3.19
+  },
+  {
+    "platform": "PSP",
+    "year": 2014,
+    "games_released": 10,
+    "games_with_sales": 10,
+    "global_sales_total": 0.24
+  },
+  {
+    "platform": "PSP",
+    "year": 2015,
+    "games_released": 3,
+    "games_with_sales": 3,
+    "global_sales_total": 0.12
+  },
+  {
+    "platform": "PSV",
+    "year": 2011,
+    "games_released": 18,
+    "games_with_sales": 18,
+    "global_sales_total": 5.15
+  },
+  {
+    "platform": "PSV",
+    "year": 2012,
+    "games_released": 54,
+    "games_with_sales": 54,
+    "global_sales_total": 18.53
+  },
+  {
+    "platform": "PSV",
+    "year": 2013,
+    "games_released": 63,
+    "games_with_sales": 63,
+    "global_sales_total": 12.69
+  },
+  {
+    "platform": "PSV",
+    "year": 2014,
+    "games_released": 102,
+    "games_with_sales": 102,
+    "global_sales_total": 14.74
+  },
+  {
+    "platform": "PSV",
+    "year": 2015,
+    "games_released": 113,
+    "games_with_sales": 113,
+    "global_sales_total": 7.1000000000000005
+  },
+  {
+    "platform": "PSV",
+    "year": 2016,
+    "games_released": 60,
+    "games_with_sales": 60,
+    "global_sales_total": 3.4
+  },
+  {
+    "platform": "PSV",
+    "year": 2017,
+    "games_released": 2,
+    "games_with_sales": 2,
+    "global_sales_total": 0.02
+  },
+  {
+    "platform": "SAT",
+    "year": 1994,
+    "games_released": 19,
+    "games_with_sales": 19,
+    "global_sales_total": 3.64
+  },
+  {
+    "platform": "SAT",
+    "year": 1995,
+    "games_released": 52,
+    "games_with_sales": 52,
+    "global_sales_total": 11.58
+  },
+  {
+    "platform": "SAT",
+    "year": 1996,
+    "games_released": 38,
+    "games_with_sales": 38,
+    "global_sales_total": 7.69
+  },
+  {
+    "platform": "SAT",
+    "year": 1997,
+    "games_released": 34,
+    "games_with_sales": 34,
+    "global_sales_total": 6.7700000000000005
+  },
+  {
+    "platform": "SAT",
+    "year": 1998,
+    "games_released": 29,
+    "games_with_sales": 29,
+    "global_sales_total": 3.82
+  },
+  {
+    "platform": "SAT",
+    "year": 1999,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.09
+  },
+  {
+    "platform": "SCD",
+    "year": 1993,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 1.5
+  },
+  {
+    "platform": "SCD",
+    "year": 1994,
+    "games_released": 5,
+    "games_with_sales": 5,
+    "global_sales_total": 0.37
+  },
+  {
+    "platform": "SNES",
+    "year": 1990,
+    "games_released": 4,
+    "games_with_sales": 4,
+    "global_sales_total": 26.16
+  },
+  {
+    "platform": "SNES",
+    "year": 1991,
+    "games_released": 24,
+    "games_with_sales": 24,
+    "global_sales_total": 16.21
+  },
+  {
+    "platform": "SNES",
+    "year": 1992,
+    "games_released": 21,
+    "games_with_sales": 21,
+    "global_sales_total": 32.98
+  },
+  {
+    "platform": "SNES",
+    "year": 1993,
+    "games_released": 46,
+    "games_with_sales": 46,
+    "global_sales_total": 40.01
+  },
+  {
+    "platform": "SNES",
+    "year": 1994,
+    "games_released": 53,
+    "games_with_sales": 53,
+    "global_sales_total": 35.08
+  },
+  {
+    "platform": "SNES",
+    "year": 1995,
+    "games_released": 54,
+    "games_with_sales": 54,
+    "global_sales_total": 32.21
+  },
+  {
+    "platform": "SNES",
+    "year": 1996,
+    "games_released": 30,
+    "games_with_sales": 30,
+    "global_sales_total": 15.93
+  },
+  {
+    "platform": "SNES",
+    "year": 1997,
+    "games_released": 4,
+    "games_with_sales": 4,
+    "global_sales_total": 0.99
+  },
+  {
+    "platform": "SNES",
+    "year": 1998,
+    "games_released": 2,
+    "games_with_sales": 2,
+    "global_sales_total": 0.22000000000000003
+  },
+  {
+    "platform": "SNES",
+    "year": 1999,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.26
+  },
+  {
+    "platform": "TG16",
+    "year": 1995,
+    "games_released": 2,
+    "games_with_sales": 2,
+    "global_sales_total": 0.16
+  },
+  {
+    "platform": "Wii",
+    "year": 2006,
+    "games_released": 44,
+    "games_with_sales": 44,
+    "global_sales_total": 137.91
+  },
+  {
+    "platform": "Wii",
+    "year": 2007,
+    "games_released": 187,
+    "games_with_sales": 187,
+    "global_sales_total": 154.97
+  },
+  {
+    "platform": "Wii",
+    "year": 2008,
+    "games_released": 282,
+    "games_with_sales": 282,
+    "global_sales_total": 174.16
+  },
+  {
+    "platform": "Wii",
+    "year": 2009,
+    "games_released": 325,
+    "games_with_sales": 325,
+    "global_sales_total": 210.44
+  },
+  {
+    "platform": "Wii",
+    "year": 2010,
+    "games_released": 254,
+    "games_with_sales": 254,
+    "global_sales_total": 131.8
+  },
+  {
+    "platform": "Wii",
+    "year": 2011,
+    "games_released": 144,
+    "games_with_sales": 144,
+    "global_sales_total": 62.41
+  },
+  {
+    "platform": "Wii",
+    "year": 2012,
+    "games_released": 32,
+    "games_with_sales": 32,
+    "global_sales_total": 22.77
+  },
+  {
+    "platform": "Wii",
+    "year": 2013,
+    "games_released": 12,
+    "games_with_sales": 12,
+    "global_sales_total": 9.36
+  },
+  {
+    "platform": "Wii",
+    "year": 2014,
+    "games_released": 6,
+    "games_with_sales": 6,
+    "global_sales_total": 4.4399999999999995
+  },
+  {
+    "platform": "Wii",
+    "year": 2015,
+    "games_released": 4,
+    "games_with_sales": 4,
+    "global_sales_total": 1.55
+  },
+  {
+    "platform": "WiiU",
+    "year": 2012,
+    "games_released": 32,
+    "games_with_sales": 32,
+    "global_sales_total": 17.84
+  },
+  {
+    "platform": "WiiU",
+    "year": 2013,
+    "games_released": 42,
+    "games_with_sales": 42,
+    "global_sales_total": 21.84
+  },
+  {
+    "platform": "WiiU",
+    "year": 2014,
+    "games_released": 31,
+    "games_with_sales": 31,
+    "global_sales_total": 22.509999999999998
+  },
+  {
+    "platform": "WiiU",
+    "year": 2015,
+    "games_released": 28,
+    "games_with_sales": 28,
+    "global_sales_total": 16.38
+  },
+  {
+    "platform": "WiiU",
+    "year": 2016,
+    "games_released": 10,
+    "games_with_sales": 10,
+    "global_sales_total": 3.29
+  },
+  {
+    "platform": "WS",
+    "year": 1999,
+    "games_released": 2,
+    "games_with_sales": 2,
+    "global_sales_total": 0.46
+  },
+  {
+    "platform": "WS",
+    "year": 2000,
+    "games_released": 2,
+    "games_with_sales": 2,
+    "global_sales_total": 0.68
+  },
+  {
+    "platform": "WS",
+    "year": 2001,
+    "games_released": 2,
+    "games_with_sales": 2,
+    "global_sales_total": 0.28
+  },
+  {
+    "platform": "X360",
+    "year": 2005,
+    "games_released": 18,
+    "games_with_sales": 18,
+    "global_sales_total": 8.32
+  },
+  {
+    "platform": "X360",
+    "year": 2006,
+    "games_released": 93,
+    "games_with_sales": 93,
+    "global_sales_total": 51.88
+  },
+  {
+    "platform": "X360",
+    "year": 2007,
+    "games_released": 123,
+    "games_with_sales": 123,
+    "global_sales_total": 95.84
+  },
+  {
+    "platform": "X360",
+    "year": 2008,
+    "games_released": 146,
+    "games_with_sales": 146,
+    "global_sales_total": 135.76
+  },
+  {
+    "platform": "X360",
+    "year": 2009,
+    "games_released": 173,
+    "games_with_sales": 173,
+    "global_sales_total": 120.85
+  },
+  {
+    "platform": "X360",
+    "year": 2010,
+    "games_released": 182,
+    "games_with_sales": 182,
+    "global_sales_total": 171.05
+  },
+  {
+    "platform": "X360",
+    "year": 2011,
+    "games_released": 206,
+    "games_with_sales": 206,
+    "global_sales_total": 145.12
+  },
+  {
+    "platform": "X360",
+    "year": 2012,
+    "games_released": 106,
+    "games_with_sales": 106,
+    "global_sales_total": 100.88
+  },
+  {
+    "platform": "X360",
+    "year": 2013,
+    "games_released": 75,
+    "games_with_sales": 75,
+    "global_sales_total": 89.61
+  },
+  {
+    "platform": "X360",
+    "year": 2014,
+    "games_released": 65,
+    "games_with_sales": 65,
+    "global_sales_total": 36.42
+  },
+  {
+    "platform": "X360",
+    "year": 2015,
+    "games_released": 40,
+    "games_with_sales": 40,
+    "global_sales_total": 13.05
+  },
+  {
+    "platform": "X360",
+    "year": 2016,
+    "games_released": 8,
+    "games_with_sales": 8,
+    "global_sales_total": 0.8300000000000001
+  },
+  {
+    "platform": "XB",
+    "year": 2000,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.99
+  },
+  {
+    "platform": "XB",
+    "year": 2001,
+    "games_released": 33,
+    "games_with_sales": 33,
+    "global_sales_total": 22.24
+  },
+  {
+    "platform": "XB",
+    "year": 2002,
+    "games_released": 158,
+    "games_with_sales": 158,
+    "global_sales_total": 48.15
+  },
+  {
+    "platform": "XB",
+    "year": 2003,
+    "games_released": 189,
+    "games_with_sales": 189,
+    "global_sales_total": 55.160000000000004
+  },
+  {
+    "platform": "XB",
+    "year": 2004,
+    "games_released": 177,
+    "games_with_sales": 177,
+    "global_sales_total": 65.5
+  },
+  {
+    "platform": "XB",
+    "year": 2005,
+    "games_released": 179,
+    "games_with_sales": 179,
+    "global_sales_total": 49.17
+  },
+  {
+    "platform": "XB",
+    "year": 2006,
+    "games_released": 62,
+    "games_with_sales": 62,
+    "global_sales_total": 10.15
+  },
+  {
+    "platform": "XB",
+    "year": 2007,
+    "games_released": 3,
+    "games_with_sales": 3,
+    "global_sales_total": 0.5499999999999999
+  },
+  {
+    "platform": "XB",
+    "year": 2008,
+    "games_released": 1,
+    "games_with_sales": 1,
+    "global_sales_total": 0.18
+  },
+  {
+    "platform": "XOne",
+    "year": 2013,
+    "games_released": 19,
+    "games_with_sales": 19,
+    "global_sales_total": 18.6
+  },
+  {
+    "platform": "XOne",
+    "year": 2014,
+    "games_released": 61,
+    "games_with_sales": 61,
+    "global_sales_total": 52.43
+  },
+  {
+    "platform": "XOne",
+    "year": 2015,
+    "games_released": 79,
+    "games_with_sales": 79,
+    "global_sales_total": 57.66
+  },
+  {
+    "platform": "XOne",
+    "year": 2016,
+    "games_released": 54,
+    "games_with_sales": 54,
+    "global_sales_total": 12.37
+  }
+]

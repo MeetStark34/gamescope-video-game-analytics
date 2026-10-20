@@ -1,0 +1,30 @@
+[
+  {
+    "region": "North America",
+    "sales_records": 16598,
+    "sales_total": 4392.950000000332,
+    "sales_mean": 0.26466742981084057,
+    "share_of_reported_regional_sales": 0.4927124166512451
+  },
+  {
+    "region": "Europe",
+    "sales_records": 16598,
+    "sales_total": 2434.13000000055,
+    "sales_mean": 0.1466520062658483,
+    "share_of_reported_regional_sales": 0.27301154685199597
+  },
+  {
+    "region": "Japan",
+    "sales_records": 16598,
+    "sales_total": 1291.0199999999018,
+    "sales_mean": 0.07778166044101108,
+    "share_of_reported_regional_sales": 0.1448005518262202
+  },
+  {
+    "region": "Other",
+    "sales_records": 16598,
+    "sales_total": 797.7499999998826,
+    "sales_mean": 0.048063019640913515,
+    "share_of_reported_regional_sales": 0.08947548467053876
+  }
+]
