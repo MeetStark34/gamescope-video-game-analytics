@@ -1,0 +1,58 @@
+[
+  {
+    "weekday": 0,
+    "label": "Monday",
+    "release_records": 5531,
+    "records_with_sales": 1767,
+    "total_sales": 758.92,
+    "mean_sales": 0.42949632144878325
+  },
+  {
+    "weekday": 1,
+    "label": "Tuesday",
+    "release_records": 16147,
+    "records_with_sales": 8422,
+    "total_sales": 3689.27,
+    "mean_sales": 0.43805153170268346
+  },
+  {
+    "weekday": 2,
+    "label": "Wednesday",
+    "release_records": 6235,
+    "records_with_sales": 1381,
+    "total_sales": 380.01,
+    "mean_sales": 0.27517016654598114
+  },
+  {
+    "weekday": 3,
+    "label": "Thursday",
+    "release_records": 13292,
+    "records_with_sales": 3863,
+    "total_sales": 494.96,
+    "mean_sales": 0.12812839761843126
+  },
+  {
+    "weekday": 4,
+    "label": "Friday",
+    "release_records": 9575,
+    "records_with_sales": 1993,
+    "total_sales": 709.74,
+    "mean_sales": 0.356116407425991
+  },
+  {
+    "weekday": 5,
+    "label": "Saturday",
+    "release_records": 2312,
+    "records_with_sales": 377,
+    "total_sales": 168.14000000000001,
+    "mean_sales": 0.44599469496021227
+  },
+  {
+    "weekday": 6,
+    "label": "Sunday",
+    "release_records": 2472,
+    "records_with_sales": 627,
+    "total_sales": 309.04,
+    "mean_sales": 0.4928867623604466
+  }
+]

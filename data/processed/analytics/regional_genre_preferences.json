@@ -1,0 +1,434 @@
+[
+  {
+    "genre": "Action",
+    "region": "North America",
+    "regional_sales": 877.8299999999916,
+    "genre_region_share": 0.5015712849110961,
+    "overall_region_share": 0.4927124166512451,
+    "affinity_index": 1.0179797950294434,
+    "genre_sales_total_all_regions": 1750.159999999975
+  },
+  {
+    "genre": "Action",
+    "region": "Europe",
+    "regional_sales": 524.9999999999854,
+    "genre_region_share": 0.2999725739360932,
+    "overall_region_share": 0.27301154685199597,
+    "affinity_index": 1.0987541640453518,
+    "genre_sales_total_all_regions": 1750.159999999975
+  },
+  {
+    "genre": "Action",
+    "region": "Japan",
+    "regional_sales": 159.95000000000087,
+    "genre_region_share": 0.09139164419253276,
+    "overall_region_share": 0.1448005518262202,
+    "affinity_index": 0.6311553584561944,
+    "genre_sales_total_all_regions": 1750.159999999975
+  },
+  {
+    "genre": "Action",
+    "region": "Other",
+    "regional_sales": 187.3799999999972,
+    "genre_region_share": 0.10706449696027785,
+    "overall_region_share": 0.08947548467053876,
+    "affinity_index": 1.196579122812291,
+    "genre_sales_total_all_regions": 1750.159999999975
+  },
+  {
+    "genre": "Adventure",
+    "region": "North America",
+    "regional_sales": 105.79999999999998,
+    "genre_region_share": 0.4430300238683464,
+    "overall_region_share": 0.4927124166512451,
+    "affinity_index": 0.8991655353023806,
+    "genre_sales_total_all_regions": 238.8100000000004
+  },
+  {
+    "genre": "Adventure",
+    "region": "Europe",
+    "regional_sales": 64.13000000000008,
+    "genre_region_share": 0.2685398433901427,
+    "overall_region_share": 0.27301154685199597,
+    "affinity_index": 0.9836208266155224,
+    "genre_sales_total_all_regions": 238.8100000000004
+  },
+  {
+    "genre": "Adventure",
+    "region": "Japan",
+    "regional_sales": 52.0700000000003,
+    "genre_region_share": 0.21803944558435664,
+    "overall_region_share": 0.1448005518262202,
+    "affinity_index": 1.5057915376319337,
+    "genre_sales_total_all_regions": 238.8100000000004
+  },
+  {
+    "genre": "Adventure",
+    "region": "Other",
+    "regional_sales": 16.810000000000024,
+    "genre_region_share": 0.0703906871571542,
+    "overall_region_share": 0.08947548467053876,
+    "affinity_index": 0.7867036140272674,
+    "genre_sales_total_all_regions": 238.8100000000004
+  },
+  {
+    "genre": "Fighting",
+    "region": "North America",
+    "regional_sales": 223.59000000000017,
+    "genre_region_share": 0.49803982714839384,
+    "overall_region_share": 0.4927124166512451,
+    "affinity_index": 1.0108124137267676,
+    "genre_sales_total_all_regions": 448.9400000000005
+  },
+  {
+    "genre": "Fighting",
+    "region": "Europe",
+    "regional_sales": 101.32000000000025,
+    "genre_region_share": 0.22568717423263718,
+    "overall_region_share": 0.27301154685199597,
+    "affinity_index": 0.8266579814478905,
+    "genre_sales_total_all_regions": 448.9400000000005
+  },
+  {
+    "genre": "Fighting",
+    "region": "Japan",
+    "regional_sales": 87.35000000000014,
+    "genre_region_share": 0.19456943021339163,
+    "overall_region_share": 0.1448005518262202,
+    "affinity_index": 1.3437064138187862,
+    "genre_sales_total_all_regions": 448.9400000000005
+  },
+  {
+    "genre": "Fighting",
+    "region": "Other",
+    "regional_sales": 36.67999999999998,
+    "genre_region_share": 0.08170356840557744,
+    "overall_region_share": 0.08947548467053876,
+    "affinity_index": 0.9131391543328476,
+    "genre_sales_total_all_regions": 448.9400000000005
+  },
+  {
+    "genre": "Misc",
+    "region": "North America",
+    "regional_sales": 410.23999999999904,
+    "genre_region_share": 0.506907203756331,
+    "overall_region_share": 0.4927124166512451,
+    "affinity_index": 1.0288094771419845,
+    "genre_sales_total_all_regions": 809.3000000000008
+  },
+  {
+    "genre": "Misc",
+    "region": "Europe",
+    "regional_sales": 215.98000000000036,
+    "genre_region_share": 0.26687260595576445,
+    "overall_region_share": 0.27301154685199597,
+    "affinity_index": 0.9775139880821249,
+    "genre_sales_total_all_regions": 809.3000000000008
+  },
+  {
+    "genre": "Misc",
+    "region": "Japan",
+    "regional_sales": 107.75999999999995,
+    "genre_region_share": 0.13315210675892727,
+    "overall_region_share": 0.1448005518262202,
+    "affinity_index": 0.9195552439518836,
+    "genre_sales_total_all_regions": 809.3000000000008
+  },
+  {
+    "genre": "Misc",
+    "region": "Other",
+    "regional_sales": 75.32000000000136,
+    "genre_region_share": 0.09306808352897725,
+    "overall_region_share": 0.08947548467053876,
+    "affinity_index": 1.040151767511145,
+    "genre_sales_total_all_regions": 809.3000000000008
+  },
+  {
+    "genre": "Platform",
+    "region": "North America",
+    "regional_sales": 447.0499999999991,
+    "genre_region_share": 0.5379404120138616,
+    "overall_region_share": 0.4927124166512451,
+    "affinity_index": 1.091793902150897,
+    "genre_sales_total_all_regions": 831.0399999999992
+  },
+  {
+    "genre": "Platform",
+    "region": "Europe",
+    "regional_sales": 201.63000000000017,
+    "genre_region_share": 0.2426237004235661,
+    "overall_region_share": 0.27301154685199597,
+    "affinity_index": 0.8886939150419758,
+    "genre_sales_total_all_regions": 831.0399999999992
+  },
+  {
+    "genre": "Platform",
+    "region": "Japan",
+    "regional_sales": 130.77000000000012,
+    "genre_region_share": 0.1573570465922221,
+    "overall_region_share": 0.1448005518262202,
+    "affinity_index": 1.0867157936046499,
+    "genre_sales_total_all_regions": 831.0399999999992
+  },
+  {
+    "genre": "Platform",
+    "region": "Other",
+    "regional_sales": 51.589999999999776,
+    "genre_region_share": 0.0620788409703502,
+    "overall_region_share": 0.08947548467053876,
+    "affinity_index": 0.6938083788976742,
+    "genre_sales_total_all_regions": 831.0399999999992
+  },
+  {
+    "genre": "Puzzle",
+    "region": "North America",
+    "regional_sales": 123.78000000000009,
+    "genre_region_share": 0.5064233696096887,
+    "overall_region_share": 0.4927124166512451,
+    "affinity_index": 1.0278274963144445,
+    "genre_sales_total_all_regions": 244.41999999999996
+  },
+  {
+    "genre": "Puzzle",
+    "region": "Europe",
+    "regional_sales": 50.77999999999998,
+    "genre_region_share": 0.20775713935029863,
+    "overall_region_share": 0.27301154685199597,
+    "affinity_index": 0.760982975796724,
+    "genre_sales_total_all_regions": 244.41999999999996
+  },
+  {
+    "genre": "Puzzle",
+    "region": "Japan",
+    "regional_sales": 57.30999999999997,
+    "genre_region_share": 0.23447344734473438,
+    "overall_region_share": 0.1448005518262202,
+    "affinity_index": 1.6192855924066747,
+    "genre_sales_total_all_regions": 244.41999999999996
+  },
+  {
+    "genre": "Puzzle",
+    "region": "Other",
+    "regional_sales": 12.549999999999935,
+    "genre_region_share": 0.051346043695278364,
+    "overall_region_share": 0.08947548467053876,
+    "affinity_index": 0.5738559995996856,
+    "genre_sales_total_all_regions": 244.41999999999996
+  },
+  {
+    "genre": "Racing",
+    "region": "North America",
+    "regional_sales": 359.41999999999774,
+    "genre_region_share": 0.49116525684299456,
+    "overall_region_share": 0.4927124166512451,
+    "affinity_index": 0.9968599130933904,
+    "genre_sales_total_all_regions": 731.7699999999992
+  },
+  {
+    "genre": "Racing",
+    "region": "Europe",
+    "regional_sales": 238.39000000000024,
+    "genre_region_share": 0.32577175888598947,
+    "overall_region_share": 0.27301154685199597,
+    "affinity_index": 1.193252676095036,
+    "genre_sales_total_all_regions": 731.7699999999992
+  },
+  {
+    "genre": "Racing",
+    "region": "Japan",
+    "regional_sales": 56.69000000000002,
+    "genre_region_share": 0.07746969676264412,
+    "overall_region_share": 0.1448005518262202,
+    "affinity_index": 0.5350096790764858,
+    "genre_sales_total_all_regions": 731.7699999999992
+  },
+  {
+    "genre": "Racing",
+    "region": "Other",
+    "regional_sales": 77.27000000000116,
+    "genre_region_share": 0.10559328750837182,
+    "overall_region_share": 0.08947548467053876,
+    "affinity_index": 1.1801365245148554,
+    "genre_sales_total_all_regions": 731.7699999999992
+  },
+  {
+    "genre": "Role-Playing",
+    "region": "North America",
+    "regional_sales": 327.279999999999,
+    "genre_region_share": 0.3529538640726441,
+    "overall_region_share": 0.4927124166512451,
+    "affinity_index": 0.7163486288239296,
+    "genre_sales_total_all_regions": 927.2599999999973
+  },
+  {
+    "genre": "Role-Playing",
+    "region": "Europe",
+    "regional_sales": 188.06000000000031,
+    "genre_region_share": 0.20281258762375265,
+    "overall_region_share": 0.27301154685199597,
+    "affinity_index": 0.7428718307423849,
+    "genre_sales_total_all_regions": 927.2599999999973
+  },
+  {
+    "genre": "Role-Playing",
+    "region": "Japan",
+    "regional_sales": 352.3099999999979,
+    "genre_region_share": 0.379947371826671,
+    "overall_region_share": 0.1448005518262202,
+    "affinity_index": 2.623935938328868,
+    "genre_sales_total_all_regions": 927.2599999999973
+  },
+  {
+    "genre": "Role-Playing",
+    "region": "Other",
+    "regional_sales": 59.60999999999999,
+    "genre_region_share": 0.06428617647693222,
+    "overall_region_share": 0.08947548467053876,
+    "affinity_index": 0.7184781028417214,
+    "genre_sales_total_all_regions": 927.2599999999973
+  },
+  {
+    "genre": "Shooter",
+    "region": "North America",
+    "regional_sales": 582.599999999995,
+    "genre_region_share": 0.5618996180702895,
+    "overall_region_share": 0.4927124166512451,
+    "affinity_index": 1.1404210632426928,
+    "genre_sales_total_all_regions": 1036.8399999999929
+  },
+  {
+    "genre": "Shooter",
+    "region": "Europe",
+    "regional_sales": 313.2699999999967,
+    "genre_region_share": 0.30213919216079516,
+    "overall_region_share": 0.27301154685199597,
+    "affinity_index": 1.1066901588766491,
+    "genre_sales_total_all_regions": 1036.8399999999929
+  },
+  {
+    "genre": "Shooter",
+    "region": "Japan",
+    "regional_sales": 38.28000000000007,
+    "genre_region_share": 0.03691987191852199,
+    "overall_region_share": 0.1448005518262202,
+    "affinity_index": 0.25497051946895005,
+    "genre_sales_total_all_regions": 1036.8399999999929
+  },
+  {
+    "genre": "Shooter",
+    "region": "Other",
+    "regional_sales": 102.69000000000112,
+    "genre_region_share": 0.09904131785039334,
+    "overall_region_share": 0.08947548467053876,
+    "affinity_index": 1.1069101018572554,
+    "genre_sales_total_all_regions": 1036.8399999999929
+  },
+  {
+    "genre": "Simulation",
+    "region": "North America",
+    "regional_sales": 183.31000000000068,
+    "genre_region_share": 0.46773493914419156,
+    "overall_region_share": 0.4927124166512451,
+    "affinity_index": 0.949306174021725,
+    "genre_sales_total_all_regions": 391.9100000000012
+  },
+  {
+    "genre": "Simulation",
+    "region": "Europe",
+    "regional_sales": 113.3800000000002,
+    "genre_region_share": 0.2893011150519248,
+    "overall_region_share": 0.27301154685199597,
+    "affinity_index": 1.0596662243328472,
+    "genre_sales_total_all_regions": 391.9100000000012
+  },
+  {
+    "genre": "Simulation",
+    "region": "Japan",
+    "regional_sales": 63.70000000000007,
+    "genre_region_share": 0.162537317241203,
+    "overall_region_share": 0.1448005518262202,
+    "affinity_index": 1.1224910070527165,
+    "genre_sales_total_all_regions": 391.9100000000012
+  },
+  {
+    "genre": "Simulation",
+    "region": "Other",
+    "regional_sales": 31.520000000000294,
+    "genre_region_share": 0.08042662856268071,
+    "overall_region_share": 0.08947548467053876,
+    "affinity_index": 0.8988677609159961,
+    "genre_sales_total_all_regions": 391.9100000000012
+  },
+  {
+    "genre": "Sports",
+    "region": "North America",
+    "regional_sales": 683.3499999999967,
+    "genre_region_share": 0.5135884678401268,
+    "overall_region_share": 0.4927124166512451,
+    "affinity_index": 1.042369647046379,
+    "genre_sales_total_all_regions": 1330.5399999999893
+  },
+  {
+    "genre": "Sports",
+    "region": "Europe",
+    "regional_sales": 376.84999999999457,
+    "genre_region_share": 0.2832308686698616,
+    "overall_region_share": 0.27301154685199597,
+    "affinity_index": 1.0374318300295395,
+    "genre_sales_total_all_regions": 1330.5399999999893
+  },
+  {
+    "genre": "Sports",
+    "region": "Japan",
+    "regional_sales": 135.3700000000004,
+    "genre_region_share": 0.1017406466547428,
+    "overall_region_share": 0.1448005518262202,
+    "affinity_index": 0.7026260975638065,
+    "genre_sales_total_all_regions": 1330.5399999999893
+  },
+  {
+    "genre": "Sports",
+    "region": "Other",
+    "regional_sales": 134.96999999999758,
+    "genre_region_share": 0.10144001683526889,
+    "overall_region_share": 0.08947548467053876,
+    "affinity_index": 1.133718551050997,
+    "genre_sales_total_all_regions": 1330.5399999999893
+  },
+  {
+    "genre": "Strategy",
+    "region": "North America",
+    "regional_sales": 68.70000000000019,
+    "genre_region_share": 0.3928857371611581,
+    "overall_region_share": 0.4927124166512451,
+    "affinity_index": 0.7973936192463625,
+    "genre_sales_total_all_regions": 174.8600000000002
+  },
+  {
+    "genre": "Strategy",
+    "region": "Europe",
+    "regional_sales": 45.34000000000005,
+    "genre_region_share": 0.25929314880475807,
+    "overall_region_share": 0.27301154685199597,
+    "affinity_index": 0.9497515830175679,
+    "genre_sales_total_all_regions": 174.8600000000002
+  },
+  {
+    "genre": "Strategy",
+    "region": "Japan",
+    "regional_sales": 49.46000000000003,
+    "genre_region_share": 0.2828548553128215,
+    "overall_region_share": 0.1448005518262202,
+    "affinity_index": 1.9534100647094543,
+    "genre_sales_total_all_regions": 174.8600000000002
+  },
+  {
+    "genre": "Strategy",
+    "region": "Other",
+    "regional_sales": 11.359999999999932,
+    "genre_region_share": 0.06496625872126226,
+    "overall_region_share": 0.08947548467053876,
+    "affinity_index": 0.7260788690944464,
+    "genre_sales_total_all_regions": 174.8600000000002
+  }
+]

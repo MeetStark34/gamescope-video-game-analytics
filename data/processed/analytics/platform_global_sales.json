@@ -1,0 +1,219 @@
+[
+  {
+    "platform": "PS2",
+    "games_with_sales": 2161,
+    "global_sales_total": 1255.64,
+    "global_sales_mean": 0.5810458121240167,
+    "global_sales_share": 0.140759872831385
+  },
+  {
+    "platform": "X360",
+    "games_with_sales": 1265,
+    "global_sales_total": 979.96,
+    "global_sales_mean": 0.7746719367588933,
+    "global_sales_share": 0.10985556766258166
+  },
+  {
+    "platform": "PS3",
+    "games_with_sales": 1329,
+    "global_sales_total": 957.84,
+    "global_sales_mean": 0.7207223476297968,
+    "global_sales_share": 0.10737586935173601
+  },
+  {
+    "platform": "Wii",
+    "games_with_sales": 1325,
+    "global_sales_total": 926.71,
+    "global_sales_mean": 0.6994037735849057,
+    "global_sales_share": 0.10388613117738586
+  },
+  {
+    "platform": "DS",
+    "games_with_sales": 2163,
+    "global_sales_total": 822.49,
+    "global_sales_mean": 0.3802542764678687,
+    "global_sales_share": 0.09220285098044491
+  },
+  {
+    "platform": "PS",
+    "games_with_sales": 1196,
+    "global_sales_total": 730.66,
+    "global_sales_mean": 0.6109197324414716,
+    "global_sales_share": 0.08190851572343964
+  },
+  {
+    "platform": "GBA",
+    "games_with_sales": 822,
+    "global_sales_total": 318.5,
+    "global_sales_mean": 0.38746958637469586,
+    "global_sales_share": 0.035704516817556084
+  },
+  {
+    "platform": "PSP",
+    "games_with_sales": 1213,
+    "global_sales_total": 296.28000000000003,
+    "global_sales_mean": 0.24425391591096457,
+    "global_sales_share": 0.03321360829734856
+  },
+  {
+    "platform": "PS4",
+    "games_with_sales": 336,
+    "global_sales_total": 278.1,
+    "global_sales_mean": 0.8276785714285715,
+    "global_sales_share": 0.031175592235360587
+  },
+  {
+    "platform": "PC",
+    "games_with_sales": 960,
+    "global_sales_total": 258.82,
+    "global_sales_mean": 0.26960416666666664,
+    "global_sales_share": 0.02901426387039204
+  },
+  {
+    "platform": "XB",
+    "games_with_sales": 824,
+    "global_sales_total": 258.26,
+    "global_sales_mean": 0.31342233009708736,
+    "global_sales_share": 0.02895148669796557
+  },
+  {
+    "platform": "GB",
+    "games_with_sales": 98,
+    "global_sales_total": 255.45000000000002,
+    "global_sales_mean": 2.6066326530612245,
+    "global_sales_share": 0.028636479814897024
+  },
+  {
+    "platform": "NES",
+    "games_with_sales": 98,
+    "global_sales_total": 251.07,
+    "global_sales_mean": 2.561938775510204,
+    "global_sales_share": 0.028145472644847114
+  },
+  {
+    "platform": "3DS",
+    "games_with_sales": 509,
+    "global_sales_total": 247.46,
+    "global_sales_mean": 0.4861689587426326,
+    "global_sales_share": 0.027740784086883605
+  },
+  {
+    "platform": "N64",
+    "games_with_sales": 319,
+    "global_sales_total": 218.88,
+    "global_sales_mean": 0.6861442006269592,
+    "global_sales_share": 0.024536906251261148
+  },
+  {
+    "platform": "SNES",
+    "games_with_sales": 239,
+    "global_sales_total": 200.05,
+    "global_sales_mean": 0.8370292887029289,
+    "global_sales_share": 0.02242602382842102
+  },
+  {
+    "platform": "GC",
+    "games_with_sales": 556,
+    "global_sales_total": 199.36,
+    "global_sales_mean": 0.3585611510791367,
+    "global_sales_share": 0.022348673383824118
+  },
+  {
+    "platform": "XOne",
+    "games_with_sales": 213,
+    "global_sales_total": 141.06,
+    "global_sales_mean": 0.6622535211267606,
+    "global_sales_share": 0.01581312132585388
+  },
+  {
+    "platform": "2600",
+    "games_with_sales": 133,
+    "global_sales_total": 97.08,
+    "global_sales_mean": 0.7299248120300752,
+    "global_sales_share": 0.010882871248503435
+  },
+  {
+    "platform": "WiiU",
+    "games_with_sales": 143,
+    "global_sales_total": 81.86,
+    "global_sales_mean": 0.5724475524475524,
+    "global_sales_share": 0.009176677383626815
+  },
+  {
+    "platform": "PSV",
+    "games_with_sales": 413,
+    "global_sales_total": 61.93,
+    "global_sales_mean": 0.14995157384987892,
+    "global_sales_share": 0.006942482657806117
+  },
+  {
+    "platform": "SAT",
+    "games_with_sales": 173,
+    "global_sales_total": 33.59,
+    "global_sales_mean": 0.1941618497109827,
+    "global_sales_share": 0.0037655093246521474
+  },
+  {
+    "platform": "GEN",
+    "games_with_sales": 27,
+    "global_sales_total": 28.36,
+    "global_sales_mean": 1.0503703703703704,
+    "global_sales_share": 0.0031792153750263437
+  },
+  {
+    "platform": "DC",
+    "games_with_sales": 52,
+    "global_sales_total": 15.97,
+    "global_sales_mean": 0.3071153846153846,
+    "global_sales_share": 0.0017902704350906456
+  },
+  {
+    "platform": "SCD",
+    "games_with_sales": 6,
+    "global_sales_total": 1.87,
+    "global_sales_mean": 0.3116666666666667,
+    "global_sales_share": 0.0002096309150669698
+  },
+  {
+    "platform": "NG",
+    "games_with_sales": 12,
+    "global_sales_total": 1.44,
+    "global_sales_mean": 0.12,
+    "global_sales_share": 0.0001614270148109286
+  },
+  {
+    "platform": "WS",
+    "games_with_sales": 6,
+    "global_sales_total": 1.42,
+    "global_sales_mean": 0.23666666666666666,
+    "global_sales_share": 0.00015918497293855458
+  },
+  {
+    "platform": "TG16",
+    "games_with_sales": 2,
+    "global_sales_total": 0.16,
+    "global_sales_mean": 0.08,
+    "global_sales_share": 1.7936334978992067e-05
+  },
+  {
+    "platform": "3DO",
+    "games_with_sales": 3,
+    "global_sales_total": 0.1,
+    "global_sales_mean": 0.03333333333333333,
+    "global_sales_share": 1.1210209361870042e-05
+  },
+  {
+    "platform": "GG",
+    "games_with_sales": 1,
+    "global_sales_total": 0.04,
+    "global_sales_mean": 0.04,
+    "global_sales_share": 4.484083744748017e-06
+  },
+  {
+    "platform": "PCFX",
+    "games_with_sales": 1,
+    "global_sales_total": 0.03,
+    "global_sales_mean": 0.03,
+    "global_sales_share": 3.363062808561012e-06
+  }
+]

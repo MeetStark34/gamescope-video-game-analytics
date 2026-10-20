@@ -1,0 +1,574 @@
+{
+  "schema_version": 1,
+  "tables": {
+    "dashboard_primary_records": {
+      "kind": "record_table",
+      "fields": [
+        "source_row",
+        "duplicate_status",
+        "Rank",
+        "Year",
+        "NA_Sales",
+        "EU_Sales",
+        "JP_Sales",
+        "Other_Sales",
+        "Global_Sales",
+        "Name",
+        "Platform",
+        "Genre",
+        "Publisher"
+      ],
+      "row_count": 16598
+    },
+    "descriptive_statistics": {
+      "kind": "keyed_object",
+      "keys": [
+        "Rank",
+        "Year",
+        "NA_Sales",
+        "EU_Sales",
+        "JP_Sales",
+        "Other_Sales",
+        "Global_Sales"
+      ]
+    },
+    "top_games": {
+      "kind": "record_table",
+      "fields": [
+        "name",
+        "platform",
+        "year",
+        "genre",
+        "publisher",
+        "global_sales",
+        "sales_rank"
+      ],
+      "row_count": 10
+    },
+    "games_released_per_year": {
+      "kind": "record_table",
+      "fields": [
+        "year",
+        "games_released"
+      ],
+      "row_count": 39
+    },
+    "global_sales_by_year": {
+      "kind": "record_table",
+      "fields": [
+        "year",
+        "games_with_year_and_sales",
+        "global_sales_total",
+        "global_sales_mean"
+      ],
+      "row_count": 39
+    },
+    "annual_trends": {
+      "kind": "record_table",
+      "fields": [
+        "year",
+        "games_released",
+        "games_with_year_and_sales",
+        "global_sales_total",
+        "global_sales_mean"
+      ],
+      "row_count": 39
+    },
+    "genre_frequency": {
+      "kind": "record_table",
+      "fields": [
+        "genre",
+        "game_count"
+      ],
+      "row_count": 12
+    },
+    "genre_global_sales": {
+      "kind": "record_table",
+      "fields": [
+        "genre",
+        "games_with_sales",
+        "global_sales_total",
+        "global_sales_mean",
+        "global_sales_share"
+      ],
+      "row_count": 12
+    },
+    "platform_game_counts": {
+      "kind": "record_table",
+      "fields": [
+        "platform",
+        "game_count"
+      ],
+      "row_count": 31
+    },
+    "platform_global_sales": {
+      "kind": "record_table",
+      "fields": [
+        "platform",
+        "games_with_sales",
+        "global_sales_total",
+        "global_sales_mean",
+        "global_sales_share"
+      ],
+      "row_count": 31
+    },
+    "platform_evolution": {
+      "kind": "record_table",
+      "fields": [
+        "platform",
+        "year",
+        "games_released",
+        "games_with_sales",
+        "global_sales_total"
+      ],
+      "row_count": 241
+    },
+    "regional_sales_comparison": {
+      "kind": "record_table",
+      "fields": [
+        "region",
+        "sales_records",
+        "sales_total",
+        "sales_mean",
+        "share_of_reported_regional_sales"
+      ],
+      "row_count": 4
+    },
+    "regional_genre_preferences": {
+      "kind": "record_table",
+      "fields": [
+        "genre",
+        "region",
+        "regional_sales",
+        "genre_region_share",
+        "overall_region_share",
+        "affinity_index",
+        "genre_sales_total_all_regions"
+      ],
+      "row_count": 48
+    },
+    "publisher_summary": {
+      "kind": "record_table",
+      "fields": [
+        "publisher",
+        "game_count",
+        "games_with_sales",
+        "genre_count",
+        "genres",
+        "global_sales_total",
+        "global_sales_share"
+      ],
+      "row_count": 579
+    },
+    "top_publishers": {
+      "kind": "record_table",
+      "fields": [
+        "publisher",
+        "game_count",
+        "games_with_sales",
+        "genre_count",
+        "genres",
+        "global_sales_total",
+        "global_sales_share"
+      ],
+      "row_count": 10
+    },
+    "publisher_genre_dominance": {
+      "kind": "record_table",
+      "fields": [
+        "publisher",
+        "genre",
+        "games_with_sales",
+        "publisher_genre_sales",
+        "genre_total_sales",
+        "genre_market_share",
+        "is_genre_leader",
+        "leader_threshold"
+      ],
+      "row_count": 1837
+    },
+    "market_power_index": {
+      "kind": "record_table",
+      "fields": [
+        "publisher",
+        "game_record_count",
+        "games_with_global_sales",
+        "games_in_hit_rate_denominator",
+        "genre_count",
+        "total_genres_in_source",
+        "genre_leader_count",
+        "genre_leaders",
+        "genre_market_shares",
+        "regional_complete_records",
+        "regional_incomplete_records",
+        "regional_sales_proportions",
+        "sales_share",
+        "genre_leadership_coverage",
+        "genre_diversity_score",
+        "regional_consistency_score",
+        "hit_rate",
+        "available_component_count",
+        "market_power_index",
+        "formula_version",
+        "publisher_archetype",
+        "market_power_rank"
+      ],
+      "row_count": 579
+    },
+    "publisher_genre_market_shares": {
+      "kind": "record_table",
+      "fields": [
+        "publisher",
+        "genre",
+        "publisher_genre_sales",
+        "genre_total_sales",
+        "genre_market_share",
+        "games_with_sales",
+        "leader_threshold",
+        "is_genre_leader"
+      ],
+      "row_count": 1837
+    },
+    "regional_divergence_by_game": {
+      "kind": "record_table",
+      "fields": [
+        "source_row",
+        "name",
+        "platform",
+        "year",
+        "genre",
+        "global_sales",
+        "regional_sales_total",
+        "regional_divergence_score",
+        "regional_proportions",
+        "baseline_regional_proportions",
+        "dominant_region",
+        "dominant_region_share",
+        "cultural_specificity_score",
+        "passes_cultural_outlier_screen"
+      ],
+      "row_count": 16597
+    },
+    "regional_favorites_by_year": {
+      "kind": "record_table",
+      "fields": [
+        "year",
+        "region",
+        "favorite_genre",
+        "favorite_genre_sales",
+        "genres_with_sales"
+      ],
+      "row_count": 156
+    },
+    "regional_preference_stability": {
+      "kind": "record_table",
+      "fields": [
+        "region",
+        "observed_years",
+        "adjacent_observed_year_pairs",
+        "same_favorite_pairs",
+        "preference_stability_index",
+        "definition"
+      ],
+      "row_count": 4
+    },
+    "regional_preference_divergence_by_year": {
+      "kind": "record_table",
+      "fields": [
+        "year",
+        "pairwise_region_distances",
+        "mean_pairwise_divergence",
+        "regions_compared"
+      ],
+      "row_count": 39
+    },
+    "genre_region_affinity": {
+      "kind": "record_table",
+      "fields": [
+        "genre",
+        "region",
+        "regional_sales",
+        "genre_region_share",
+        "overall_region_sales_share",
+        "affinity_index",
+        "index_class"
+      ],
+      "row_count": 48
+    },
+    "regional_preference_changes": {
+      "kind": "record_table",
+      "fields": [
+        "region",
+        "year",
+        "genre",
+        "regional_genre_sales",
+        "regional_genre_share",
+        "previous_observed_year",
+        "previous_observed_genre_share",
+        "share_change",
+        "favorite_genre",
+        "favorite_changed"
+      ],
+      "row_count": 1626
+    },
+    "cultural_outliers": {
+      "kind": "record_table",
+      "fields": [
+        "source_row",
+        "name",
+        "platform",
+        "year",
+        "genre",
+        "global_sales",
+        "regional_sales_total",
+        "regional_divergence_score",
+        "regional_proportions",
+        "baseline_regional_proportions",
+        "dominant_region",
+        "dominant_region_share",
+        "cultural_specificity_score",
+        "passes_cultural_outlier_screen"
+      ],
+      "row_count": 6524
+    },
+    "insights": {
+      "kind": "record_table",
+      "fields": [
+        "id",
+        "title",
+        "text",
+        "metric",
+        "value",
+        "source",
+        "coverage"
+      ],
+      "row_count": 7
+    },
+    "vgchartz_profile": {
+      "kind": "keyed_object",
+      "keys": [
+        "source_dataset",
+        "row_count",
+        "duplicate_candidate_rows_retained",
+        "field_coverage",
+        "source_separation_note"
+      ]
+    },
+    "critic_score_sales_association": {
+      "kind": "keyed_object",
+      "keys": [
+        "source_dataset",
+        "eligible_pair_count",
+        "source_row_count",
+        "eligible_pair_percent",
+        "critic_score_valid_range",
+        "critic_score_sales_pearson_r",
+        "critic_score_sales_spearman_rho",
+        "critic_score_log1p_sales_pearson_r",
+        "missing_critic_score_count",
+        "missing_total_sales_count",
+        "unparseable_critic_score_count",
+        "unparseable_total_sales_count",
+        "invalid_critic_score_count",
+        "invalid_total_sales_count",
+        "negative_total_sales_count",
+        "critic_score_bands",
+        "interpretation"
+      ]
+    },
+    "critic_score_sales_points": {
+      "kind": "record_table",
+      "fields": [
+        "title",
+        "console",
+        "critic_score",
+        "total_sales",
+        "release_date"
+      ],
+      "row_count": 4043
+    },
+    "developer_performance": {
+      "kind": "record_table",
+      "fields": [
+        "developer",
+        "release_records",
+        "records_with_sales",
+        "records_with_critic_score",
+        "total_sales",
+        "mean_sales",
+        "median_sales",
+        "mean_critic_score",
+        "median_critic_score",
+        "publisher_count",
+        "console_count",
+        "genre_count"
+      ],
+      "row_count": 8470
+    },
+    "publisher_performance": {
+      "kind": "record_table",
+      "fields": [
+        "publisher",
+        "release_records",
+        "records_with_sales",
+        "records_with_critic_score",
+        "total_sales",
+        "sales_share",
+        "mean_sales",
+        "median_sales",
+        "mean_critic_score",
+        "median_critic_score",
+        "developer_count",
+        "console_count",
+        "genre_count"
+      ],
+      "row_count": 3265
+    },
+    "publisher_developer_performance": {
+      "kind": "record_table",
+      "fields": [
+        "publisher",
+        "developer",
+        "release_records",
+        "records_with_sales",
+        "records_with_critic_score",
+        "total_sales",
+        "mean_critic_score"
+      ],
+      "row_count": 18380
+    },
+    "vgchartz_platform_by_year": {
+      "kind": "record_table",
+      "fields": [
+        "console",
+        "year",
+        "release_records",
+        "records_with_sales",
+        "total_sales"
+      ],
+      "row_count": 867
+    },
+    "vgchartz_platform_lifecycle": {
+      "kind": "record_table",
+      "fields": [
+        "console",
+        "first_observed_release_year",
+        "last_observed_release_year",
+        "observed_active_year_count",
+        "peak_sales_year",
+        "peak_annual_sales"
+      ],
+      "row_count": 78
+    },
+    "vgchartz_release_date_trends": {
+      "kind": "keyed_object",
+      "keys": [
+        "source_dataset",
+        "source_rows",
+        "valid_iso_release_dates",
+        "missing_or_invalid_release_dates",
+        "jan_1_possible_imprecise_dates",
+        "date_precision_note",
+        "by_year",
+        "by_quarter",
+        "by_month",
+        "by_weekday"
+      ]
+    },
+    "vgchartz_release_by_year": {
+      "kind": "record_table",
+      "fields": [
+        "year",
+        "release_records",
+        "records_with_sales",
+        "total_sales",
+        "mean_sales"
+      ],
+      "row_count": 50
+    },
+    "vgchartz_release_by_quarter": {
+      "kind": "record_table",
+      "fields": [
+        "quarter",
+        "label",
+        "release_records",
+        "records_with_sales",
+        "total_sales",
+        "mean_sales"
+      ],
+      "row_count": 4
+    },
+    "vgchartz_release_by_month": {
+      "kind": "record_table",
+      "fields": [
+        "month",
+        "release_records",
+        "records_with_sales",
+        "total_sales",
+        "mean_sales"
+      ],
+      "row_count": 12
+    },
+    "vgchartz_release_by_weekday": {
+      "kind": "record_table",
+      "fields": [
+        "weekday",
+        "label",
+        "release_records",
+        "records_with_sales",
+        "total_sales",
+        "mean_sales"
+      ],
+      "row_count": 7
+    },
+    "recent_industry_trends": {
+      "kind": "keyed_object",
+      "keys": [
+        "source_dataset",
+        "window_years",
+        "window_start",
+        "window_end"
+      ]
+    },
+    "recent_industry_trends_annual": {
+      "kind": "record_table",
+      "fields": [
+        "year",
+        "release_records",
+        "records_with_sales",
+        "total_sales",
+        "mean_sales",
+        "median_sales",
+        "console_count",
+        "publisher_count",
+        "developer_count",
+        "previous_observed_year",
+        "release_record_change_percent",
+        "sales_change_percent"
+      ],
+      "row_count": 10
+    },
+    "dashboard_data_quality": {
+      "kind": "keyed_object",
+      "keys": [
+        "source_dataset",
+        "processed_dataset",
+        "original_rows",
+        "cleaned_rows",
+        "rows_removed",
+        "missing_value_total",
+        "missing_values_by_field",
+        "exact_duplicate_groups_flagged",
+        "potential_duplicate_groups_flagged",
+        "duplicate_rows_flagged",
+        "transformation_events",
+        "rows_with_transformations",
+        "transformations_by_field",
+        "categorical_policy",
+        "missing_policy",
+        "duplicate_policy",
+        "advanced_source"
+      ]
+    }
+  }
+}

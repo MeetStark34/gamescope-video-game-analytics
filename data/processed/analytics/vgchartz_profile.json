@@ -1,0 +1,43 @@
+{
+  "source_dataset": "vgchartz-2024.csv",
+  "row_count": 64016,
+  "duplicate_candidate_rows_retained": 285,
+  "field_coverage": {
+    "critic_score": {
+      "present": 6541,
+      "missing": 57475,
+      "coverage_percent": 10.21775806048488
+    },
+    "total_sales": {
+      "present": 18520,
+      "missing": 45496,
+      "coverage_percent": 28.930267433141715
+    },
+    "release_date": {
+      "present": 55564,
+      "missing": 8452,
+      "coverage_percent": 86.79705073731567
+    },
+    "publisher": {
+      "present": 62483,
+      "missing": 1533,
+      "coverage_percent": 97.60528617845539
+    },
+    "developer": {
+      "present": 62467,
+      "missing": 1549,
+      "coverage_percent": 97.58029242689328
+    },
+    "console": {
+      "present": 62483,
+      "missing": 1533,
+      "coverage_percent": 97.60528617845539
+    },
+    "genre": {
+      "present": 62483,
+      "missing": 1533,
+      "coverage_percent": 97.60528617845539
+    }
+  },
+  "source_separation_note": "These results use only vgchartz-2024.csv; they are not pooled with vgsales.csv."
+}

@@ -1,0 +1,6 @@
+{
+  "source_dataset": "vgchartz-2024.csv",
+  "window_years": 10,
+  "window_start": 2015,
+  "window_end": 2024
+}

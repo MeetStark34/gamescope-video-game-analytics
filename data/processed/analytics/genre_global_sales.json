@@ -1,0 +1,86 @@
+[
+  {
+    "genre": "Action",
+    "games_with_sales": 3316,
+    "global_sales_total": 1751.18,
+    "global_sales_mean": 0.5281001206272617,
+    "global_sales_share": 0.1963109443031958
+  },
+  {
+    "genre": "Sports",
+    "games_with_sales": 2346,
+    "global_sales_total": 1330.93,
+    "global_sales_mean": 0.5673188405797102,
+    "global_sales_share": 0.14920003945993696
+  },
+  {
+    "genre": "Shooter",
+    "games_with_sales": 1310,
+    "global_sales_total": 1037.37,
+    "global_sales_mean": 0.791885496183206,
+    "global_sales_share": 0.11629134885723123
+  },
+  {
+    "genre": "Role-Playing",
+    "games_with_sales": 1488,
+    "global_sales_total": 927.37,
+    "global_sales_mean": 0.6232325268817205,
+    "global_sales_share": 0.10396011855917421
+  },
+  {
+    "genre": "Platform",
+    "games_with_sales": 886,
+    "global_sales_total": 831.37,
+    "global_sales_mean": 0.9383408577878104,
+    "global_sales_share": 0.09319831757177896
+  },
+  {
+    "genre": "Misc",
+    "games_with_sales": 1739,
+    "global_sales_total": 809.96,
+    "global_sales_mean": 0.4657619321449109,
+    "global_sales_share": 0.09079821174740259
+  },
+  {
+    "genre": "Racing",
+    "games_with_sales": 1249,
+    "global_sales_total": 732.04,
+    "global_sales_mean": 0.5861008807045637,
+    "global_sales_share": 0.08206321661263345
+  },
+  {
+    "genre": "Fighting",
+    "games_with_sales": 848,
+    "global_sales_total": 448.91,
+    "global_sales_mean": 0.529375,
+    "global_sales_share": 0.05032375084637081
+  },
+  {
+    "genre": "Simulation",
+    "games_with_sales": 867,
+    "global_sales_total": 392.2,
+    "global_sales_mean": 0.4523644752018454,
+    "global_sales_share": 0.043966441117254305
+  },
+  {
+    "genre": "Puzzle",
+    "games_with_sales": 582,
+    "global_sales_total": 244.95,
+    "global_sales_mean": 0.4208762886597938,
+    "global_sales_share": 0.027459407831900665
+  },
+  {
+    "genre": "Adventure",
+    "games_with_sales": 1286,
+    "global_sales_total": 239.04,
+    "global_sales_mean": 0.18587869362363918,
+    "global_sales_share": 0.026796884458614147
+  },
+  {
+    "genre": "Strategy",
+    "games_with_sales": 681,
+    "global_sales_total": 175.12,
+    "global_sales_mean": 0.25715124816446405,
+    "global_sales_share": 0.019631318634506817
+  }
+]

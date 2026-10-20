@@ -1,0 +1,236 @@
+[
+  {
+    "year": 1980,
+    "games_with_year_and_sales": 9,
+    "global_sales_total": 11.379999999999999,
+    "global_sales_mean": 1.2644444444444443
+  },
+  {
+    "year": 1981,
+    "games_with_year_and_sales": 46,
+    "global_sales_total": 35.77,
+    "global_sales_mean": 0.7776086956521739
+  },
+  {
+    "year": 1982,
+    "games_with_year_and_sales": 36,
+    "global_sales_total": 28.86,
+    "global_sales_mean": 0.8016666666666666
+  },
+  {
+    "year": 1983,
+    "games_with_year_and_sales": 17,
+    "global_sales_total": 16.79,
+    "global_sales_mean": 0.9876470588235293
+  },
+  {
+    "year": 1984,
+    "games_with_year_and_sales": 14,
+    "global_sales_total": 50.36,
+    "global_sales_mean": 3.597142857142857
+  },
+  {
+    "year": 1985,
+    "games_with_year_and_sales": 14,
+    "global_sales_total": 53.940000000000005,
+    "global_sales_mean": 3.852857142857143
+  },
+  {
+    "year": 1986,
+    "games_with_year_and_sales": 21,
+    "global_sales_total": 37.07,
+    "global_sales_mean": 1.7652380952380953
+  },
+  {
+    "year": 1987,
+    "games_with_year_and_sales": 16,
+    "global_sales_total": 21.74,
+    "global_sales_mean": 1.35875
+  },
+  {
+    "year": 1988,
+    "games_with_year_and_sales": 15,
+    "global_sales_total": 47.22,
+    "global_sales_mean": 3.148
+  },
+  {
+    "year": 1989,
+    "games_with_year_and_sales": 17,
+    "global_sales_total": 73.45,
+    "global_sales_mean": 4.320588235294117
+  },
+  {
+    "year": 1990,
+    "games_with_year_and_sales": 16,
+    "global_sales_total": 49.39,
+    "global_sales_mean": 3.086875
+  },
+  {
+    "year": 1991,
+    "games_with_year_and_sales": 41,
+    "global_sales_total": 32.23,
+    "global_sales_mean": 0.7860975609756097
+  },
+  {
+    "year": 1992,
+    "games_with_year_and_sales": 43,
+    "global_sales_total": 76.16,
+    "global_sales_mean": 1.7711627906976743
+  },
+  {
+    "year": 1993,
+    "games_with_year_and_sales": 60,
+    "global_sales_total": 45.980000000000004,
+    "global_sales_mean": 0.7663333333333334
+  },
+  {
+    "year": 1994,
+    "games_with_year_and_sales": 121,
+    "global_sales_total": 79.17,
+    "global_sales_mean": 0.654297520661157
+  },
+  {
+    "year": 1995,
+    "games_with_year_and_sales": 219,
+    "global_sales_total": 88.11,
+    "global_sales_mean": 0.4023287671232877
+  },
+  {
+    "year": 1996,
+    "games_with_year_and_sales": 263,
+    "global_sales_total": 199.15,
+    "global_sales_mean": 0.7572243346007604
+  },
+  {
+    "year": 1997,
+    "games_with_year_and_sales": 289,
+    "global_sales_total": 200.98,
+    "global_sales_mean": 0.695432525951557
+  },
+  {
+    "year": 1998,
+    "games_with_year_and_sales": 379,
+    "global_sales_total": 256.47,
+    "global_sales_mean": 0.6767018469656992
+  },
+  {
+    "year": 1999,
+    "games_with_year_and_sales": 338,
+    "global_sales_total": 251.27,
+    "global_sales_mean": 0.7434023668639054
+  },
+  {
+    "year": 2000,
+    "games_with_year_and_sales": 349,
+    "global_sales_total": 201.56,
+    "global_sales_mean": 0.5775358166189112
+  },
+  {
+    "year": 2001,
+    "games_with_year_and_sales": 482,
+    "global_sales_total": 331.47,
+    "global_sales_mean": 0.6876970954356847
+  },
+  {
+    "year": 2002,
+    "games_with_year_and_sales": 829,
+    "global_sales_total": 395.52,
+    "global_sales_mean": 0.4771049457177322
+  },
+  {
+    "year": 2003,
+    "games_with_year_and_sales": 775,
+    "global_sales_total": 357.85,
+    "global_sales_mean": 0.461741935483871
+  },
+  {
+    "year": 2004,
+    "games_with_year_and_sales": 763,
+    "global_sales_total": 419.31,
+    "global_sales_mean": 0.5495543905635649
+  },
+  {
+    "year": 2005,
+    "games_with_year_and_sales": 941,
+    "global_sales_total": 459.94,
+    "global_sales_mean": 0.4887778958554729
+  },
+  {
+    "year": 2006,
+    "games_with_year_and_sales": 1008,
+    "global_sales_total": 521.04,
+    "global_sales_mean": 0.5169047619047619
+  },
+  {
+    "year": 2007,
+    "games_with_year_and_sales": 1202,
+    "global_sales_total": 611.13,
+    "global_sales_mean": 0.5084276206322795
+  },
+  {
+    "year": 2008,
+    "games_with_year_and_sales": 1428,
+    "global_sales_total": 678.9,
+    "global_sales_mean": 0.47542016806722687
+  },
+  {
+    "year": 2009,
+    "games_with_year_and_sales": 1431,
+    "global_sales_total": 667.3,
+    "global_sales_mean": 0.4663172606568833
+  },
+  {
+    "year": 2010,
+    "games_with_year_and_sales": 1259,
+    "global_sales_total": 600.45,
+    "global_sales_mean": 0.4769261318506752
+  },
+  {
+    "year": 2011,
+    "games_with_year_and_sales": 1139,
+    "global_sales_total": 515.99,
+    "global_sales_mean": 0.45302019315188763
+  },
+  {
+    "year": 2012,
+    "games_with_year_and_sales": 657,
+    "global_sales_total": 363.54,
+    "global_sales_mean": 0.5533333333333333
+  },
+  {
+    "year": 2013,
+    "games_with_year_and_sales": 546,
+    "global_sales_total": 368.11,
+    "global_sales_mean": 0.6741941391941392
+  },
+  {
+    "year": 2014,
+    "games_with_year_and_sales": 582,
+    "global_sales_total": 337.05,
+    "global_sales_mean": 0.5791237113402062
+  },
+  {
+    "year": 2015,
+    "games_with_year_and_sales": 614,
+    "global_sales_total": 264.44,
+    "global_sales_mean": 0.4306840390879479
+  },
+  {
+    "year": 2016,
+    "games_with_year_and_sales": 344,
+    "global_sales_total": 70.92999999999999,
+    "global_sales_mean": 0.20619186046511626
+  },
+  {
+    "year": 2017,
+    "games_with_year_and_sales": 3,
+    "global_sales_total": 0.05,
+    "global_sales_mean": 0.016666666666666666
+  },
+  {
+    "year": 2020,
+    "games_with_year_and_sales": 1,
+    "global_sales_total": 0.29,
+    "global_sales_mean": 0.29
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "month": 1,
+    "release_records": 7092,
+    "records_with_sales": 917,
+    "total_sales": 292.3,
+    "mean_sales": 0.3187568157033806
+  },
+  {
+    "month": 2,
+    "release_records": 3542,
+    "records_with_sales": 1203,
+    "total_sales": 325.65,
+    "mean_sales": 0.27069825436408973
+  },
+  {
+    "month": 3,
+    "release_records": 4743,
+    "records_with_sales": 1793,
+    "total_sales": 474.06,
+    "mean_sales": 0.26439486893474623
+  },
+  {
+    "month": 4,
+    "release_records": 3411,
+    "records_with_sales": 1012,
+    "total_sales": 233.79,
+    "mean_sales": 0.23101778656126482
+  },
+  {
+    "month": 5,
+    "release_records": 3195,
+    "records_with_sales": 1081,
+    "total_sales": 318.93,
+    "mean_sales": 0.2950323774283071
+  },
+  {
+    "month": 6,
+    "release_records": 3823,
+    "records_with_sales": 1422,
+    "total_sales": 417.65,
+    "mean_sales": 0.29370604781997184
+  },
+  {
+    "month": 7,
+    "release_records": 3503,
+    "records_with_sales": 929,
+    "total_sales": 191.35,
+    "mean_sales": 0.20597416576964478
+  },
+  {
+    "month": 8,
+    "release_records": 3823,
+    "records_with_sales": 1227,
+    "total_sales": 401.39,
+    "mean_sales": 0.3271312143439283
+  },
+  {
+    "month": 9,
+    "release_records": 5117,
+    "records_with_sales": 2086,
+    "total_sales": 838.3100000000001,
+    "mean_sales": 0.40187440076701825
+  },
+  {
+    "month": 10,
+    "release_records": 5948,
+    "records_with_sales": 2768,
+    "total_sales": 1314.87,
+    "mean_sales": 0.475025289017341
+  },
+  {
+    "month": 11,
+    "release_records": 6279,
+    "records_with_sales": 2903,
+    "total_sales": 1456.81,
+    "mean_sales": 0.5018291422666207
+  },
+  {
+    "month": 12,
+    "release_records": 5088,
+    "records_with_sales": 1089,
+    "total_sales": 244.97,
+    "mean_sales": 0.22494949494949495
+  }
+]

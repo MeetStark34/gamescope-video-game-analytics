@@ -1,0 +1,2 @@
+# Python dependencies for cleaning, analysis, and the EDA notebook.
+-r python/requirements.txt

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "top_game",
+    "title": "Top recorded global seller",
+    "text": "Wii Sports (Wii) leads the supplied records with 82.74 reported global sales.",
+    "metric": "Global_Sales",
+    "value": 82.74,
+    "source": "vgsales.csv",
+    "coverage": 1
+  },
+  {
+    "id": "top_genre_sales",
+    "title": "Highest-sales genre",
+    "text": "Action has the largest summed global sales in the analyzed records (1751.18).",
+    "metric": "genre_global_sales_total",
+    "value": 1751.18,
+    "source": "vgsales.csv",
+    "coverage": 3316
+  },
+  {
+    "id": "most_frequent_genre",
+    "title": "Most frequently listed genre",
+    "text": "Action is the most frequent genre label, appearing in 3316 records.",
+    "metric": "genre_record_count",
+    "value": 3316,
+    "source": "vgsales.csv",
+    "coverage": 3316
+  },
+  {
+    "id": "top_platform_sales",
+    "title": "Platform with highest summed sales",
+    "text": "PS2 has the largest platform sales sum (1255.64) in the supplied records.",
+    "metric": "platform_global_sales_total",
+    "value": 1255.64,
+    "source": "vgsales.csv",
+    "coverage": 2161
+  },
+  {
+    "id": "top_publisher_sales",
+    "title": "Publisher with highest summed sales",
+    "text": "Nintendo has the largest publisher sales sum (1786.56) in the supplied records.",
+    "metric": "publisher_global_sales_total",
+    "value": 1786.5599999999981,
+    "source": "vgsales.csv",
+    "coverage": 703
+  },
+  {
+    "id": "largest_region_sales",
+    "title": "Largest reported regional total",
+    "text": "North America has the largest sum among the region fields in this source (4392.95). Regional definitions are source-specific.",
+    "metric": "regional_sales_total",
+    "value": 4392.950000000332,
+    "source": "vgsales.csv",
+    "coverage": 16598
+  },
+  {
+    "id": "peak_annual_sales",
+    "title": "Highest recorded annual sales sum",
+    "text": "The largest annual sales sum in years with valid year and sales values is 2008 (678.9).",
+    "metric": "annual_global_sales_total",
+    "value": 678.9,
+    "year": 2008,
+    "source": "vgsales.csv",
+    "coverage": 1428
+  }
+]

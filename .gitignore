@@ -1,0 +1,42 @@
+# Local source datasets are not redistributed by this project.
+/vgsales.csv
+/vgchartz-2024.csv
+/data/raw/
+
+# Generated cleaning/intermediate outputs can contain local run metadata.
+/data/processed/*
+!/data/processed/analytics/
+/data/processed/analytics/*
+!/data/processed/analytics/*.json
+
+# Python environments, bytecode, and test/editor caches.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Node, Next.js, Vercel, and local environment files.
+node_modules/
+dashboard/node_modules/
+dashboard/.next/
+dashboard/out/
+dashboard/.vercel/
+dashboard/.env*
+!dashboard/.env.example
+.env
+.env.*
+!.env.example
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Local generated data and logs outside the analytics deployment contract.
+/package-lock.json
+/project_desc.pdf
+*.log
+Thumbs.db
+Desktop.ini

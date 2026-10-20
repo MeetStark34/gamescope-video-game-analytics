@@ -1,0 +1,126 @@
+[
+  {
+    "platform": "DS",
+    "game_count": 2163
+  },
+  {
+    "platform": "PS2",
+    "game_count": 2161
+  },
+  {
+    "platform": "PS3",
+    "game_count": 1329
+  },
+  {
+    "platform": "Wii",
+    "game_count": 1325
+  },
+  {
+    "platform": "X360",
+    "game_count": 1265
+  },
+  {
+    "platform": "PSP",
+    "game_count": 1213
+  },
+  {
+    "platform": "PS",
+    "game_count": 1196
+  },
+  {
+    "platform": "PC",
+    "game_count": 960
+  },
+  {
+    "platform": "XB",
+    "game_count": 824
+  },
+  {
+    "platform": "GBA",
+    "game_count": 822
+  },
+  {
+    "platform": "GC",
+    "game_count": 556
+  },
+  {
+    "platform": "3DS",
+    "game_count": 509
+  },
+  {
+    "platform": "PSV",
+    "game_count": 413
+  },
+  {
+    "platform": "PS4",
+    "game_count": 336
+  },
+  {
+    "platform": "N64",
+    "game_count": 319
+  },
+  {
+    "platform": "SNES",
+    "game_count": 239
+  },
+  {
+    "platform": "XOne",
+    "game_count": 213
+  },
+  {
+    "platform": "SAT",
+    "game_count": 173
+  },
+  {
+    "platform": "WiiU",
+    "game_count": 143
+  },
+  {
+    "platform": "2600",
+    "game_count": 133
+  },
+  {
+    "platform": "GB",
+    "game_count": 98
+  },
+  {
+    "platform": "NES",
+    "game_count": 98
+  },
+  {
+    "platform": "DC",
+    "game_count": 52
+  },
+  {
+    "platform": "GEN",
+    "game_count": 27
+  },
+  {
+    "platform": "NG",
+    "game_count": 12
+  },
+  {
+    "platform": "SCD",
+    "game_count": 6
+  },
+  {
+    "platform": "WS",
+    "game_count": 6
+  },
+  {
+    "platform": "3DO",
+    "game_count": 3
+  },
+  {
+    "platform": "TG16",
+    "game_count": 2
+  },
+  {
+    "platform": "GG",
+    "game_count": 1
+  },
+  {
+    "platform": "PCFX",
+    "game_count": 1
+  }
+]

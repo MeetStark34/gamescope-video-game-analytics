@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Wii Sports",
+    "platform": "Wii",
+    "year": "2006",
+    "genre": "Sports",
+    "publisher": "Nintendo",
+    "global_sales": 82.74,
+    "sales_rank": 1
+  },
+  {
+    "name": "Super Mario Bros.",
+    "platform": "NES",
+    "year": "1985",
+    "genre": "Platform",
+    "publisher": "Nintendo",
+    "global_sales": 40.24,
+    "sales_rank": 2
+  },
+  {
+    "name": "Mario Kart Wii",
+    "platform": "Wii",
+    "year": "2008",
+    "genre": "Racing",
+    "publisher": "Nintendo",
+    "global_sales": 35.82,
+    "sales_rank": 3
+  },
+  {
+    "name": "Wii Sports Resort",
+    "platform": "Wii",
+    "year": "2009",
+    "genre": "Sports",
+    "publisher": "Nintendo",
+    "global_sales": 33.0,
+    "sales_rank": 4
+  },
+  {
+    "name": "Pokemon Red/Pokemon Blue",
+    "platform": "GB",
+    "year": "1996",
+    "genre": "Role-Playing",
+    "publisher": "Nintendo",
+    "global_sales": 31.37,
+    "sales_rank": 5
+  },
+  {
+    "name": "Tetris",
+    "platform": "GB",
+    "year": "1989",
+    "genre": "Puzzle",
+    "publisher": "Nintendo",
+    "global_sales": 30.26,
+    "sales_rank": 6
+  },
+  {
+    "name": "New Super Mario Bros.",
+    "platform": "DS",
+    "year": "2006",
+    "genre": "Platform",
+    "publisher": "Nintendo",
+    "global_sales": 30.01,
+    "sales_rank": 7
+  },
+  {
+    "name": "Wii Play",
+    "platform": "Wii",
+    "year": "2006",
+    "genre": "Misc",
+    "publisher": "Nintendo",
+    "global_sales": 29.02,
+    "sales_rank": 8
+  },
+  {
+    "name": "New Super Mario Bros. Wii",
+    "platform": "Wii",
+    "year": "2009",
+    "genre": "Platform",
+    "publisher": "Nintendo",
+    "global_sales": 28.62,
+    "sales_rank": 9
+  },
+  {
+    "name": "Duck Hunt",
+    "platform": "NES",
+    "year": "1984",
+    "genre": "Shooter",
+    "publisher": "Nintendo",
+    "global_sales": 28.31,
+    "sales_rank": 10
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "region": "Europe",
+    "observed_years": 39,
+    "adjacent_observed_year_pairs": 38,
+    "same_favorite_pairs": 12,
+    "preference_stability_index": 0.3157894736842105,
+    "definition": "same favorite genre across adjacent observed years"
+  },
+  {
+    "region": "Japan",
+    "observed_years": 39,
+    "adjacent_observed_year_pairs": 38,
+    "same_favorite_pairs": 26,
+    "preference_stability_index": 0.6842105263157895,
+    "definition": "same favorite genre across adjacent observed years"
+  },
+  {
+    "region": "North America",
+    "observed_years": 39,
+    "adjacent_observed_year_pairs": 38,
+    "same_favorite_pairs": 18,
+    "preference_stability_index": 0.47368421052631576,
+    "definition": "same favorite genre across adjacent observed years"
+  },
+  {
+    "region": "Other",
+    "observed_years": 39,
+    "adjacent_observed_year_pairs": 38,
+    "same_favorite_pairs": 16,
+    "preference_stability_index": 0.42105263157894735,
+    "definition": "same favorite genre across adjacent observed years"
+  }
+]

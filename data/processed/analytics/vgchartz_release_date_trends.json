@@ -1,0 +1,538 @@
+{
+  "source_dataset": "vgchartz-2024.csv",
+  "source_rows": 64016,
+  "valid_iso_release_dates": 55564,
+  "missing_or_invalid_release_dates": 8452,
+  "jan_1_possible_imprecise_dates": 4871,
+  "date_precision_note": "ISO date parsing validates calendar form, not whether month/day are source-observed; Jan 1 clusters may represent year-only precision.",
+  "by_year": [
+    {
+      "year": 1971,
+      "release_records": 1,
+      "records_with_sales": 0,
+      "total_sales": null,
+      "mean_sales": null
+    },
+    {
+      "year": 1975,
+      "release_records": 1,
+      "records_with_sales": 0,
+      "total_sales": null,
+      "mean_sales": null
+    },
+    {
+      "year": 1977,
+      "release_records": 11,
+      "records_with_sales": 3,
+      "total_sales": 2.5,
+      "mean_sales": 0.8333333333333334
+    },
+    {
+      "year": 1978,
+      "release_records": 44,
+      "records_with_sales": 7,
+      "total_sales": 2.36,
+      "mean_sales": 0.33714285714285713
+    },
+    {
+      "year": 1979,
+      "release_records": 8,
+      "records_with_sales": 1,
+      "total_sales": 0.31,
+      "mean_sales": 0.31
+    },
+    {
+      "year": 1980,
+      "release_records": 33,
+      "records_with_sales": 5,
+      "total_sales": 2.26,
+      "mean_sales": 0.45199999999999996
+    },
+    {
+      "year": 1981,
+      "release_records": 47,
+      "records_with_sales": 6,
+      "total_sales": 7.7299999999999995,
+      "mean_sales": 1.2883333333333333
+    },
+    {
+      "year": 1982,
+      "release_records": 203,
+      "records_with_sales": 44,
+      "total_sales": 28.99,
+      "mean_sales": 0.6588636363636363
+    },
+    {
+      "year": 1983,
+      "release_records": 286,
+      "records_with_sales": 37,
+      "total_sales": 22.68,
+      "mean_sales": 0.6129729729729729
+    },
+    {
+      "year": 1984,
+      "release_records": 92,
+      "records_with_sales": 10,
+      "total_sales": 4.85,
+      "mean_sales": 0.485
+    },
+    {
+      "year": 1985,
+      "release_records": 87,
+      "records_with_sales": 4,
+      "total_sales": 2.19,
+      "mean_sales": 0.5475
+    },
+    {
+      "year": 1986,
+      "release_records": 150,
+      "records_with_sales": 11,
+      "total_sales": 10.35,
+      "mean_sales": 0.9409090909090909
+    },
+    {
+      "year": 1987,
+      "release_records": 246,
+      "records_with_sales": 7,
+      "total_sales": 5.59,
+      "mean_sales": 0.7985714285714286
+    },
+    {
+      "year": 1988,
+      "release_records": 272,
+      "records_with_sales": 10,
+      "total_sales": 8.28,
+      "mean_sales": 0.828
+    },
+    {
+      "year": 1989,
+      "release_records": 410,
+      "records_with_sales": 7,
+      "total_sales": 9.12,
+      "mean_sales": 1.3028571428571427
+    },
+    {
+      "year": 1990,
+      "release_records": 629,
+      "records_with_sales": 7,
+      "total_sales": 9.07,
+      "mean_sales": 1.2957142857142858
+    },
+    {
+      "year": 1991,
+      "release_records": 745,
+      "records_with_sales": 20,
+      "total_sales": 6.05,
+      "mean_sales": 0.3025
+    },
+    {
+      "year": 1992,
+      "release_records": 886,
+      "records_with_sales": 23,
+      "total_sales": 9.38,
+      "mean_sales": 0.4078260869565218
+    },
+    {
+      "year": 1993,
+      "release_records": 997,
+      "records_with_sales": 44,
+      "total_sales": 20.03,
+      "mean_sales": 0.45522727272727276
+    },
+    {
+      "year": 1994,
+      "release_records": 1117,
+      "records_with_sales": 94,
+      "total_sales": 36.58,
+      "mean_sales": 0.38914893617021273
+    },
+    {
+      "year": 1995,
+      "release_records": 1119,
+      "records_with_sales": 173,
+      "total_sales": 52.94,
+      "mean_sales": 0.3060115606936416
+    },
+    {
+      "year": 1996,
+      "release_records": 1181,
+      "records_with_sales": 264,
+      "total_sales": 99.49,
+      "mean_sales": 0.3768560606060606
+    },
+    {
+      "year": 1997,
+      "release_records": 1012,
+      "records_with_sales": 236,
+      "total_sales": 105.37,
+      "mean_sales": 0.44648305084745765
+    },
+    {
+      "year": 1998,
+      "release_records": 1069,
+      "records_with_sales": 296,
+      "total_sales": 128.33,
+      "mean_sales": 0.43354729729729735
+    },
+    {
+      "year": 1999,
+      "release_records": 1240,
+      "records_with_sales": 327,
+      "total_sales": 167.71,
+      "mean_sales": 0.512874617737003
+    },
+    {
+      "year": 2000,
+      "release_records": 1525,
+      "records_with_sales": 387,
+      "total_sales": 168.16,
+      "mean_sales": 0.43452196382428937
+    },
+    {
+      "year": 2001,
+      "release_records": 1443,
+      "records_with_sales": 493,
+      "total_sales": 221.34,
+      "mean_sales": 0.44896551724137934
+    },
+    {
+      "year": 2002,
+      "release_records": 1684,
+      "records_with_sales": 821,
+      "total_sales": 310.09,
+      "mean_sales": 0.3776979293544458
+    },
+    {
+      "year": 2003,
+      "release_records": 1686,
+      "records_with_sales": 799,
+      "total_sales": 293.6,
+      "mean_sales": 0.367459324155194
+    },
+    {
+      "year": 2004,
+      "release_records": 1572,
+      "records_with_sales": 763,
+      "total_sales": 278.17,
+      "mean_sales": 0.36457404980340763
+    },
+    {
+      "year": 2005,
+      "release_records": 1769,
+      "records_with_sales": 949,
+      "total_sales": 308.13,
+      "mean_sales": 0.3246891464699684
+    },
+    {
+      "year": 2006,
+      "release_records": 2054,
+      "records_with_sales": 1029,
+      "total_sales": 242.32,
+      "mean_sales": 0.23549076773566568
+    },
+    {
+      "year": 2007,
+      "release_records": 2476,
+      "records_with_sales": 1242,
+      "total_sales": 431.47,
+      "mean_sales": 0.3473993558776168
+    },
+    {
+      "year": 2008,
+      "release_records": 2866,
+      "records_with_sales": 1589,
+      "total_sales": 534.49,
+      "mean_sales": 0.3363687853996224
+    },
+    {
+      "year": 2009,
+      "release_records": 4299,
+      "records_with_sales": 1723,
+      "total_sales": 489.61,
+      "mean_sales": 0.2841613464886825
+    },
+    {
+      "year": 2010,
+      "release_records": 3495,
+      "records_with_sales": 1335,
+      "total_sales": 439.02,
+      "mean_sales": 0.32885393258426965
+    },
+    {
+      "year": 2011,
+      "release_records": 3321,
+      "records_with_sales": 1225,
+      "total_sales": 431.08,
+      "mean_sales": 0.35190204081632653
+    },
+    {
+      "year": 2012,
+      "release_records": 1536,
+      "records_with_sales": 675,
+      "total_sales": 283.38,
+      "mean_sales": 0.4198222222222222
+    },
+    {
+      "year": 2013,
+      "release_records": 1698,
+      "records_with_sales": 508,
+      "total_sales": 265.06,
+      "mean_sales": 0.5217716535433071
+    },
+    {
+      "year": 2014,
+      "release_records": 2825,
+      "records_with_sales": 626,
+      "total_sales": 292.05,
+      "mean_sales": 0.4665335463258786
+    },
+    {
+      "year": 2015,
+      "release_records": 1655,
+      "records_with_sales": 636,
+      "total_sales": 229.65,
+      "mean_sales": 0.3610849056603774
+    },
+    {
+      "year": 2016,
+      "release_records": 1332,
+      "records_with_sales": 604,
+      "total_sales": 205.66,
+      "mean_sales": 0.34049668874172184
+    },
+    {
+      "year": 2017,
+      "release_records": 1540,
+      "records_with_sales": 679,
+      "total_sales": 190.81,
+      "mean_sales": 0.2810162002945508
+    },
+    {
+      "year": 2018,
+      "release_records": 1513,
+      "records_with_sales": 648,
+      "total_sales": 147.83,
+      "mean_sales": 0.22813271604938273
+    },
+    {
+      "year": 2019,
+      "release_records": 1254,
+      "records_with_sales": 35,
+      "total_sales": 2.5500000000000003,
+      "mean_sales": 0.07285714285714287
+    },
+    {
+      "year": 2020,
+      "release_records": 1421,
+      "records_with_sales": 28,
+      "total_sales": 3.45,
+      "mean_sales": 0.12321428571428572
+    },
+    {
+      "year": 2021,
+      "release_records": 416,
+      "records_with_sales": 0,
+      "total_sales": null,
+      "mean_sales": null
+    },
+    {
+      "year": 2022,
+      "release_records": 168,
+      "records_with_sales": 0,
+      "total_sales": null,
+      "mean_sales": null
+    },
+    {
+      "year": 2023,
+      "release_records": 108,
+      "records_with_sales": 0,
+      "total_sales": null,
+      "mean_sales": null
+    },
+    {
+      "year": 2024,
+      "release_records": 22,
+      "records_with_sales": 0,
+      "total_sales": null,
+      "mean_sales": null
+    }
+  ],
+  "by_quarter": [
+    {
+      "quarter": 1,
+      "label": "Q1",
+      "release_records": 15377,
+      "records_with_sales": 3913,
+      "total_sales": 1092.01,
+      "mean_sales": 0.2790723230258114
+    },
+    {
+      "quarter": 2,
+      "label": "Q2",
+      "release_records": 10429,
+      "records_with_sales": 3515,
+      "total_sales": 970.37,
+      "mean_sales": 0.27606543385490756
+    },
+    {
+      "quarter": 3,
+      "label": "Q3",
+      "release_records": 12443,
+      "records_with_sales": 4242,
+      "total_sales": 1431.05,
+      "mean_sales": 0.3373526638378123
+    },
+    {
+      "quarter": 4,
+      "label": "Q4",
+      "release_records": 17315,
+      "records_with_sales": 6760,
+      "total_sales": 3016.65,
+      "mean_sales": 0.44625000000000004
+    }
+  ],
+  "by_month": [
+    {
+      "month": 1,
+      "release_records": 7092,
+      "records_with_sales": 917,
+      "total_sales": 292.3,
+      "mean_sales": 0.3187568157033806
+    },
+    {
+      "month": 2,
+      "release_records": 3542,
+      "records_with_sales": 1203,
+      "total_sales": 325.65,
+      "mean_sales": 0.27069825436408973
+    },
+    {
+      "month": 3,
+      "release_records": 4743,
+      "records_with_sales": 1793,
+      "total_sales": 474.06,
+      "mean_sales": 0.26439486893474623
+    },
+    {
+      "month": 4,
+      "release_records": 3411,
+      "records_with_sales": 1012,
+      "total_sales": 233.79,
+      "mean_sales": 0.23101778656126482
+    },
+    {
+      "month": 5,
+      "release_records": 3195,
+      "records_with_sales": 1081,
+      "total_sales": 318.93,
+      "mean_sales": 0.2950323774283071
+    },
+    {
+      "month": 6,
+      "release_records": 3823,
+      "records_with_sales": 1422,
+      "total_sales": 417.65,
+      "mean_sales": 0.29370604781997184
+    },
+    {
+      "month": 7,
+      "release_records": 3503,
+      "records_with_sales": 929,
+      "total_sales": 191.35,
+      "mean_sales": 0.20597416576964478
+    },
+    {
+      "month": 8,
+      "release_records": 3823,
+      "records_with_sales": 1227,
+      "total_sales": 401.39,
+      "mean_sales": 0.3271312143439283
+    },
+    {
+      "month": 9,
+      "release_records": 5117,
+      "records_with_sales": 2086,
+      "total_sales": 838.3100000000001,
+      "mean_sales": 0.40187440076701825
+    },
+    {
+      "month": 10,
+      "release_records": 5948,
+      "records_with_sales": 2768,
+      "total_sales": 1314.87,
+      "mean_sales": 0.475025289017341
+    },
+    {
+      "month": 11,
+      "release_records": 6279,
+      "records_with_sales": 2903,
+      "total_sales": 1456.81,
+      "mean_sales": 0.5018291422666207
+    },
+    {
+      "month": 12,
+      "release_records": 5088,
+      "records_with_sales": 1089,
+      "total_sales": 244.97,
+      "mean_sales": 0.22494949494949495
+    }
+  ],
+  "by_weekday": [
+    {
+      "weekday": 0,
+      "label": "Monday",
+      "release_records": 5531,
+      "records_with_sales": 1767,
+      "total_sales": 758.92,
+      "mean_sales": 0.42949632144878325
+    },
+    {
+      "weekday": 1,
+      "label": "Tuesday",
+      "release_records": 16147,
+      "records_with_sales": 8422,
+      "total_sales": 3689.27,
+      "mean_sales": 0.43805153170268346
+    },
+    {
+      "weekday": 2,
+      "label": "Wednesday",
+      "release_records": 6235,
+      "records_with_sales": 1381,
+      "total_sales": 380.01,
+      "mean_sales": 0.27517016654598114
+    },
+    {
+      "weekday": 3,
+      "label": "Thursday",
+      "release_records": 13292,
+      "records_with_sales": 3863,
+      "total_sales": 494.96,
+      "mean_sales": 0.12812839761843126
+    },
+    {
+      "weekday": 4,
+      "label": "Friday",
+      "release_records": 9575,
+      "records_with_sales": 1993,
+      "total_sales": 709.74,
+      "mean_sales": 0.356116407425991
+    },
+    {
+      "weekday": 5,
+      "label": "Saturday",
+      "release_records": 2312,
+      "records_with_sales": 377,
+      "total_sales": 168.14000000000001,
+      "mean_sales": 0.44599469496021227
+    },
+    {
+      "weekday": 6,
+      "label": "Sunday",
+      "release_records": 2472,
+      "records_with_sales": 627,
+      "total_sales": 309.04,
+      "mean_sales": 0.4928867623604466
+    }
+  ]
+}

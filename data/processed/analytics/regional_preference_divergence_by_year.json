@@ -1,0 +1,1344 @@
+[
+  {
+    "year": 1980,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.02367764576550674
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.08706467661691543
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.1024551463644948
+      }
+    ],
+    "mean_pairwise_divergence": 0.071065822915639,
+    "regions_compared": 3
+  },
+  {
+    "year": 1981,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.010760112428204797
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.08864795918367352
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.08817365269461087
+      }
+    ],
+    "mean_pairwise_divergence": 0.0625272414354964,
+    "regions_compared": 3
+  },
+  {
+    "year": 1982,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.009223738124183837
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.09130009775171068
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.08654076594928824
+      }
+    ],
+    "mean_pairwise_divergence": 0.06235486727506092,
+    "regions_compared": 3
+  },
+  {
+    "year": 1983,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.42808641975308637
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.20760309278350517
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.09464285714285713
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.5438144329896908
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.4102292768959435
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.27282768777614136
+      }
+    ],
+    "mean_pairwise_divergence": 0.32620062789020404,
+    "regions_compared": 4
+  },
+  {
+    "year": 1984,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.3165181699869857
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.4302741529304029
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.30952380952380953
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.6976849714974933
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.5769346280909
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.12075034340659337
+      }
+    ],
+    "mean_pairwise_divergence": 0.4086143459060308,
+    "regions_compared": 4
+  },
+  {
+    "year": 1985,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.2213335188018732
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.0919819965198943
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.07874701889561549
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.2967212153396559
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.28496774964166266
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.04386818597816422
+      }
+    ],
+    "mean_pairwise_divergence": 0.16960328086281096,
+    "regions_compared": 4
+  },
+  {
+    "year": 1986,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.4557486260318093
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.10278873239436614
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.7823834196891192
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.38841756688541146
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.761344168565099
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.7431834196891192
+      }
+    ],
+    "mean_pairwise_divergence": 0.5389776555424873,
+    "regions_compared": 4
+  },
+  {
+    "year": 1987,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.6201679442381223
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.2257683215130023
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.0918439716312057
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.5386076605501791
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.650773860705073
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.3101654846335697
+      }
+    ],
+    "mean_pairwise_divergence": 0.40622120721185867,
+    "regions_compared": 4
+  },
+  {
+    "year": 1988,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.44872730563921653
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.07570152692283001
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.0643153844974786
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.42318799589145095
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.45455186381582324
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.07205697528278177
+      }
+    ],
+    "mean_pairwise_divergence": 0.2564235086749302,
+    "regions_compared": 4
+  },
+  {
+    "year": 1989,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.21743900298402669
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.1904192449601906
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.12560821484992107
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.28702581807916966
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.25074074074074076
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.08598006644518266
+      }
+    ],
+    "mean_pairwise_divergence": 0.19286884800987192,
+    "regions_compared": 4
+  },
+  {
+    "year": 1990,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.3523663312617145
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.09426036678715814
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.1927260812581914
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.38988155571885896
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.38788402457757293
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.24981483559645376
+      }
+    ],
+    "mean_pairwise_divergence": 0.2778221991999916,
+    "regions_compared": 4
+  },
+  {
+    "year": 1991,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.4668727839536836
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.07866354509741676
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.24923024290112902
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.4408927594266589
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.24735764180960393
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.2332034228585953
+      }
+    ],
+    "mean_pairwise_divergence": 0.28603673267451457,
+    "regions_compared": 4
+  },
+  {
+    "year": 1992,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.3508269871366746
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.11618417433210877
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.0792950857852651
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.33798854696733
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.31341362430950803
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.07448264755616396
+      }
+    ],
+    "mean_pairwise_divergence": 0.21203184434784172,
+    "regions_compared": 4
+  },
+  {
+    "year": 1993,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.5594174106100548
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.048860727086533565
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.06393620877129398
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.5105566835235212
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.5681676033659071
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.09738570834076458
+      }
+    ],
+    "mean_pairwise_divergence": 0.3080540569496792,
+    "regions_compared": 4
+  },
+  {
+    "year": 1994,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.5356153138019721
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.27348163639488915
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.2249389051808407
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.44412466941222395
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.4648278905560459
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.08814790892943647
+      }
+    ],
+    "mean_pairwise_divergence": 0.33852272071256806,
+    "regions_compared": 4
+  },
+  {
+    "year": 1995,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.35455238933509364
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.12806623798733438
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.1523794996949359
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.3481319049065842
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.3158072528564332
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.15724733230776752
+      }
+    ],
+    "mean_pairwise_divergence": 0.2426974361813581,
+    "regions_compared": 4
+  },
+  {
+    "year": 1996,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.17498698894399142
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.1287684033881023
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.10872813261667884
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.2638074199501458
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.2226707531758134
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.15094882314394645
+      }
+    ],
+    "mean_pairwise_divergence": 0.17498508686977968,
+    "regions_compared": 4
+  },
+  {
+    "year": 1997,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.4247867704153607
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.1562153803141764
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.19059750440654857
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.382521287158381
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.2376181437620565
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.1575645831105665
+      }
+    ],
+    "mean_pairwise_divergence": 0.25821727819451495,
+    "regions_compared": 4
+  },
+  {
+    "year": 1998,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.3490592279539597
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.09919264344814967
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.05062169080927546
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.36903110730486977
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.3071997524373974
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.08294964270649723
+      }
+    ],
+    "mean_pairwise_divergence": 0.20967567744335822,
+    "regions_compared": 4
+  },
+  {
+    "year": 1999,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.333789684720914
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.093895389879841
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.07362564868334244
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.33101856440798166
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.2714936969717709
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.11519958513003767
+      }
+    ],
+    "mean_pairwise_divergence": 0.20317042829898127,
+    "regions_compared": 4
+  },
+  {
+    "year": 2000,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.3920918569179131
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.0719560383781428
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.12636131526784167
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.3855476502790302
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.28700868472721836
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.10506735224465301
+      }
+    ],
+    "mean_pairwise_divergence": 0.22800548296913317,
+    "regions_compared": 4
+  },
+  {
+    "year": 2001,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.3181745499066524
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.06797010535283693
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.06871766790924853
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.30442377150928346
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.33723237835058884
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.08728312710327049
+      }
+    ],
+    "mean_pairwise_divergence": 0.19730026668864678,
+    "regions_compared": 4
+  },
+  {
+    "year": 2002,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.40214579811424717
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.046825702333922484
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.06933122918634091
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.37535940031818893
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.4533228559229669
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.10630963124513419
+      }
+    ],
+    "mean_pairwise_divergence": 0.24221576952013343,
+    "regions_compared": 4
+  },
+  {
+    "year": 2003,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.3498938681836082
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.05165530694656267
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.0489902570576974
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.34057313203976936
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.3495022157469796
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.07209525499883707
+      }
+    ],
+    "mean_pairwise_divergence": 0.2021183391622424,
+    "regions_compared": 4
+  },
+  {
+    "year": 2004,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.29267597460154376
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.09650929221642496
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.3151115073589367
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.3424324903149633
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.4929739796108759
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.305413000988545
+      }
+    ],
+    "mean_pairwise_divergence": 0.30751937418188163,
+    "regions_compared": 4
+  },
+  {
+    "year": 2005,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.26114350788511315
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.13762312396291018
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.06173563532162354
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.358886822703128
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.27712628929163796
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.09204037844641288
+      }
+    ],
+    "mean_pairwise_divergence": 0.19809262626847093,
+    "regions_compared": 4
+  },
+  {
+    "year": 2006,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.35012024306944745
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.09757750458065372
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.0897013749256314
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.37237681309249726
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.3458073148451759
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.03690537389983829
+      }
+    ],
+    "mean_pairwise_divergence": 0.2154147707355407,
+    "regions_compared": 4
+  },
+  {
+    "year": 2007,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.2973014025150506
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.07149737865516974
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.11315910331759613
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.2780422159211304
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.29325427529825765
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.0959206824838076
+      }
+    ],
+    "mean_pairwise_divergence": 0.19152917636516867,
+    "regions_compared": 4
+  },
+  {
+    "year": 2008,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.346100322319839
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.07364923885514976
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.07321444697577435
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.3188515125555405
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.3549242476275181
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.07000867162051862
+      }
+    ],
+    "mean_pairwise_divergence": 0.2061247399923901,
+    "regions_compared": 4
+  },
+  {
+    "year": 2009,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.28790214899422667
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.054584646954225866
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.06144218333023471
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.2779223387593592
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.3003749333902798
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.047865940919326264
+      }
+    ],
+    "mean_pairwise_divergence": 0.17168203205794208,
+    "regions_compared": 4
+  },
+  {
+    "year": 2010,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.3748159074877363
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.06212101393089072
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.033970166804157695
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.3652924640317447
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.3840939302939761
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.0837659026767812
+      }
+    ],
+    "mean_pairwise_divergence": 0.21734323087088112,
+    "regions_compared": 4
+  },
+  {
+    "year": 2011,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.2916584694078302
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.06662556409462296
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.02706837955285131
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.2849817153724894
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.2819705844915926
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.06245977977971195
+      }
+    ],
+    "mean_pairwise_divergence": 0.16912741544984974,
+    "regions_compared": 4
+  },
+  {
+    "year": 2012,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.3777823540748289
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.07351988809304877
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.04388143552523066
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.3571075563672781
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.41207440611919394
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.08250668124177027
+      }
+    ],
+    "mean_pairwise_divergence": 0.22447872023689178,
+    "regions_compared": 4
+  },
+  {
+    "year": 2013,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.4236080511496752
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.06047343136895391
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.04545961596660304
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.41264363934999
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.4328886376591277
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.0748353375548889
+      }
+    ],
+    "mean_pairwise_divergence": 0.24165145217487313,
+    "regions_compared": 4
+  },
+  {
+    "year": 2014,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.4968304704033704
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.07233602060978
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.044862208768277886
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.4628537387795789
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.4975077083860503
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.0637412596270627
+      }
+    ],
+    "mean_pairwise_divergence": 0.2730219010956867,
+    "regions_compared": 4
+  },
+  {
+    "year": 2015,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.36813136483842973
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.08716265582401071
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.05817448153177641
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.401401186424213
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.3992971105321556
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.04526368406925976
+      }
+    ],
+    "mean_pairwise_divergence": 0.22657174720330753,
+    "regions_compared": 4
+  },
+  {
+    "year": 2016,
+    "pairwise_region_distances": [
+      {
+        "region_a": "Europe",
+        "region_b": "Japan",
+        "total_variation_distance": 0.5359819100302227
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "North America",
+        "total_variation_distance": 0.11186520171456378
+      },
+      {
+        "region_a": "Europe",
+        "region_b": "Other",
+        "total_variation_distance": 0.05745985823810173
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "North America",
+        "total_variation_distance": 0.4943145579528544
+      },
+      {
+        "region_a": "Japan",
+        "region_b": "Other",
+        "total_variation_distance": 0.5284483164586764
+      },
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.06146172024029839
+      }
+    ],
+    "mean_pairwise_divergence": 0.2982552607724529,
+    "regions_compared": 4
+  },
+  {
+    "year": 2017,
+    "pairwise_region_distances": [],
+    "mean_pairwise_divergence": null,
+    "regions_compared": 1
+  },
+  {
+    "year": 2020,
+    "pairwise_region_distances": [
+      {
+        "region_a": "North America",
+        "region_b": "Other",
+        "total_variation_distance": 0.0
+      }
+    ],
+    "mean_pairwise_divergence": 0.0,
+    "regions_compared": 2
+  }
+]

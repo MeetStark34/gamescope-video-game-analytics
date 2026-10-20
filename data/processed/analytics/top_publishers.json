@@ -1,0 +1,222 @@
+[
+  {
+    "publisher": "Nintendo",
+    "game_count": 703,
+    "games_with_sales": 703,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 1786.5599999999981,
+    "global_sales_share": 0.2002771163753964
+  },
+  {
+    "publisher": "Electronic Arts",
+    "game_count": 1351,
+    "games_with_sales": 1351,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 1110.3199999999915,
+    "global_sales_share": 0.1244691965866966
+  },
+  {
+    "publisher": "Activision",
+    "game_count": 975,
+    "games_with_sales": 975,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 727.4599999999983,
+    "global_sales_share": 0.0815497890238479
+  },
+  {
+    "publisher": "Sony Computer Entertainment",
+    "game_count": 683,
+    "games_with_sales": 683,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 607.4999999999989,
+    "global_sales_share": 0.06810202187335058
+  },
+  {
+    "publisher": "Ubisoft",
+    "game_count": 921,
+    "games_with_sales": 921,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 474.71999999999935,
+    "global_sales_share": 0.053217105882661736
+  },
+  {
+    "publisher": "Take-Two Interactive",
+    "game_count": 413,
+    "games_with_sales": 413,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 399.5399999999996,
+    "global_sales_share": 0.04478927048440908
+  },
+  {
+    "publisher": "THQ",
+    "game_count": 715,
+    "games_with_sales": 715,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 340.7699999999994,
+    "global_sales_share": 0.038201030442438985
+  },
+  {
+    "publisher": "Konami Digital Entertainment",
+    "game_count": 832,
+    "games_with_sales": 832,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 283.639999999998,
+    "global_sales_share": 0.03179663783400339
+  },
+  {
+    "publisher": "Sega",
+    "game_count": 639,
+    "games_with_sales": 639,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 272.98999999999927,
+    "global_sales_share": 0.030602750536964544
+  },
+  {
+    "publisher": "Namco Bandai Games",
+    "game_count": 932,
+    "games_with_sales": 932,
+    "genre_count": 12,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fighting",
+      "Misc",
+      "Platform",
+      "Puzzle",
+      "Racing",
+      "Role-Playing",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "global_sales_total": 254.0900000000008,
+    "global_sales_share": 0.028484020967571584
+  }
+]

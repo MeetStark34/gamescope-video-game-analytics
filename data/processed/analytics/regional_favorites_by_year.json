@@ -1,0 +1,1094 @@
+[
+  {
+    "year": 1980,
+    "region": "Europe",
+    "favorite_genre": "Shooter",
+    "favorite_genre_sales": 0.43000000000000005,
+    "genres_with_sales": 5
+  },
+  {
+    "year": 1980,
+    "region": "Japan",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 0.0,
+    "genres_with_sales": 5
+  },
+  {
+    "year": 1980,
+    "region": "North America",
+    "favorite_genre": "Shooter",
+    "favorite_genre_sales": 6.5600000000000005,
+    "genres_with_sales": 5
+  },
+  {
+    "year": 1980,
+    "region": "Other",
+    "favorite_genre": "Shooter",
+    "favorite_genre_sales": 0.08,
+    "genres_with_sales": 5
+  },
+  {
+    "year": 1981,
+    "region": "Europe",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 0.8100000000000002,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1981,
+    "region": "Japan",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 0.0,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1981,
+    "region": "North America",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 13.860000000000005,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1981,
+    "region": "Other",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 0.11999999999999998,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1982,
+    "region": "Europe",
+    "favorite_genre": "Puzzle",
+    "favorite_genre_sales": 0.5800000000000001,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1982,
+    "region": "Japan",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 0.0,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1982,
+    "region": "North America",
+    "favorite_genre": "Puzzle",
+    "favorite_genre_sales": 9.350000000000001,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1982,
+    "region": "Other",
+    "favorite_genre": "Puzzle",
+    "favorite_genre_sales": 0.11,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1983,
+    "region": "Europe",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 0.43,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1983,
+    "region": "Japan",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 3.62,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1983,
+    "region": "North America",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 2.8,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1983,
+    "region": "Other",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 0.08,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1984,
+    "region": "Europe",
+    "favorite_genre": "Shooter",
+    "favorite_genre_sales": 0.85,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1984,
+    "region": "Japan",
+    "favorite_genre": "Sports",
+    "favorite_genre_sales": 4.02,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1984,
+    "region": "North America",
+    "favorite_genre": "Shooter",
+    "favorite_genre_sales": 27.79,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1984,
+    "region": "Other",
+    "favorite_genre": "Shooter",
+    "favorite_genre_sales": 0.5,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1985,
+    "region": "Europe",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 3.77,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1985,
+    "region": "Japan",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 8.67,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1985,
+    "region": "North America",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 29.93,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1985,
+    "region": "Other",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 0.8,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1986,
+    "region": "Europe",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 1.66,
+    "genres_with_sales": 6
+  },
+  {
+    "year": 1986,
+    "region": "Japan",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 8.110000000000001,
+    "genres_with_sales": 6
+  },
+  {
+    "year": 1986,
+    "region": "North America",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 6.5200000000000005,
+    "genres_with_sales": 6
+  },
+  {
+    "year": 1986,
+    "region": "Other",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 1.51,
+    "genres_with_sales": 6
+  },
+  {
+    "year": 1987,
+    "region": "Europe",
+    "favorite_genre": "Fighting",
+    "favorite_genre_sales": 0.6499999999999999,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1987,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 4.18,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1987,
+    "region": "North America",
+    "favorite_genre": "Fighting",
+    "favorite_genre_sales": 2.8,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1987,
+    "region": "Other",
+    "favorite_genre": "Fighting",
+    "favorite_genre_sales": 0.1,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1988,
+    "region": "Europe",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 4.99,
+    "genres_with_sales": 8
+  },
+  {
+    "year": 1988,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 5.779999999999999,
+    "genres_with_sales": 8
+  },
+  {
+    "year": 1988,
+    "region": "North America",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 16.34,
+    "genres_with_sales": 8
+  },
+  {
+    "year": 1988,
+    "region": "Other",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 0.7000000000000001,
+    "genres_with_sales": 8
+  },
+  {
+    "year": 1989,
+    "region": "Europe",
+    "favorite_genre": "Puzzle",
+    "favorite_genre_sales": 3.6099999999999994,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1989,
+    "region": "Japan",
+    "favorite_genre": "Puzzle",
+    "favorite_genre_sales": 6.77,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1989,
+    "region": "North America",
+    "favorite_genre": "Puzzle",
+    "favorite_genre_sales": 26.54,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1989,
+    "region": "Other",
+    "favorite_genre": "Puzzle",
+    "favorite_genre_sales": 0.8300000000000001,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1990,
+    "region": "Europe",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 3.99,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1990,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 4.42,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1990,
+    "region": "North America",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 14.139999999999999,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1990,
+    "region": "Other",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 0.5700000000000001,
+    "genres_with_sales": 7
+  },
+  {
+    "year": 1991,
+    "region": "Europe",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 1.1900000000000002,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1991,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 2.8099999999999996,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1991,
+    "region": "North America",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 4.36,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1991,
+    "region": "Other",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 0.17,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1992,
+    "region": "Europe",
+    "favorite_genre": "Adventure",
+    "favorite_genre_sales": 2.81,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1992,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 6.83,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1992,
+    "region": "North America",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 8.23,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1992,
+    "region": "Other",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 0.33999999999999997,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1993,
+    "region": "Europe",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 3.1599999999999997,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1993,
+    "region": "Japan",
+    "favorite_genre": "Fighting",
+    "favorite_genre_sales": 6.11,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1993,
+    "region": "North America",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 9.659999999999998,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1993,
+    "region": "Other",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 0.6500000000000001,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1994,
+    "region": "Europe",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 5.7299999999999995,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1994,
+    "region": "Japan",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 7.020000000000001,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1994,
+    "region": "North America",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 14.88,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1994,
+    "region": "Other",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 1.1300000000000001,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1995,
+    "region": "Europe",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 3.2199999999999998,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1995,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 13.09,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1995,
+    "region": "North America",
+    "favorite_genre": "Platform",
+    "favorite_genre_sales": 6.610000000000001,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1995,
+    "region": "Other",
+    "favorite_genre": "Fighting",
+    "favorite_genre_sales": 0.5599999999999999,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1996,
+    "region": "Europe",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 11.04,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1996,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 18.779999999999998,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1996,
+    "region": "North America",
+    "favorite_genre": "Racing",
+    "favorite_genre_sales": 16.94,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1996,
+    "region": "Other",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 1.4500000000000002,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1997,
+    "region": "Europe",
+    "favorite_genre": "Racing",
+    "favorite_genre_sales": 10.819999999999997,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1997,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 11.560000000000002,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1997,
+    "region": "North America",
+    "favorite_genre": "Sports",
+    "favorite_genre_sales": 15.549999999999999,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1997,
+    "region": "Other",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 1.5100000000000005,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1998,
+    "region": "Europe",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 11.899999999999999,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1998,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 11.33,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1998,
+    "region": "North America",
+    "favorite_genre": "Sports",
+    "favorite_genre_sales": 24.699999999999996,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1998,
+    "region": "Other",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 1.8100000000000007,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1999,
+    "region": "Europe",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 11.170000000000002,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1999,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 18.700000000000003,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1999,
+    "region": "North America",
+    "favorite_genre": "Racing",
+    "favorite_genre_sales": 21.150000000000002,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 1999,
+    "region": "Other",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 1.9300000000000008,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2000,
+    "region": "Europe",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 10.840000000000002,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2000,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 15.799999999999999,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2000,
+    "region": "North America",
+    "favorite_genre": "Sports",
+    "favorite_genre_sales": 22.750000000000004,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2000,
+    "region": "Other",
+    "favorite_genre": "Sports",
+    "favorite_genre_sales": 2.359999999999997,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2001,
+    "region": "Europe",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 19.250000000000018,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2001,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 9.549999999999995,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2001,
+    "region": "North America",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 29.810000000000006,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2001,
+    "region": "Other",
+    "favorite_genre": "Sports",
+    "favorite_genre_sales": 4.62999999999999,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2002,
+    "region": "Europe",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 27.010000000000023,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2002,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 13.639999999999999,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2002,
+    "region": "North America",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 47.81000000000002,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2002,
+    "region": "Other",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 6.7299999999999915,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2003,
+    "region": "Europe",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 20.88000000000003,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2003,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 9.629999999999999,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2003,
+    "region": "North America",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 37.74000000000002,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2003,
+    "region": "Other",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 5.169999999999989,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2004,
+    "region": "Europe",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 16.730000000000008,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2004,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 13.489999999999998,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2004,
+    "region": "North America",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 39.08000000000002,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2004,
+    "region": "Other",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 16.220000000000013,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2005,
+    "region": "Europe",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 21.95000000000003,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2005,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 9.219999999999999,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2005,
+    "region": "North America",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 49.62000000000001,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2005,
+    "region": "Other",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 7.629999999999982,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2006,
+    "region": "Europe",
+    "favorite_genre": "Sports",
+    "favorite_genre_sales": 40.19999999999999,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2006,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 19.830000000000016,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2006,
+    "region": "North America",
+    "favorite_genre": "Sports",
+    "favorite_genre_sales": 72.91,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2006,
+    "region": "Other",
+    "favorite_genre": "Sports",
+    "favorite_genre_sales": 14.319999999999979,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2007,
+    "region": "Europe",
+    "favorite_genre": "Sports",
+    "favorite_genre_sales": 26.54000000000002,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2007,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 12.429999999999994,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2007,
+    "region": "North America",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 58.89999999999998,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2007,
+    "region": "Other",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 15.39999999999997,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2008,
+    "region": "Europe",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 39.490000000000016,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2008,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 17.510000000000005,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2008,
+    "region": "North America",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 72.39,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2008,
+    "region": "Other",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 18.550000000000075,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2009,
+    "region": "Europe",
+    "favorite_genre": "Sports",
+    "favorite_genre_sales": 42.16999999999997,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2009,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 17.070000000000007,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2009,
+    "region": "North America",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 71.60999999999997,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2009,
+    "region": "Other",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 16.67000000000005,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2010,
+    "region": "Europe",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 35.75000000000005,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2010,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 23.669999999999995,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2010,
+    "region": "North America",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 60.32000000000002,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2010,
+    "region": "Other",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 12.849999999999962,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2011,
+    "region": "Europe",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 41.040000000000006,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2011,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 14.429999999999989,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2011,
+    "region": "North America",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 53.73,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2011,
+    "region": "Other",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 13.40999999999996,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2012,
+    "region": "Europe",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 42.78000000000006,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2012,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 14.389999999999995,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2012,
+    "region": "North America",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 52.51000000000001,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2012,
+    "region": "Other",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 14.359999999999982,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2013,
+    "region": "Europe",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 45.21000000000004,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2013,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 19.86,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2013,
+    "region": "North America",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 53.790000000000006,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2013,
+    "region": "Other",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 15.329999999999982,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2014,
+    "region": "Europe",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 40.48000000000002,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2014,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 17.709999999999997,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2014,
+    "region": "North America",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 38.730000000000025,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2014,
+    "region": "Other",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 13.299999999999972,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2015,
+    "region": "Europe",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 24.650000000000027,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2015,
+    "region": "Japan",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 15.849999999999977,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2015,
+    "region": "North America",
+    "favorite_genre": "Shooter",
+    "favorite_genre_sales": 30.789999999999992,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2015,
+    "region": "Other",
+    "favorite_genre": "Shooter",
+    "favorite_genre_sales": 8.409999999999995,
+    "genres_with_sales": 12
+  },
+  {
+    "year": 2016,
+    "region": "Europe",
+    "favorite_genre": "Shooter",
+    "favorite_genre_sales": 7.699999999999999,
+    "genres_with_sales": 11
+  },
+  {
+    "year": 2016,
+    "region": "Japan",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 5.789999999999992,
+    "genres_with_sales": 11
+  },
+  {
+    "year": 2016,
+    "region": "North America",
+    "favorite_genre": "Shooter",
+    "favorite_genre_sales": 7.439999999999998,
+    "genres_with_sales": 11
+  },
+  {
+    "year": 2016,
+    "region": "Other",
+    "favorite_genre": "Shooter",
+    "favorite_genre_sales": 2.4199999999999977,
+    "genres_with_sales": 11
+  },
+  {
+    "year": 2017,
+    "region": "Europe",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 0.0,
+    "genres_with_sales": 2
+  },
+  {
+    "year": 2017,
+    "region": "Japan",
+    "favorite_genre": "Role-Playing",
+    "favorite_genre_sales": 0.04,
+    "genres_with_sales": 2
+  },
+  {
+    "year": 2017,
+    "region": "North America",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 0.0,
+    "genres_with_sales": 2
+  },
+  {
+    "year": 2017,
+    "region": "Other",
+    "favorite_genre": "Action",
+    "favorite_genre_sales": 0.0,
+    "genres_with_sales": 2
+  },
+  {
+    "year": 2020,
+    "region": "Europe",
+    "favorite_genre": "Simulation",
+    "favorite_genre_sales": 0.0,
+    "genres_with_sales": 1
+  },
+  {
+    "year": 2020,
+    "region": "Japan",
+    "favorite_genre": "Simulation",
+    "favorite_genre_sales": 0.0,
+    "genres_with_sales": 1
+  },
+  {
+    "year": 2020,
+    "region": "North America",
+    "favorite_genre": "Simulation",
+    "favorite_genre_sales": 0.27,
+    "genres_with_sales": 1
+  },
+  {
+    "year": 2020,
+    "region": "Other",
+    "favorite_genre": "Simulation",
+    "favorite_genre_sales": 0.02,
+    "genres_with_sales": 1
+  }
+]

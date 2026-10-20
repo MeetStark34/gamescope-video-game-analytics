@@ -1,0 +1,79 @@
+{
+  "Rank": {
+    "count": 16598,
+    "missing_or_invalid": 0,
+    "min": 1.0,
+    "q1": 4151.25,
+    "median": 8300.5,
+    "q3": 12449.75,
+    "max": 16600.0,
+    "mean": 8300.605253645017,
+    "std_population": 4791.7095803807315
+  },
+  "Year": {
+    "count": 16327,
+    "missing_or_invalid": 271,
+    "min": 1980.0,
+    "q1": 2003.0,
+    "median": 2007.0,
+    "q3": 2010.0,
+    "max": 2020.0,
+    "mean": 2006.4064433147546,
+    "std_population": 5.8288026045648555
+  },
+  "NA_Sales": {
+    "count": 16598,
+    "missing_or_invalid": 0,
+    "min": 0.0,
+    "q1": 0.0,
+    "median": 0.08,
+    "q3": 0.24,
+    "max": 41.49,
+    "mean": 0.2646674298108206,
+    "std_population": 0.8166584270778109
+  },
+  "EU_Sales": {
+    "count": 16598,
+    "missing_or_invalid": 0,
+    "min": 0.0,
+    "q1": 0.0,
+    "median": 0.02,
+    "q3": 0.11,
+    "max": 29.02,
+    "mean": 0.14665200626581518,
+    "std_population": 0.5053360078008547
+  },
+  "JP_Sales": {
+    "count": 16598,
+    "missing_or_invalid": 0,
+    "min": 0.0,
+    "q1": 0.0,
+    "median": 0.0,
+    "q3": 0.04,
+    "max": 10.22,
+    "mean": 0.07778166044101699,
+    "std_population": 0.3092813308359451
+  },
+  "Other_Sales": {
+    "count": 16598,
+    "missing_or_invalid": 0,
+    "min": 0.0,
+    "q1": 0.0,
+    "median": 0.01,
+    "q3": 0.04,
+    "max": 10.57,
+    "mean": 0.04806301964092059,
+    "std_population": 0.18858272176909707
+  },
+  "Global_Sales": {
+    "count": 16598,
+    "missing_or_invalid": 0,
+    "min": 0.01,
+    "q1": 0.06,
+    "median": 0.17,
+    "q3": 0.47,
+    "max": 82.74,
+    "mean": 0.5374406555006628,
+    "std_population": 1.5549810910296609
+  }
+}

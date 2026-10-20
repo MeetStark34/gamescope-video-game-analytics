@@ -1,0 +1,6071 @@
+[
+  {
+    "console": "2600",
+    "year": 1977,
+    "release_records": 10,
+    "records_with_sales": 3,
+    "total_sales": 2.5
+  },
+  {
+    "console": "2600",
+    "year": 1978,
+    "release_records": 44,
+    "records_with_sales": 7,
+    "total_sales": 2.36
+  },
+  {
+    "console": "2600",
+    "year": 1979,
+    "release_records": 2,
+    "records_with_sales": 1,
+    "total_sales": 0.31
+  },
+  {
+    "console": "2600",
+    "year": 1980,
+    "release_records": 10,
+    "records_with_sales": 5,
+    "total_sales": 2.26
+  },
+  {
+    "console": "2600",
+    "year": 1981,
+    "release_records": 20,
+    "records_with_sales": 6,
+    "total_sales": 7.7299999999999995
+  },
+  {
+    "console": "2600",
+    "year": 1982,
+    "release_records": 140,
+    "records_with_sales": 44,
+    "total_sales": 28.99
+  },
+  {
+    "console": "2600",
+    "year": 1983,
+    "release_records": 174,
+    "records_with_sales": 37,
+    "total_sales": 22.68
+  },
+  {
+    "console": "2600",
+    "year": 1984,
+    "release_records": 24,
+    "records_with_sales": 9,
+    "total_sales": 4.16
+  },
+  {
+    "console": "2600",
+    "year": 1985,
+    "release_records": 1,
+    "records_with_sales": 1,
+    "total_sales": 0.45
+  },
+  {
+    "console": "2600",
+    "year": 1986,
+    "release_records": 2,
+    "records_with_sales": 1,
+    "total_sales": 0.37
+  },
+  {
+    "console": "2600",
+    "year": 1987,
+    "release_records": 8,
+    "records_with_sales": 3,
+    "total_sales": 1.2
+  },
+  {
+    "console": "2600",
+    "year": 1988,
+    "release_records": 11,
+    "records_with_sales": 4,
+    "total_sales": 1.13
+  },
+  {
+    "console": "2600",
+    "year": 1989,
+    "release_records": 9,
+    "records_with_sales": 2,
+    "total_sales": 0.71
+  },
+  {
+    "console": "2600",
+    "year": 1990,
+    "release_records": 6,
+    "records_with_sales": 1,
+    "total_sales": 0.15
+  },
+  {
+    "console": "2600",
+    "year": 1992,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "2600",
+    "year": 1994,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "2600",
+    "year": 2000,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "2600",
+    "year": 2001,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "2600",
+    "year": 2002,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "2600",
+    "year": 2003,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "2600",
+    "year": 2017,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "3DO",
+    "year": 1993,
+    "release_records": 14,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "3DO",
+    "year": 1994,
+    "release_records": 118,
+    "records_with_sales": 1,
+    "total_sales": 0.09
+  },
+  {
+    "console": "3DO",
+    "year": 1995,
+    "release_records": 123,
+    "records_with_sales": 3,
+    "total_sales": 0.1
+  },
+  {
+    "console": "3DO",
+    "year": 1996,
+    "release_records": 27,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "3DO",
+    "year": 2007,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "3DS",
+    "year": 2007,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "3DS",
+    "year": 2010,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "3DS",
+    "year": 2011,
+    "release_records": 195,
+    "records_with_sales": 107,
+    "total_sales": 22.52
+  },
+  {
+    "console": "3DS",
+    "year": 2012,
+    "release_records": 193,
+    "records_with_sales": 71,
+    "total_sales": 13.55
+  },
+  {
+    "console": "3DS",
+    "year": 2013,
+    "release_records": 222,
+    "records_with_sales": 83,
+    "total_sales": 13.69
+  },
+  {
+    "console": "3DS",
+    "year": 2014,
+    "release_records": 209,
+    "records_with_sales": 83,
+    "total_sales": 12.52
+  },
+  {
+    "console": "3DS",
+    "year": 2015,
+    "release_records": 104,
+    "records_with_sales": 77,
+    "total_sales": 9.57
+  },
+  {
+    "console": "3DS",
+    "year": 2016,
+    "release_records": 80,
+    "records_with_sales": 57,
+    "total_sales": 9.85
+  },
+  {
+    "console": "3DS",
+    "year": 2017,
+    "release_records": 59,
+    "records_with_sales": 49,
+    "total_sales": 11.67
+  },
+  {
+    "console": "3DS",
+    "year": 2018,
+    "release_records": 20,
+    "records_with_sales": 16,
+    "total_sales": 2.54
+  },
+  {
+    "console": "3DS",
+    "year": 2019,
+    "release_records": 6,
+    "records_with_sales": 4,
+    "total_sales": 1.03
+  },
+  {
+    "console": "3DS",
+    "year": 2020,
+    "release_records": 4,
+    "records_with_sales": 2,
+    "total_sales": 0.060000000000000005
+  },
+  {
+    "console": "5200",
+    "year": 1981,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "5200",
+    "year": 1982,
+    "release_records": 8,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "5200",
+    "year": 1983,
+    "release_records": 37,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "5200",
+    "year": 1984,
+    "release_records": 22,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "5200",
+    "year": 1987,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "5200",
+    "year": 2007,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "7800",
+    "year": 1986,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "7800",
+    "year": 1987,
+    "release_records": 14,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "7800",
+    "year": 1988,
+    "release_records": 17,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "7800",
+    "year": 1989,
+    "release_records": 9,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "7800",
+    "year": 1990,
+    "release_records": 10,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "7800",
+    "year": 1991,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "7800",
+    "year": 2002,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ACPC",
+    "year": 1984,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ACPC",
+    "year": 1985,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ACPC",
+    "year": 1986,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ACPC",
+    "year": 1987,
+    "release_records": 7,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ACPC",
+    "year": 1988,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ACPC",
+    "year": 1989,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ACPC",
+    "year": 1990,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ACPC",
+    "year": 1991,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AJ",
+    "year": 1993,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AJ",
+    "year": 1994,
+    "release_records": 12,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AJ",
+    "year": 1995,
+    "release_records": 30,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AJ",
+    "year": 1996,
+    "release_records": 9,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AJ",
+    "year": 1997,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AJ",
+    "year": 1998,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AJ",
+    "year": 1999,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AJ",
+    "year": 2000,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AJ",
+    "year": 2002,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AJ",
+    "year": 2004,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AJ",
+    "year": 2005,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AJ",
+    "year": 2006,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AST",
+    "year": 1985,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AST",
+    "year": 1987,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AST",
+    "year": 1988,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AST",
+    "year": 1989,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AST",
+    "year": 1990,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AST",
+    "year": 1991,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "AST",
+    "year": 1992,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Aco",
+    "year": 1984,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1979,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1980,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1981,
+    "release_records": 8,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1982,
+    "release_records": 6,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1983,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1984,
+    "release_records": 8,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1985,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1986,
+    "release_records": 16,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1987,
+    "release_records": 8,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1988,
+    "release_records": 12,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1989,
+    "release_records": 14,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1990,
+    "release_records": 7,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1991,
+    "release_records": 9,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1992,
+    "release_records": 12,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1993,
+    "release_records": 16,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1994,
+    "release_records": 14,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1995,
+    "release_records": 17,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1996,
+    "release_records": 24,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1997,
+    "release_records": 20,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1998,
+    "release_records": 12,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 1999,
+    "release_records": 14,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2000,
+    "release_records": 16,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2001,
+    "release_records": 15,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2002,
+    "release_records": 20,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2003,
+    "release_records": 24,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2004,
+    "release_records": 36,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2005,
+    "release_records": 27,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2006,
+    "release_records": 37,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2007,
+    "release_records": 27,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2008,
+    "release_records": 44,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2009,
+    "release_records": 41,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2010,
+    "release_records": 49,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2011,
+    "release_records": 47,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2012,
+    "release_records": 45,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2013,
+    "release_records": 41,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2014,
+    "release_records": 46,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2015,
+    "release_records": 35,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2016,
+    "release_records": 46,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2017,
+    "release_records": 50,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2018,
+    "release_records": 53,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2019,
+    "release_records": 44,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2020,
+    "release_records": 42,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2021,
+    "release_records": 39,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2022,
+    "release_records": 33,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2023,
+    "release_records": 21,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "All",
+    "year": 2024,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Amig",
+    "year": 1986,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Amig",
+    "year": 1987,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Amig",
+    "year": 1988,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Amig",
+    "year": 1989,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Amig",
+    "year": 1990,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Amig",
+    "year": 1991,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Amig",
+    "year": 1992,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Amig",
+    "year": 1993,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Amig",
+    "year": 1994,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Amig",
+    "year": 1999,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Amig",
+    "year": 2017,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Amig",
+    "year": 2018,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "And",
+    "year": 2009,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "And",
+    "year": 2010,
+    "release_records": 17,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "And",
+    "year": 2011,
+    "release_records": 46,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "And",
+    "year": 2012,
+    "release_records": 101,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "And",
+    "year": 2013,
+    "release_records": 241,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "And",
+    "year": 2014,
+    "release_records": 443,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "And",
+    "year": 2015,
+    "release_records": 40,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "And",
+    "year": 2016,
+    "release_records": 24,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "And",
+    "year": 2017,
+    "release_records": 8,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "And",
+    "year": 2018,
+    "release_records": 8,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "And",
+    "year": 2019,
+    "release_records": 10,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "And",
+    "year": 2020,
+    "release_records": 22,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ApII",
+    "year": 1981,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ApII",
+    "year": 1984,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ApII",
+    "year": 1985,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ApII",
+    "year": 1987,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ApII",
+    "year": 1990,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 1980,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 1982,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 1985,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 1987,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 1989,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 1990,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 1992,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 1993,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 1996,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 1997,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 1998,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 2002,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 2007,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 2011,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 2012,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 2013,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 2014,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 2015,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 2016,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Arc",
+    "year": 2020,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "BBCM",
+    "year": 1984,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "BRW",
+    "year": 1987,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "BRW",
+    "year": 2009,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "BRW",
+    "year": 2010,
+    "release_records": 6,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "BRW",
+    "year": 2011,
+    "release_records": 6,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "BRW",
+    "year": 2012,
+    "release_records": 21,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "BRW",
+    "year": 2013,
+    "release_records": 19,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "BRW",
+    "year": 2014,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "BRW",
+    "year": 2015,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "C64",
+    "year": 1983,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "C64",
+    "year": 1984,
+    "release_records": 7,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "C64",
+    "year": 1985,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "C64",
+    "year": 1986,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "C64",
+    "year": 1987,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "C64",
+    "year": 1988,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "C64",
+    "year": 1989,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "C64",
+    "year": 1990,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "C64",
+    "year": 1991,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "C64",
+    "year": 1992,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "CD32",
+    "year": 1994,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "CDi",
+    "year": 1993,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "CDi",
+    "year": 1994,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "CDi",
+    "year": 1995,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "CV",
+    "year": 1981,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "CV",
+    "year": 1982,
+    "release_records": 8,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "CV",
+    "year": 1983,
+    "release_records": 6,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "CV",
+    "year": 1984,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "CV",
+    "year": 1985,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DC",
+    "year": 1998,
+    "release_records": 5,
+    "records_with_sales": 2,
+    "total_sales": 0.14
+  },
+  {
+    "console": "DC",
+    "year": 1999,
+    "release_records": 125,
+    "records_with_sales": 15,
+    "total_sales": 6.06
+  },
+  {
+    "console": "DC",
+    "year": 2000,
+    "release_records": 249,
+    "records_with_sales": 16,
+    "total_sales": 5.23
+  },
+  {
+    "console": "DC",
+    "year": 2001,
+    "release_records": 151,
+    "records_with_sales": 12,
+    "total_sales": 1.43
+  },
+  {
+    "console": "DC",
+    "year": 2002,
+    "release_records": 46,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DC",
+    "year": 2003,
+    "release_records": 26,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DC",
+    "year": 2004,
+    "release_records": 15,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DC",
+    "year": 2005,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DC",
+    "year": 2006,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DC",
+    "year": 2007,
+    "release_records": 3,
+    "records_with_sales": 1,
+    "total_sales": 0.02
+  },
+  {
+    "console": "DC",
+    "year": 2008,
+    "release_records": 2,
+    "records_with_sales": 1,
+    "total_sales": 0.04
+  },
+  {
+    "console": "DC",
+    "year": 2009,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DC",
+    "year": 2010,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DC",
+    "year": 2011,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DC",
+    "year": 2014,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DC",
+    "year": 2015,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DC",
+    "year": 2016,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DC",
+    "year": 2020,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DS",
+    "year": 1975,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DS",
+    "year": 2004,
+    "release_records": 18,
+    "records_with_sales": 16,
+    "total_sales": 3.33
+  },
+  {
+    "console": "DS",
+    "year": 2005,
+    "release_records": 118,
+    "records_with_sales": 87,
+    "total_sales": 16.34
+  },
+  {
+    "console": "DS",
+    "year": 2006,
+    "release_records": 273,
+    "records_with_sales": 168,
+    "total_sales": 36.72
+  },
+  {
+    "console": "DS",
+    "year": 2007,
+    "release_records": 528,
+    "records_with_sales": 346,
+    "total_sales": 93.77
+  },
+  {
+    "console": "DS",
+    "year": 2008,
+    "release_records": 658,
+    "records_with_sales": 531,
+    "total_sales": 111.25
+  },
+  {
+    "console": "DS",
+    "year": 2009,
+    "release_records": 676,
+    "records_with_sales": 536,
+    "total_sales": 86.94
+  },
+  {
+    "console": "DS",
+    "year": 2010,
+    "release_records": 480,
+    "records_with_sales": 374,
+    "total_sales": 60.1
+  },
+  {
+    "console": "DS",
+    "year": 2011,
+    "release_records": 221,
+    "records_with_sales": 184,
+    "total_sales": 31.03
+  },
+  {
+    "console": "DS",
+    "year": 2012,
+    "release_records": 47,
+    "records_with_sales": 23,
+    "total_sales": 2.85
+  },
+  {
+    "console": "DS",
+    "year": 2013,
+    "release_records": 17,
+    "records_with_sales": 12,
+    "total_sales": 1.48
+  },
+  {
+    "console": "DS",
+    "year": 2014,
+    "release_records": 11,
+    "records_with_sales": 5,
+    "total_sales": 0.07
+  },
+  {
+    "console": "DS",
+    "year": 2016,
+    "release_records": 1,
+    "records_with_sales": 1,
+    "total_sales": 0.02
+  },
+  {
+    "console": "DS",
+    "year": 2018,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DS",
+    "year": 2020,
+    "release_records": 13,
+    "records_with_sales": 5,
+    "total_sales": 0.35
+  },
+  {
+    "console": "DSi",
+    "year": 2009,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DSi",
+    "year": 2010,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DSi",
+    "year": 2011,
+    "release_records": 10,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DSi",
+    "year": 2012,
+    "release_records": 40,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DSi",
+    "year": 2013,
+    "release_records": 17,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DSi",
+    "year": 2014,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DSiW",
+    "year": 2008,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DSiW",
+    "year": 2009,
+    "release_records": 187,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DSiW",
+    "year": 2010,
+    "release_records": 324,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DSiW",
+    "year": 2011,
+    "release_records": 173,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DSiW",
+    "year": 2012,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "DSiW",
+    "year": 2020,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "FMT",
+    "year": 1989,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "FMT",
+    "year": 1993,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "FMT",
+    "year": 1994,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GB",
+    "year": 1989,
+    "release_records": 13,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GB",
+    "year": 1990,
+    "release_records": 101,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GB",
+    "year": 1991,
+    "release_records": 135,
+    "records_with_sales": 4,
+    "total_sales": 0.95
+  },
+  {
+    "console": "GB",
+    "year": 1992,
+    "release_records": 152,
+    "records_with_sales": 2,
+    "total_sales": 0.9099999999999999
+  },
+  {
+    "console": "GB",
+    "year": 1993,
+    "release_records": 132,
+    "records_with_sales": 3,
+    "total_sales": 1.12
+  },
+  {
+    "console": "GB",
+    "year": 1994,
+    "release_records": 91,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GB",
+    "year": 1995,
+    "release_records": 82,
+    "records_with_sales": 2,
+    "total_sales": 0.9199999999999999
+  },
+  {
+    "console": "GB",
+    "year": 1996,
+    "release_records": 49,
+    "records_with_sales": 4,
+    "total_sales": 1.17
+  },
+  {
+    "console": "GB",
+    "year": 1997,
+    "release_records": 51,
+    "records_with_sales": 5,
+    "total_sales": 3.89
+  },
+  {
+    "console": "GB",
+    "year": 1998,
+    "release_records": 105,
+    "records_with_sales": 2,
+    "total_sales": 0.30000000000000004
+  },
+  {
+    "console": "GB",
+    "year": 1999,
+    "release_records": 178,
+    "records_with_sales": 5,
+    "total_sales": 1.7
+  },
+  {
+    "console": "GB",
+    "year": 2000,
+    "release_records": 282,
+    "records_with_sales": 10,
+    "total_sales": 3.5700000000000003
+  },
+  {
+    "console": "GB",
+    "year": 2001,
+    "release_records": 169,
+    "records_with_sales": 8,
+    "total_sales": 4.48
+  },
+  {
+    "console": "GB",
+    "year": 2002,
+    "release_records": 21,
+    "records_with_sales": 1,
+    "total_sales": 0.83
+  },
+  {
+    "console": "GB",
+    "year": 2003,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GB",
+    "year": 2020,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GBA",
+    "year": 2001,
+    "release_records": 185,
+    "records_with_sales": 101,
+    "total_sales": 32.23
+  },
+  {
+    "console": "GBA",
+    "year": 2002,
+    "release_records": 361,
+    "records_with_sales": 196,
+    "total_sales": 43.56
+  },
+  {
+    "console": "GBA",
+    "year": 2003,
+    "release_records": 274,
+    "records_with_sales": 149,
+    "total_sales": 43.89
+  },
+  {
+    "console": "GBA",
+    "year": 2004,
+    "release_records": 306,
+    "records_with_sales": 186,
+    "total_sales": 52.19
+  },
+  {
+    "console": "GBA",
+    "year": 2005,
+    "release_records": 231,
+    "records_with_sales": 142,
+    "total_sales": 33.17
+  },
+  {
+    "console": "GBA",
+    "year": 2006,
+    "release_records": 157,
+    "records_with_sales": 72,
+    "total_sales": 7.93
+  },
+  {
+    "console": "GBA",
+    "year": 2007,
+    "release_records": 51,
+    "records_with_sales": 9,
+    "total_sales": 3.72
+  },
+  {
+    "console": "GBA",
+    "year": 2008,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GBA",
+    "year": 2009,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GBA",
+    "year": 2020,
+    "release_records": 8,
+    "records_with_sales": 1,
+    "total_sales": 0.66
+  },
+  {
+    "console": "GBC",
+    "year": 1998,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GBC",
+    "year": 1999,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GBC",
+    "year": 2000,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GBC",
+    "year": 2001,
+    "release_records": 5,
+    "records_with_sales": 2,
+    "total_sales": 3.7800000000000002
+  },
+  {
+    "console": "GBC",
+    "year": 2002,
+    "release_records": 1,
+    "records_with_sales": 1,
+    "total_sales": 0.56
+  },
+  {
+    "console": "GC",
+    "year": 2001,
+    "release_records": 19,
+    "records_with_sales": 16,
+    "total_sales": 8.01
+  },
+  {
+    "console": "GC",
+    "year": 2002,
+    "release_records": 155,
+    "records_with_sales": 136,
+    "total_sales": 26.7
+  },
+  {
+    "console": "GC",
+    "year": 2003,
+    "release_records": 170,
+    "records_with_sales": 129,
+    "total_sales": 25.52
+  },
+  {
+    "console": "GC",
+    "year": 2004,
+    "release_records": 116,
+    "records_with_sales": 85,
+    "total_sales": 19.74
+  },
+  {
+    "console": "GC",
+    "year": 2005,
+    "release_records": 112,
+    "records_with_sales": 92,
+    "total_sales": 20.81
+  },
+  {
+    "console": "GC",
+    "year": 2006,
+    "release_records": 56,
+    "records_with_sales": 47,
+    "total_sales": 12.290000000000001
+  },
+  {
+    "console": "GC",
+    "year": 2007,
+    "release_records": 6,
+    "records_with_sales": 4,
+    "total_sales": 0.27
+  },
+  {
+    "console": "GC",
+    "year": 2008,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GEN",
+    "year": 1986,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GEN",
+    "year": 1988,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GEN",
+    "year": 1989,
+    "release_records": 19,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GEN",
+    "year": 1990,
+    "release_records": 52,
+    "records_with_sales": 1,
+    "total_sales": 2.6
+  },
+  {
+    "console": "GEN",
+    "year": 1991,
+    "release_records": 109,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GEN",
+    "year": 1992,
+    "release_records": 126,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GEN",
+    "year": 1993,
+    "release_records": 157,
+    "records_with_sales": 4,
+    "total_sales": 4.91
+  },
+  {
+    "console": "GEN",
+    "year": 1994,
+    "release_records": 166,
+    "records_with_sales": 16,
+    "total_sales": 8.47
+  },
+  {
+    "console": "GEN",
+    "year": 1995,
+    "release_records": 88,
+    "records_with_sales": 2,
+    "total_sales": 2.45
+  },
+  {
+    "console": "GEN",
+    "year": 1996,
+    "release_records": 31,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GEN",
+    "year": 1997,
+    "release_records": 8,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GEN",
+    "year": 1998,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GEN",
+    "year": 2010,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GEN",
+    "year": 2020,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GG",
+    "year": 1990,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GG",
+    "year": 1991,
+    "release_records": 48,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GG",
+    "year": 1992,
+    "release_records": 49,
+    "records_with_sales": 1,
+    "total_sales": 0.04
+  },
+  {
+    "console": "GG",
+    "year": 1993,
+    "release_records": 57,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GG",
+    "year": 1994,
+    "release_records": 81,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GG",
+    "year": 1995,
+    "release_records": 69,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GG",
+    "year": 1996,
+    "release_records": 17,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GG",
+    "year": 1997,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "GIZ",
+    "year": 2005,
+    "release_records": 12,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Int",
+    "year": 1980,
+    "release_records": 19,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Int",
+    "year": 1981,
+    "release_records": 7,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Int",
+    "year": 1982,
+    "release_records": 29,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Int",
+    "year": 1983,
+    "release_records": 47,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Int",
+    "year": 1985,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Int",
+    "year": 1986,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Int",
+    "year": 1987,
+    "release_records": 10,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Int",
+    "year": 1988,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Int",
+    "year": 1989,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Linux",
+    "year": 1996,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Linux",
+    "year": 1997,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Linux",
+    "year": 2009,
+    "release_records": 6,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Linux",
+    "year": 2010,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Linux",
+    "year": 2011,
+    "release_records": 6,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Linux",
+    "year": 2012,
+    "release_records": 16,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Linux",
+    "year": 2013,
+    "release_records": 37,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Linux",
+    "year": 2014,
+    "release_records": 134,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Linux",
+    "year": 2015,
+    "release_records": 63,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Linux",
+    "year": 2016,
+    "release_records": 26,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Linux",
+    "year": 2017,
+    "release_records": 11,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Linux",
+    "year": 2018,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Linux",
+    "year": 2019,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Linux",
+    "year": 2020,
+    "release_records": 24,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Lynx",
+    "year": 1989,
+    "release_records": 6,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Lynx",
+    "year": 1990,
+    "release_records": 11,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Lynx",
+    "year": 1991,
+    "release_records": 16,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Lynx",
+    "year": 1992,
+    "release_records": 23,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Lynx",
+    "year": 1993,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Lynx",
+    "year": 1994,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Lynx",
+    "year": 1996,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Lynx",
+    "year": 1997,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Lynx",
+    "year": 1998,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Lynx",
+    "year": 1999,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Lynx",
+    "year": 2000,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Lynx",
+    "year": 2002,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Lynx",
+    "year": 2015,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MS",
+    "year": 1985,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MS",
+    "year": 1986,
+    "release_records": 26,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MS",
+    "year": 1987,
+    "release_records": 31,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MS",
+    "year": 1988,
+    "release_records": 50,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MS",
+    "year": 1989,
+    "release_records": 29,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MS",
+    "year": 1990,
+    "release_records": 25,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MS",
+    "year": 1991,
+    "release_records": 38,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MS",
+    "year": 1992,
+    "release_records": 36,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MS",
+    "year": 1993,
+    "release_records": 47,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MS",
+    "year": 1994,
+    "release_records": 11,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MS",
+    "year": 1995,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MS",
+    "year": 1996,
+    "release_records": 9,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MS",
+    "year": 1997,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MS",
+    "year": 1998,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MSD",
+    "year": 1985,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MSD",
+    "year": 1988,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MSD",
+    "year": 1989,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MSD",
+    "year": 1990,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MSD",
+    "year": 1991,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MSD",
+    "year": 1992,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MSD",
+    "year": 1993,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MSD",
+    "year": 1994,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MSD",
+    "year": 1995,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MSD",
+    "year": 1996,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MSD",
+    "year": 2014,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MSX",
+    "year": 1985,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MSX",
+    "year": 1987,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MSX",
+    "year": 1988,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "MSX",
+    "year": 1989,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Mob",
+    "year": 1993,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Mob",
+    "year": 1995,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Mob",
+    "year": 1996,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Mob",
+    "year": 1997,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Mob",
+    "year": 1998,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Mob",
+    "year": 2001,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Mob",
+    "year": 2003,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Mob",
+    "year": 2004,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Mob",
+    "year": 2005,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Mob",
+    "year": 2007,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Mob",
+    "year": 2008,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Mob",
+    "year": 2009,
+    "release_records": 1,
+    "records_with_sales": 1,
+    "total_sales": 0.03
+  },
+  {
+    "console": "Mob",
+    "year": 2012,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Mob",
+    "year": 2013,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "N64",
+    "year": 1996,
+    "release_records": 15,
+    "records_with_sales": 9,
+    "total_sales": 3.25
+  },
+  {
+    "console": "N64",
+    "year": 1997,
+    "release_records": 49,
+    "records_with_sales": 32,
+    "total_sales": 13.36
+  },
+  {
+    "console": "N64",
+    "year": 1998,
+    "release_records": 100,
+    "records_with_sales": 68,
+    "total_sales": 26.15
+  },
+  {
+    "console": "N64",
+    "year": 1999,
+    "release_records": 116,
+    "records_with_sales": 89,
+    "total_sales": 26.75
+  },
+  {
+    "console": "N64",
+    "year": 2000,
+    "release_records": 80,
+    "records_with_sales": 60,
+    "total_sales": 18.16
+  },
+  {
+    "console": "N64",
+    "year": 2001,
+    "release_records": 18,
+    "records_with_sales": 11,
+    "total_sales": 3.5
+  },
+  {
+    "console": "N64",
+    "year": 2002,
+    "release_records": 1,
+    "records_with_sales": 1,
+    "total_sales": 0.08
+  },
+  {
+    "console": "NES",
+    "year": 1983,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NES",
+    "year": 1984,
+    "release_records": 5,
+    "records_with_sales": 1,
+    "total_sales": 0.69
+  },
+  {
+    "console": "NES",
+    "year": 1985,
+    "release_records": 43,
+    "records_with_sales": 3,
+    "total_sales": 1.74
+  },
+  {
+    "console": "NES",
+    "year": 1986,
+    "release_records": 55,
+    "records_with_sales": 9,
+    "total_sales": 9.95
+  },
+  {
+    "console": "NES",
+    "year": 1987,
+    "release_records": 104,
+    "records_with_sales": 4,
+    "total_sales": 4.390000000000001
+  },
+  {
+    "console": "NES",
+    "year": 1988,
+    "release_records": 114,
+    "records_with_sales": 6,
+    "total_sales": 7.15
+  },
+  {
+    "console": "NES",
+    "year": 1989,
+    "release_records": 152,
+    "records_with_sales": 5,
+    "total_sales": 8.41
+  },
+  {
+    "console": "NES",
+    "year": 1990,
+    "release_records": 217,
+    "records_with_sales": 5,
+    "total_sales": 6.32
+  },
+  {
+    "console": "NES",
+    "year": 1991,
+    "release_records": 149,
+    "records_with_sales": 3,
+    "total_sales": 1.78
+  },
+  {
+    "console": "NES",
+    "year": 1992,
+    "release_records": 130,
+    "records_with_sales": 5,
+    "total_sales": 4.24
+  },
+  {
+    "console": "NES",
+    "year": 1993,
+    "release_records": 65,
+    "records_with_sales": 3,
+    "total_sales": 2.56
+  },
+  {
+    "console": "NES",
+    "year": 1994,
+    "release_records": 20,
+    "records_with_sales": 3,
+    "total_sales": 0.7000000000000001
+  },
+  {
+    "console": "NES",
+    "year": 1995,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NES",
+    "year": 1998,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NES",
+    "year": 2010,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NES",
+    "year": 2020,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NG",
+    "year": 1991,
+    "release_records": 18,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NG",
+    "year": 1992,
+    "release_records": 12,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NG",
+    "year": 1993,
+    "release_records": 6,
+    "records_with_sales": 1,
+    "total_sales": 0.07
+  },
+  {
+    "console": "NG",
+    "year": 1994,
+    "release_records": 33,
+    "records_with_sales": 4,
+    "total_sales": 0.71
+  },
+  {
+    "console": "NG",
+    "year": 1995,
+    "release_records": 38,
+    "records_with_sales": 4,
+    "total_sales": 0.54
+  },
+  {
+    "console": "NG",
+    "year": 1996,
+    "release_records": 20,
+    "records_with_sales": 3,
+    "total_sales": 0.12
+  },
+  {
+    "console": "NG",
+    "year": 1997,
+    "release_records": 9,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NG",
+    "year": 1998,
+    "release_records": 9,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NG",
+    "year": 1999,
+    "release_records": 8,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NG",
+    "year": 2000,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NG",
+    "year": 2001,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NG",
+    "year": 2002,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NG",
+    "year": 2003,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NG",
+    "year": 2004,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NG",
+    "year": 2006,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NG",
+    "year": 2007,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NG",
+    "year": 2010,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NGage",
+    "year": 2003,
+    "release_records": 14,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NGage",
+    "year": 2004,
+    "release_records": 17,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NGage",
+    "year": 2005,
+    "release_records": 19,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NGage",
+    "year": 2006,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NGage",
+    "year": 2008,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NS",
+    "year": 2015,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NS",
+    "year": 2017,
+    "release_records": 340,
+    "records_with_sales": 72,
+    "total_sales": 15.7
+  },
+  {
+    "console": "NS",
+    "year": 2018,
+    "release_records": 503,
+    "records_with_sales": 172,
+    "total_sales": 20.16
+  },
+  {
+    "console": "NS",
+    "year": 2019,
+    "release_records": 363,
+    "records_with_sales": 10,
+    "total_sales": 0.27
+  },
+  {
+    "console": "NS",
+    "year": 2020,
+    "release_records": 248,
+    "records_with_sales": 2,
+    "total_sales": 0.12
+  },
+  {
+    "console": "NS",
+    "year": 2021,
+    "release_records": 85,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NS",
+    "year": 2022,
+    "release_records": 35,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NS",
+    "year": 2023,
+    "release_records": 23,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "NS",
+    "year": 2024,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OR",
+    "year": 2016,
+    "release_records": 8,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OR",
+    "year": 2017,
+    "release_records": 11,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OR",
+    "year": 2018,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OR",
+    "year": 2019,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OR",
+    "year": 2020,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 1979,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 1985,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 1994,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 1995,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 1996,
+    "release_records": 7,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 1997,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 1999,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2002,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2003,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2004,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2005,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2006,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2007,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2008,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2009,
+    "release_records": 15,
+    "records_with_sales": 1,
+    "total_sales": 0.03
+  },
+  {
+    "console": "OSX",
+    "year": 2010,
+    "release_records": 15,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2011,
+    "release_records": 26,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2012,
+    "release_records": 51,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2013,
+    "release_records": 84,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2014,
+    "release_records": 221,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2015,
+    "release_records": 88,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2016,
+    "release_records": 36,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2017,
+    "release_records": 10,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2018,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2019,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "OSX",
+    "year": 2020,
+    "release_records": 30,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Ouya",
+    "year": 2013,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Ouya",
+    "year": 2014,
+    "release_records": 11,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Ouya",
+    "year": 2015,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Ouya",
+    "year": 2016,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Ouya",
+    "year": 2020,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 1977,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 1979,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 1980,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 1981,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 1982,
+    "release_records": 6,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 1983,
+    "release_records": 12,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 1984,
+    "release_records": 11,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 1985,
+    "release_records": 6,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 1986,
+    "release_records": 21,
+    "records_with_sales": 1,
+    "total_sales": 0.03
+  },
+  {
+    "console": "PC",
+    "year": 1987,
+    "release_records": 27,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 1988,
+    "release_records": 26,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 1989,
+    "release_records": 62,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 1990,
+    "release_records": 70,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 1991,
+    "release_records": 66,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 1992,
+    "release_records": 67,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 1993,
+    "release_records": 93,
+    "records_with_sales": 6,
+    "total_sales": 2.2600000000000002
+  },
+  {
+    "console": "PC",
+    "year": 1994,
+    "release_records": 103,
+    "records_with_sales": 4,
+    "total_sales": 3.6399999999999997
+  },
+  {
+    "console": "PC",
+    "year": 1995,
+    "release_records": 135,
+    "records_with_sales": 3,
+    "total_sales": 4.34
+  },
+  {
+    "console": "PC",
+    "year": 1996,
+    "release_records": 232,
+    "records_with_sales": 4,
+    "total_sales": 6.15
+  },
+  {
+    "console": "PC",
+    "year": 1997,
+    "release_records": 267,
+    "records_with_sales": 6,
+    "total_sales": 4.6899999999999995
+  },
+  {
+    "console": "PC",
+    "year": 1998,
+    "release_records": 244,
+    "records_with_sales": 7,
+    "total_sales": 0.65
+  },
+  {
+    "console": "PC",
+    "year": 1999,
+    "release_records": 256,
+    "records_with_sales": 20,
+    "total_sales": 2.65
+  },
+  {
+    "console": "PC",
+    "year": 2000,
+    "release_records": 277,
+    "records_with_sales": 30,
+    "total_sales": 5.630000000000001
+  },
+  {
+    "console": "PC",
+    "year": 2001,
+    "release_records": 287,
+    "records_with_sales": 35,
+    "total_sales": 4.13
+  },
+  {
+    "console": "PC",
+    "year": 2002,
+    "release_records": 305,
+    "records_with_sales": 52,
+    "total_sales": 8.33
+  },
+  {
+    "console": "PC",
+    "year": 2003,
+    "release_records": 366,
+    "records_with_sales": 72,
+    "total_sales": 6.08
+  },
+  {
+    "console": "PC",
+    "year": 2004,
+    "release_records": 365,
+    "records_with_sales": 67,
+    "total_sales": 1.04
+  },
+  {
+    "console": "PC",
+    "year": 2005,
+    "release_records": 373,
+    "records_with_sales": 93,
+    "total_sales": 3.66
+  },
+  {
+    "console": "PC",
+    "year": 2006,
+    "release_records": 451,
+    "records_with_sales": 113,
+    "total_sales": 2.26
+  },
+  {
+    "console": "PC",
+    "year": 2007,
+    "release_records": 438,
+    "records_with_sales": 119,
+    "total_sales": 2.96
+  },
+  {
+    "console": "PC",
+    "year": 2008,
+    "release_records": 481,
+    "records_with_sales": 135,
+    "total_sales": 10.69
+  },
+  {
+    "console": "PC",
+    "year": 2009,
+    "release_records": 548,
+    "records_with_sales": 166,
+    "total_sales": 14.87
+  },
+  {
+    "console": "PC",
+    "year": 2010,
+    "release_records": 428,
+    "records_with_sales": 113,
+    "total_sales": 13.36
+  },
+  {
+    "console": "PC",
+    "year": 2011,
+    "release_records": 611,
+    "records_with_sales": 167,
+    "total_sales": 29.59
+  },
+  {
+    "console": "PC",
+    "year": 2012,
+    "release_records": 261,
+    "records_with_sales": 53,
+    "total_sales": 9.76
+  },
+  {
+    "console": "PC",
+    "year": 2013,
+    "release_records": 318,
+    "records_with_sales": 23,
+    "total_sales": 5.07
+  },
+  {
+    "console": "PC",
+    "year": 2014,
+    "release_records": 758,
+    "records_with_sales": 50,
+    "total_sales": 10.95
+  },
+  {
+    "console": "PC",
+    "year": 2015,
+    "release_records": 439,
+    "records_with_sales": 66,
+    "total_sales": 5.17
+  },
+  {
+    "console": "PC",
+    "year": 2016,
+    "release_records": 356,
+    "records_with_sales": 51,
+    "total_sales": 6.46
+  },
+  {
+    "console": "PC",
+    "year": 2017,
+    "release_records": 273,
+    "records_with_sales": 39,
+    "total_sales": 1.49
+  },
+  {
+    "console": "PC",
+    "year": 2018,
+    "release_records": 241,
+    "records_with_sales": 21,
+    "total_sales": 1.47
+  },
+  {
+    "console": "PC",
+    "year": 2019,
+    "release_records": 289,
+    "records_with_sales": 1,
+    "total_sales": 0.02
+  },
+  {
+    "console": "PC",
+    "year": 2020,
+    "release_records": 342,
+    "records_with_sales": 2,
+    "total_sales": 0.13
+  },
+  {
+    "console": "PC",
+    "year": 2021,
+    "release_records": 74,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 2022,
+    "release_records": 36,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 2023,
+    "release_records": 26,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PC",
+    "year": 2024,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PCE",
+    "year": 1987,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PCE",
+    "year": 1988,
+    "release_records": 12,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PCE",
+    "year": 1989,
+    "release_records": 71,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PCE",
+    "year": 1990,
+    "release_records": 111,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PCE",
+    "year": 1991,
+    "release_records": 80,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PCE",
+    "year": 1992,
+    "release_records": 91,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PCE",
+    "year": 1993,
+    "release_records": 44,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PCE",
+    "year": 1994,
+    "release_records": 34,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PCE",
+    "year": 1995,
+    "release_records": 9,
+    "records_with_sales": 2,
+    "total_sales": 0.16
+  },
+  {
+    "console": "PCE",
+    "year": 1996,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PCFX",
+    "year": 1994,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PCFX",
+    "year": 1995,
+    "release_records": 12,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PCFX",
+    "year": 1996,
+    "release_records": 23,
+    "records_with_sales": 1,
+    "total_sales": 0.03
+  },
+  {
+    "console": "PCFX",
+    "year": 1997,
+    "release_records": 17,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PCFX",
+    "year": 1998,
+    "release_records": 7,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PCFX",
+    "year": 2012,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PCFX",
+    "year": 2014,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PCFX",
+    "year": 2020,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS",
+    "year": 1986,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS",
+    "year": 1994,
+    "release_records": 8,
+    "records_with_sales": 4,
+    "total_sales": 0.53
+  },
+  {
+    "console": "PS",
+    "year": 1995,
+    "release_records": 98,
+    "records_with_sales": 61,
+    "total_sales": 19.84
+  },
+  {
+    "console": "PS",
+    "year": 1996,
+    "release_records": 307,
+    "records_with_sales": 160,
+    "total_sales": 68.51
+  },
+  {
+    "console": "PS",
+    "year": 1997,
+    "release_records": 319,
+    "records_with_sales": 150,
+    "total_sales": 73.98
+  },
+  {
+    "console": "PS",
+    "year": 1998,
+    "release_records": 420,
+    "records_with_sales": 185,
+    "total_sales": 97.24
+  },
+  {
+    "console": "PS",
+    "year": 1999,
+    "release_records": 438,
+    "records_with_sales": 194,
+    "total_sales": 128.55
+  },
+  {
+    "console": "PS",
+    "year": 2000,
+    "release_records": 461,
+    "records_with_sales": 207,
+    "total_sales": 103.69
+  },
+  {
+    "console": "PS",
+    "year": 2001,
+    "release_records": 269,
+    "records_with_sales": 116,
+    "total_sales": 35.26
+  },
+  {
+    "console": "PS",
+    "year": 2002,
+    "release_records": 177,
+    "records_with_sales": 21,
+    "total_sales": 6.88
+  },
+  {
+    "console": "PS",
+    "year": 2003,
+    "release_records": 112,
+    "records_with_sales": 6,
+    "total_sales": 2.7
+  },
+  {
+    "console": "PS",
+    "year": 2004,
+    "release_records": 20,
+    "records_with_sales": 1,
+    "total_sales": 0.24
+  },
+  {
+    "console": "PS",
+    "year": 2006,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS",
+    "year": 2009,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS",
+    "year": 2011,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS",
+    "year": 2012,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS",
+    "year": 2013,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS",
+    "year": 2020,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS2",
+    "year": 2000,
+    "release_records": 74,
+    "records_with_sales": 62,
+    "total_sales": 31.2
+  },
+  {
+    "console": "PS2",
+    "year": 2001,
+    "release_records": 225,
+    "records_with_sales": 159,
+    "total_sales": 115.07000000000001
+  },
+  {
+    "console": "PS2",
+    "year": 2002,
+    "release_records": 366,
+    "records_with_sales": 263,
+    "total_sales": 175.7
+  },
+  {
+    "console": "PS2",
+    "year": 2003,
+    "release_records": 452,
+    "records_with_sales": 250,
+    "total_sales": 161.96
+  },
+  {
+    "console": "PS2",
+    "year": 2004,
+    "release_records": 455,
+    "records_with_sales": 237,
+    "total_sales": 149.02
+  },
+  {
+    "console": "PS2",
+    "year": 2005,
+    "release_records": 481,
+    "records_with_sales": 244,
+    "total_sales": 134.61
+  },
+  {
+    "console": "PS2",
+    "year": 2006,
+    "release_records": 466,
+    "records_with_sales": 232,
+    "total_sales": 76.46
+  },
+  {
+    "console": "PS2",
+    "year": 2007,
+    "release_records": 384,
+    "records_with_sales": 220,
+    "total_sales": 72.55
+  },
+  {
+    "console": "PS2",
+    "year": 2008,
+    "release_records": 301,
+    "records_with_sales": 225,
+    "total_sales": 61.11
+  },
+  {
+    "console": "PS2",
+    "year": 2009,
+    "release_records": 176,
+    "records_with_sales": 141,
+    "total_sales": 28.5
+  },
+  {
+    "console": "PS2",
+    "year": 2010,
+    "release_records": 60,
+    "records_with_sales": 40,
+    "total_sales": 5.65
+  },
+  {
+    "console": "PS2",
+    "year": 2011,
+    "release_records": 12,
+    "records_with_sales": 7,
+    "total_sales": 0.47000000000000003
+  },
+  {
+    "console": "PS2",
+    "year": 2012,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS2",
+    "year": 2013,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS2",
+    "year": 2016,
+    "release_records": 1,
+    "records_with_sales": 1,
+    "total_sales": 0.12
+  },
+  {
+    "console": "PS2",
+    "year": 2020,
+    "release_records": 4,
+    "records_with_sales": 1,
+    "total_sales": 0.02
+  },
+  {
+    "console": "PS3",
+    "year": 2000,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS3",
+    "year": 2006,
+    "release_records": 22,
+    "records_with_sales": 20,
+    "total_sales": 10.67
+  },
+  {
+    "console": "PS3",
+    "year": 2007,
+    "release_records": 98,
+    "records_with_sales": 87,
+    "total_sales": 61.57
+  },
+  {
+    "console": "PS3",
+    "year": 2008,
+    "release_records": 153,
+    "records_with_sales": 136,
+    "total_sales": 102.88
+  },
+  {
+    "console": "PS3",
+    "year": 2009,
+    "release_records": 175,
+    "records_with_sales": 156,
+    "total_sales": 107.79
+  },
+  {
+    "console": "PS3",
+    "year": 2010,
+    "release_records": 193,
+    "records_with_sales": 172,
+    "total_sales": 120.95
+  },
+  {
+    "console": "PS3",
+    "year": 2011,
+    "release_records": 266,
+    "records_with_sales": 223,
+    "total_sales": 153.67
+  },
+  {
+    "console": "PS3",
+    "year": 2012,
+    "release_records": 200,
+    "records_with_sales": 155,
+    "total_sales": 105.04
+  },
+  {
+    "console": "PS3",
+    "year": 2013,
+    "release_records": 201,
+    "records_with_sales": 115,
+    "total_sales": 93.98
+  },
+  {
+    "console": "PS3",
+    "year": 2014,
+    "release_records": 205,
+    "records_with_sales": 126,
+    "total_sales": 50.99
+  },
+  {
+    "console": "PS3",
+    "year": 2015,
+    "release_records": 128,
+    "records_with_sales": 82,
+    "total_sales": 19.87
+  },
+  {
+    "console": "PS3",
+    "year": 2016,
+    "release_records": 53,
+    "records_with_sales": 45,
+    "total_sales": 6.65
+  },
+  {
+    "console": "PS3",
+    "year": 2017,
+    "release_records": 9,
+    "records_with_sales": 9,
+    "total_sales": 1.1300000000000001
+  },
+  {
+    "console": "PS3",
+    "year": 2018,
+    "release_records": 1,
+    "records_with_sales": 1,
+    "total_sales": 0.04
+  },
+  {
+    "console": "PS3",
+    "year": 2020,
+    "release_records": 23,
+    "records_with_sales": 2,
+    "total_sales": 0.35
+  },
+  {
+    "console": "PS4",
+    "year": 2013,
+    "release_records": 32,
+    "records_with_sales": 14,
+    "total_sales": 23.86
+  },
+  {
+    "console": "PS4",
+    "year": 2014,
+    "release_records": 142,
+    "records_with_sales": 65,
+    "total_sales": 96.78
+  },
+  {
+    "console": "PS4",
+    "year": 2015,
+    "release_records": 234,
+    "records_with_sales": 117,
+    "total_sales": 111.69
+  },
+  {
+    "console": "PS4",
+    "year": 2016,
+    "release_records": 304,
+    "records_with_sales": 191,
+    "total_sales": 112.05
+  },
+  {
+    "console": "PS4",
+    "year": 2017,
+    "release_records": 373,
+    "records_with_sales": 250,
+    "total_sales": 109.15
+  },
+  {
+    "console": "PS4",
+    "year": 2018,
+    "release_records": 341,
+    "records_with_sales": 238,
+    "total_sales": 83.83
+  },
+  {
+    "console": "PS4",
+    "year": 2019,
+    "release_records": 294,
+    "records_with_sales": 20,
+    "total_sales": 1.23
+  },
+  {
+    "console": "PS4",
+    "year": 2020,
+    "release_records": 264,
+    "records_with_sales": 4,
+    "total_sales": 0.22
+  },
+  {
+    "console": "PS4",
+    "year": 2021,
+    "release_records": 62,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS4",
+    "year": 2022,
+    "release_records": 23,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS4",
+    "year": 2023,
+    "release_records": 9,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS4",
+    "year": 2024,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS5",
+    "year": 2020,
+    "release_records": 36,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS5",
+    "year": 2021,
+    "release_records": 63,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS5",
+    "year": 2022,
+    "release_records": 19,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS5",
+    "year": 2023,
+    "release_records": 15,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PS5",
+    "year": 2024,
+    "release_records": 7,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PSN",
+    "year": 2006,
+    "release_records": 12,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PSN",
+    "year": 2007,
+    "release_records": 67,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PSN",
+    "year": 2008,
+    "release_records": 147,
+    "records_with_sales": 1,
+    "total_sales": 0.0
+  },
+  {
+    "console": "PSN",
+    "year": 2009,
+    "release_records": 493,
+    "records_with_sales": 5,
+    "total_sales": 2.9
+  },
+  {
+    "console": "PSN",
+    "year": 2010,
+    "release_records": 600,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PSN",
+    "year": 2011,
+    "release_records": 507,
+    "records_with_sales": 5,
+    "total_sales": 0.15
+  },
+  {
+    "console": "PSN",
+    "year": 2012,
+    "release_records": 10,
+    "records_with_sales": 1,
+    "total_sales": 0.17
+  },
+  {
+    "console": "PSN",
+    "year": 2013,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PSN",
+    "year": 2014,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PSN",
+    "year": 2015,
+    "release_records": 2,
+    "records_with_sales": 1,
+    "total_sales": 0.59
+  },
+  {
+    "console": "PSN",
+    "year": 2016,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PSN",
+    "year": 2020,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PSP",
+    "year": 2004,
+    "release_records": 7,
+    "records_with_sales": 3,
+    "total_sales": 0.38
+  },
+  {
+    "console": "PSP",
+    "year": 2005,
+    "release_records": 118,
+    "records_with_sales": 81,
+    "total_sales": 42.089999999999996
+  },
+  {
+    "console": "PSP",
+    "year": 2006,
+    "release_records": 254,
+    "records_with_sales": 195,
+    "total_sales": 46.73
+  },
+  {
+    "console": "PSP",
+    "year": 2007,
+    "release_records": 204,
+    "records_with_sales": 153,
+    "total_sales": 38.22
+  },
+  {
+    "console": "PSP",
+    "year": 2008,
+    "release_records": 157,
+    "records_with_sales": 126,
+    "total_sales": 25.61
+  },
+  {
+    "console": "PSP",
+    "year": 2009,
+    "release_records": 247,
+    "records_with_sales": 195,
+    "total_sales": 34.41
+  },
+  {
+    "console": "PSP",
+    "year": 2010,
+    "release_records": 263,
+    "records_with_sales": 191,
+    "total_sales": 24.1
+  },
+  {
+    "console": "PSP",
+    "year": 2011,
+    "release_records": 213,
+    "records_with_sales": 145,
+    "total_sales": 17.990000000000002
+  },
+  {
+    "console": "PSP",
+    "year": 2012,
+    "release_records": 133,
+    "records_with_sales": 116,
+    "total_sales": 7.84
+  },
+  {
+    "console": "PSP",
+    "year": 2013,
+    "release_records": 75,
+    "records_with_sales": 66,
+    "total_sales": 3.12
+  },
+  {
+    "console": "PSP",
+    "year": 2014,
+    "release_records": 29,
+    "records_with_sales": 22,
+    "total_sales": 0.36
+  },
+  {
+    "console": "PSP",
+    "year": 2015,
+    "release_records": 6,
+    "records_with_sales": 4,
+    "total_sales": 0.13999999999999999
+  },
+  {
+    "console": "PSP",
+    "year": 2016,
+    "release_records": 1,
+    "records_with_sales": 1,
+    "total_sales": 0.04
+  },
+  {
+    "console": "PSP",
+    "year": 2017,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PSP",
+    "year": 2020,
+    "release_records": 5,
+    "records_with_sales": 3,
+    "total_sales": 1.06
+  },
+  {
+    "console": "PSV",
+    "year": 2009,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PSV",
+    "year": 2011,
+    "release_records": 11,
+    "records_with_sales": 6,
+    "total_sales": 0.33
+  },
+  {
+    "console": "PSV",
+    "year": 2012,
+    "release_records": 105,
+    "records_with_sales": 71,
+    "total_sales": 20.98
+  },
+  {
+    "console": "PSV",
+    "year": 2013,
+    "release_records": 88,
+    "records_with_sales": 44,
+    "total_sales": 6.97
+  },
+  {
+    "console": "PSV",
+    "year": 2014,
+    "release_records": 198,
+    "records_with_sales": 109,
+    "total_sales": 13.74
+  },
+  {
+    "console": "PSV",
+    "year": 2015,
+    "release_records": 195,
+    "records_with_sales": 135,
+    "total_sales": 7.46
+  },
+  {
+    "console": "PSV",
+    "year": 2016,
+    "release_records": 156,
+    "records_with_sales": 126,
+    "total_sales": 8.12
+  },
+  {
+    "console": "PSV",
+    "year": 2017,
+    "release_records": 125,
+    "records_with_sales": 113,
+    "total_sales": 3.68
+  },
+  {
+    "console": "PSV",
+    "year": 2018,
+    "release_records": 78,
+    "records_with_sales": 64,
+    "total_sales": 1.25
+  },
+  {
+    "console": "PSV",
+    "year": 2019,
+    "release_records": 25,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "PSV",
+    "year": 2020,
+    "release_records": 17,
+    "records_with_sales": 1,
+    "total_sales": 0.16
+  },
+  {
+    "console": "S32X",
+    "year": 1994,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "S32X",
+    "year": 2009,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "S32X",
+    "year": 2012,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SAT",
+    "year": 1994,
+    "release_records": 3,
+    "records_with_sales": 1,
+    "total_sales": 0.07
+  },
+  {
+    "console": "SAT",
+    "year": 1995,
+    "release_records": 110,
+    "records_with_sales": 46,
+    "total_sales": 8.23
+  },
+  {
+    "console": "SAT",
+    "year": 1996,
+    "release_records": 258,
+    "records_with_sales": 55,
+    "total_sales": 12.65
+  },
+  {
+    "console": "SAT",
+    "year": 1997,
+    "release_records": 214,
+    "records_with_sales": 38,
+    "total_sales": 8.0
+  },
+  {
+    "console": "SAT",
+    "year": 1998,
+    "release_records": 121,
+    "records_with_sales": 30,
+    "total_sales": 3.63
+  },
+  {
+    "console": "SAT",
+    "year": 1999,
+    "release_records": 8,
+    "records_with_sales": 1,
+    "total_sales": 0.09
+  },
+  {
+    "console": "SAT",
+    "year": 2000,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SAT",
+    "year": 2020,
+    "release_records": 1,
+    "records_with_sales": 1,
+    "total_sales": 0.15
+  },
+  {
+    "console": "SAT",
+    "year": 2021,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SCD",
+    "year": 1989,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SCD",
+    "year": 1991,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SCD",
+    "year": 1992,
+    "release_records": 28,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SCD",
+    "year": 1993,
+    "release_records": 77,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SCD",
+    "year": 1994,
+    "release_records": 74,
+    "records_with_sales": 5,
+    "total_sales": 0.37
+  },
+  {
+    "console": "SCD",
+    "year": 1995,
+    "release_records": 16,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SCD",
+    "year": 1996,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SCD",
+    "year": 2000,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SCD",
+    "year": 2001,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SCD",
+    "year": 2002,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SCD",
+    "year": 2004,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SCD",
+    "year": 2006,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SCD",
+    "year": 2020,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SNES",
+    "year": 1986,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SNES",
+    "year": 1990,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SNES",
+    "year": 1991,
+    "release_records": 43,
+    "records_with_sales": 13,
+    "total_sales": 3.32
+  },
+  {
+    "console": "SNES",
+    "year": 1992,
+    "release_records": 143,
+    "records_with_sales": 15,
+    "total_sales": 4.19
+  },
+  {
+    "console": "SNES",
+    "year": 1993,
+    "release_records": 262,
+    "records_with_sales": 27,
+    "total_sales": 9.11
+  },
+  {
+    "console": "SNES",
+    "year": 1994,
+    "release_records": 316,
+    "records_with_sales": 56,
+    "total_sales": 22.0
+  },
+  {
+    "console": "SNES",
+    "year": 1995,
+    "release_records": 245,
+    "records_with_sales": 50,
+    "total_sales": 16.36
+  },
+  {
+    "console": "SNES",
+    "year": 1996,
+    "release_records": 124,
+    "records_with_sales": 28,
+    "total_sales": 7.61
+  },
+  {
+    "console": "SNES",
+    "year": 1997,
+    "release_records": 25,
+    "records_with_sales": 5,
+    "total_sales": 1.45
+  },
+  {
+    "console": "SNES",
+    "year": 1998,
+    "release_records": 13,
+    "records_with_sales": 2,
+    "total_sales": 0.22000000000000003
+  },
+  {
+    "console": "SNES",
+    "year": 1999,
+    "release_records": 7,
+    "records_with_sales": 1,
+    "total_sales": 1.45
+  },
+  {
+    "console": "SNES",
+    "year": 2000,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SNES",
+    "year": 2004,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "SNES",
+    "year": 2020,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1971,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1981,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1982,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1983,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1984,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1985,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1986,
+    "release_records": 8,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1987,
+    "release_records": 12,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1988,
+    "release_records": 7,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1989,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1990,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1991,
+    "release_records": 11,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1992,
+    "release_records": 9,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1993,
+    "release_records": 12,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1994,
+    "release_records": 13,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1995,
+    "release_records": 12,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1996,
+    "release_records": 15,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1997,
+    "release_records": 19,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1998,
+    "release_records": 19,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 1999,
+    "release_records": 14,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2000,
+    "release_records": 17,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2001,
+    "release_records": 16,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2002,
+    "release_records": 18,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2003,
+    "release_records": 16,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2004,
+    "release_records": 15,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2005,
+    "release_records": 14,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2006,
+    "release_records": 20,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2007,
+    "release_records": 23,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2008,
+    "release_records": 15,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2009,
+    "release_records": 16,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2010,
+    "release_records": 13,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2011,
+    "release_records": 13,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2012,
+    "release_records": 11,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2013,
+    "release_records": 7,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2014,
+    "release_records": 13,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2015,
+    "release_records": 9,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2016,
+    "release_records": 8,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2017,
+    "release_records": 13,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2018,
+    "release_records": 9,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2019,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2020,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2021,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Series",
+    "year": 2022,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "TG16",
+    "year": 1989,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "TG16",
+    "year": 1990,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "TG16",
+    "year": 1993,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "VB",
+    "year": 1995,
+    "release_records": 20,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "VB",
+    "year": 1996,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "VC",
+    "year": 2006,
+    "release_records": 33,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "VC",
+    "year": 2007,
+    "release_records": 209,
+    "records_with_sales": 4,
+    "total_sales": 0.28
+  },
+  {
+    "console": "VC",
+    "year": 2008,
+    "release_records": 134,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "VC",
+    "year": 2009,
+    "release_records": 154,
+    "records_with_sales": 1,
+    "total_sales": 0.0
+  },
+  {
+    "console": "VC",
+    "year": 2010,
+    "release_records": 61,
+    "records_with_sales": 1,
+    "total_sales": 0.07
+  },
+  {
+    "console": "VC",
+    "year": 2011,
+    "release_records": 43,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "VC",
+    "year": 2012,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "VC",
+    "year": 2013,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "VC",
+    "year": 2014,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "VC",
+    "year": 2020,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WS",
+    "year": 1999,
+    "release_records": 67,
+    "records_with_sales": 2,
+    "total_sales": 0.46
+  },
+  {
+    "console": "WS",
+    "year": 2000,
+    "release_records": 49,
+    "records_with_sales": 2,
+    "total_sales": 0.68
+  },
+  {
+    "console": "WS",
+    "year": 2001,
+    "release_records": 42,
+    "records_with_sales": 2,
+    "total_sales": 0.28
+  },
+  {
+    "console": "WS",
+    "year": 2002,
+    "release_records": 26,
+    "records_with_sales": 1,
+    "total_sales": 0.01
+  },
+  {
+    "console": "WS",
+    "year": 2003,
+    "release_records": 11,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WS",
+    "year": 2004,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WW",
+    "year": 2008,
+    "release_records": 71,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WW",
+    "year": 2009,
+    "release_records": 136,
+    "records_with_sales": 1,
+    "total_sales": 0.25
+  },
+  {
+    "console": "WW",
+    "year": 2010,
+    "release_records": 128,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WW",
+    "year": 2011,
+    "release_records": 55,
+    "records_with_sales": 1,
+    "total_sales": 0.0
+  },
+  {
+    "console": "WW",
+    "year": 2012,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WW",
+    "year": 2020,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Wii",
+    "year": 2000,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Wii",
+    "year": 2006,
+    "release_records": 34,
+    "records_with_sales": 29,
+    "total_sales": 12.43
+  },
+  {
+    "console": "Wii",
+    "year": 2007,
+    "release_records": 197,
+    "records_with_sales": 167,
+    "total_sales": 75.22
+  },
+  {
+    "console": "Wii",
+    "year": 2008,
+    "release_records": 325,
+    "records_with_sales": 277,
+    "total_sales": 101.23
+  },
+  {
+    "console": "Wii",
+    "year": 2009,
+    "release_records": 388,
+    "records_with_sales": 347,
+    "total_sales": 105.46
+  },
+  {
+    "console": "Wii",
+    "year": 2010,
+    "release_records": 301,
+    "records_with_sales": 258,
+    "total_sales": 76.84
+  },
+  {
+    "console": "Wii",
+    "year": 2011,
+    "release_records": 188,
+    "records_with_sales": 158,
+    "total_sales": 35.13
+  },
+  {
+    "console": "Wii",
+    "year": 2012,
+    "release_records": 66,
+    "records_with_sales": 41,
+    "total_sales": 21.83
+  },
+  {
+    "console": "Wii",
+    "year": 2013,
+    "release_records": 18,
+    "records_with_sales": 15,
+    "total_sales": 9.39
+  },
+  {
+    "console": "Wii",
+    "year": 2014,
+    "release_records": 10,
+    "records_with_sales": 7,
+    "total_sales": 3.86
+  },
+  {
+    "console": "Wii",
+    "year": 2015,
+    "release_records": 7,
+    "records_with_sales": 5,
+    "total_sales": 1.4000000000000001
+  },
+  {
+    "console": "Wii",
+    "year": 2016,
+    "release_records": 1,
+    "records_with_sales": 1,
+    "total_sales": 1.0
+  },
+  {
+    "console": "Wii",
+    "year": 2017,
+    "release_records": 3,
+    "records_with_sales": 1,
+    "total_sales": 0.39
+  },
+  {
+    "console": "Wii",
+    "year": 2018,
+    "release_records": 2,
+    "records_with_sales": 2,
+    "total_sales": 0.25
+  },
+  {
+    "console": "Wii",
+    "year": 2019,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "Wii",
+    "year": 2020,
+    "release_records": 12,
+    "records_with_sales": 3,
+    "total_sales": 0.17
+  },
+  {
+    "console": "WiiU",
+    "year": 2007,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WiiU",
+    "year": 2009,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WiiU",
+    "year": 2012,
+    "release_records": 41,
+    "records_with_sales": 29,
+    "total_sales": 7.28
+  },
+  {
+    "console": "WiiU",
+    "year": 2013,
+    "release_records": 76,
+    "records_with_sales": 42,
+    "total_sales": 9.9
+  },
+  {
+    "console": "WiiU",
+    "year": 2014,
+    "release_records": 135,
+    "records_with_sales": 27,
+    "total_sales": 6.06
+  },
+  {
+    "console": "WiiU",
+    "year": 2015,
+    "release_records": 71,
+    "records_with_sales": 26,
+    "total_sales": 5.95
+  },
+  {
+    "console": "WiiU",
+    "year": 2016,
+    "release_records": 36,
+    "records_with_sales": 17,
+    "total_sales": 5.39
+  },
+  {
+    "console": "WiiU",
+    "year": 2017,
+    "release_records": 15,
+    "records_with_sales": 4,
+    "total_sales": 0.25
+  },
+  {
+    "console": "WiiU",
+    "year": 2018,
+    "release_records": 14,
+    "records_with_sales": 1,
+    "total_sales": 0.1
+  },
+  {
+    "console": "WiiU",
+    "year": 2019,
+    "release_records": 9,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WiiU",
+    "year": 2020,
+    "release_records": 12,
+    "records_with_sales": 1,
+    "total_sales": 0.0
+  },
+  {
+    "console": "WiiU",
+    "year": 2021,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WinP",
+    "year": 2009,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WinP",
+    "year": 2010,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WinP",
+    "year": 2011,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WinP",
+    "year": 2012,
+    "release_records": 6,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WinP",
+    "year": 2013,
+    "release_records": 22,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WinP",
+    "year": 2014,
+    "release_records": 22,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WinP",
+    "year": 2015,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WinP",
+    "year": 2016,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "WinP",
+    "year": 2021,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "X360",
+    "year": 2005,
+    "release_records": 24,
+    "records_with_sales": 17,
+    "total_sales": 7.17
+  },
+  {
+    "console": "X360",
+    "year": 2006,
+    "release_records": 93,
+    "records_with_sales": 75,
+    "total_sales": 26.24
+  },
+  {
+    "console": "X360",
+    "year": 2007,
+    "release_records": 142,
+    "records_with_sales": 129,
+    "total_sales": 82.34
+  },
+  {
+    "console": "X360",
+    "year": 2008,
+    "release_records": 163,
+    "records_with_sales": 152,
+    "total_sales": 121.29
+  },
+  {
+    "console": "X360",
+    "year": 2009,
+    "release_records": 187,
+    "records_with_sales": 171,
+    "total_sales": 108.42999999999999
+  },
+  {
+    "console": "X360",
+    "year": 2010,
+    "release_records": 208,
+    "records_with_sales": 185,
+    "total_sales": 137.95
+  },
+  {
+    "console": "X360",
+    "year": 2011,
+    "release_records": 250,
+    "records_with_sales": 220,
+    "total_sales": 140.15
+  },
+  {
+    "console": "X360",
+    "year": 2012,
+    "release_records": 155,
+    "records_with_sales": 115,
+    "total_sales": 94.08
+  },
+  {
+    "console": "X360",
+    "year": 2013,
+    "release_records": 127,
+    "records_with_sales": 78,
+    "total_sales": 80.67
+  },
+  {
+    "console": "X360",
+    "year": 2014,
+    "release_records": 120,
+    "records_with_sales": 73,
+    "total_sales": 35.33
+  },
+  {
+    "console": "X360",
+    "year": 2015,
+    "release_records": 57,
+    "records_with_sales": 41,
+    "total_sales": 14.82
+  },
+  {
+    "console": "X360",
+    "year": 2016,
+    "release_records": 20,
+    "records_with_sales": 16,
+    "total_sales": 3.6799999999999997
+  },
+  {
+    "console": "X360",
+    "year": 2017,
+    "release_records": 6,
+    "records_with_sales": 6,
+    "total_sales": 0.6
+  },
+  {
+    "console": "X360",
+    "year": 2018,
+    "release_records": 2,
+    "records_with_sales": 2,
+    "total_sales": 0.13
+  },
+  {
+    "console": "X360",
+    "year": 2020,
+    "release_records": 25,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XB",
+    "year": 2001,
+    "release_records": 35,
+    "records_with_sales": 31,
+    "total_sales": 13.17
+  },
+  {
+    "console": "XB",
+    "year": 2002,
+    "release_records": 175,
+    "records_with_sales": 149,
+    "total_sales": 47.44
+  },
+  {
+    "console": "XB",
+    "year": 2003,
+    "release_records": 211,
+    "records_with_sales": 193,
+    "total_sales": 53.45
+  },
+  {
+    "console": "XB",
+    "year": 2004,
+    "release_records": 188,
+    "records_with_sales": 168,
+    "total_sales": 52.23
+  },
+  {
+    "console": "XB",
+    "year": 2005,
+    "release_records": 219,
+    "records_with_sales": 193,
+    "total_sales": 50.28
+  },
+  {
+    "console": "XB",
+    "year": 2006,
+    "release_records": 109,
+    "records_with_sales": 78,
+    "total_sales": 10.59
+  },
+  {
+    "console": "XB",
+    "year": 2007,
+    "release_records": 7,
+    "records_with_sales": 3,
+    "total_sales": 0.5499999999999999
+  },
+  {
+    "console": "XB",
+    "year": 2008,
+    "release_records": 2,
+    "records_with_sales": 2,
+    "total_sales": 0.24
+  },
+  {
+    "console": "XBL",
+    "year": 2002,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XBL",
+    "year": 2005,
+    "release_records": 15,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XBL",
+    "year": 2006,
+    "release_records": 25,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XBL",
+    "year": 2007,
+    "release_records": 80,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XBL",
+    "year": 2008,
+    "release_records": 201,
+    "records_with_sales": 3,
+    "total_sales": 0.15
+  },
+  {
+    "console": "XBL",
+    "year": 2009,
+    "release_records": 839,
+    "records_with_sales": 2,
+    "total_sales": 0.0
+  },
+  {
+    "console": "XBL",
+    "year": 2010,
+    "release_records": 335,
+    "records_with_sales": 1,
+    "total_sales": 0.0
+  },
+  {
+    "console": "XBL",
+    "year": 2011,
+    "release_records": 413,
+    "records_with_sales": 2,
+    "total_sales": 0.05
+  },
+  {
+    "console": "XBL",
+    "year": 2012,
+    "release_records": 16,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XBL",
+    "year": 2013,
+    "release_records": 6,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XBL",
+    "year": 2014,
+    "release_records": 6,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XBL",
+    "year": 2020,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XOne",
+    "year": 2013,
+    "release_records": 28,
+    "records_with_sales": 16,
+    "total_sales": 16.93
+  },
+  {
+    "console": "XOne",
+    "year": 2014,
+    "release_records": 91,
+    "records_with_sales": 59,
+    "total_sales": 61.39
+  },
+  {
+    "console": "XOne",
+    "year": 2015,
+    "release_records": 155,
+    "records_with_sales": 82,
+    "total_sales": 52.99
+  },
+  {
+    "console": "XOne",
+    "year": 2016,
+    "release_records": 163,
+    "records_with_sales": 97,
+    "total_sales": 52.28
+  },
+  {
+    "console": "XOne",
+    "year": 2017,
+    "release_records": 226,
+    "records_with_sales": 136,
+    "total_sales": 46.75
+  },
+  {
+    "console": "XOne",
+    "year": 2018,
+    "release_records": 222,
+    "records_with_sales": 131,
+    "total_sales": 38.06
+  },
+  {
+    "console": "XOne",
+    "year": 2019,
+    "release_records": 187,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XOne",
+    "year": 2020,
+    "release_records": 204,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XOne",
+    "year": 2021,
+    "release_records": 38,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XOne",
+    "year": 2022,
+    "release_records": 11,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XOne",
+    "year": 2023,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XOne",
+    "year": 2024,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XS",
+    "year": 2020,
+    "release_records": 42,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XS",
+    "year": 2021,
+    "release_records": 50,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XS",
+    "year": 2022,
+    "release_records": 10,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XS",
+    "year": 2023,
+    "release_records": 10,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "XS",
+    "year": 2024,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ZXS",
+    "year": 1984,
+    "release_records": 3,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ZXS",
+    "year": 1985,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ZXS",
+    "year": 1987,
+    "release_records": 4,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ZXS",
+    "year": 1988,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ZXS",
+    "year": 1989,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ZXS",
+    "year": 1990,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ZXS",
+    "year": 1991,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "ZXS",
+    "year": 2014,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "iOS",
+    "year": 2010,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "iOS",
+    "year": 2011,
+    "release_records": 2,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "iOS",
+    "year": 2012,
+    "release_records": 1,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "iOS",
+    "year": 2013,
+    "release_records": 13,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "iOS",
+    "year": 2014,
+    "release_records": 6,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "iOS",
+    "year": 2015,
+    "release_records": 6,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "iOS",
+    "year": 2016,
+    "release_records": 6,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "iOS",
+    "year": 2017,
+    "release_records": 5,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "iOS",
+    "year": 2018,
+    "release_records": 7,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "iOS",
+    "year": 2019,
+    "release_records": 10,
+    "records_with_sales": 0,
+    "total_sales": null
+  },
+  {
+    "console": "iOS",
+    "year": 2020,
+    "release_records": 12,
+    "records_with_sales": 0,
+    "total_sales": null
+  }
+]
